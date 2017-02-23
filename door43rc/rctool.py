@@ -1,6 +1,5 @@
 from .ResourceContainer import Rc
 import os
-import json
 import yaml
 current_version = '0.2'
 
