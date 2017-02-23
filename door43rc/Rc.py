@@ -1,59 +1,96 @@
+from .ResourceContainer import Rc
 import os
+import json
 import yaml
+current_version = '0.2'
 
 
-class Rc:
-    def __init__(self, directory):
-        """
-        :param string directory:
-        """
-        self.dir = directory
-        self.manifest = yaml.load(open(os.path.join(directory, 'manifest.yaml')))
+def load(path, strict=True):
+    rc = Rc(path)
 
-        dublin_core = self.manifest['dublin_core']
+    if strict is False:
+        return rc
+    else:
+        if rc.manifest is None or rc.conforms_to is None:
+            raise Exception('Not a resource container')
 
-        self.language = dublin_core['language']
-        self.resource = dublin_core
-        self.conformsTo = dublin_core['conformsto'].replace('rc', '') if type(dublin_core['conformsto']) is str else None
+        if rc.conforms_to != current_version:
+            raise Exception('Unsupported resource container version. Found ' + rc.conformsTo + ' but expected ' + current_version)
 
-        if type(self.dir) is not str:
-            raise Exception('Missing string parameter: dir')
+        return rc
 
-    def project(self, identifier=None):
-        """
-        Retrieves a project from the RC.
 
-        You can exclude the parameter if the RC only has one project.
+def create(path, manifest):
+    if os.path.isdir(path):
+        raise Exception('Resource container already exists')
 
-        :param identifier:
-        :return:
-        """
-        if identifier:
-            for p in self.manifest['projects']:
-                if p['identifier'] == identifier:
-                    return p
-        else:
-            if len(self.manifest['projects']) == 1:
-                return self.manifest['projects'][0]
-            elif len(self.manifest['projects']) > 1:
-                raise Exception('Multiple projects found. Specify the project identifier.')
+    defaults = {
+        'dublin_core': {
+            'type': '',
+            'conformsto': 'rc' + current_version,
+            'format': '',
+            'identifier': '',
+            'title': '',
+            'subject': '',
+            'description': '',
+            'language': {
+                'identifier': '',
+                'title': '',
+                'direction': ''
+            },
+            'source': [],
+            'rights': '',
+            'creator': '',
+            'contributor': [],
+            'relation': [],
+            'publisher': '',
+            'issued': '',
+            'modified': '',
+            'version': ''
+        },
+        'checking': {
+            'checking_entity': [],
+            'checking_level': ''
+        },
+        'projects': []
+    }
 
-    def project_count(self):
-        return len(self.manifest['projects'])
+    if 'type' not in manifest['dublin_core']:
+        raise Exception('Missing required key: dublin_core.type')
 
-    def chapters(self, identifier=None):
-        """
-        Returns an array of chapters in this resource container.
+    if 'format' not in manifest['dublin_core']:
+        raise Exception('Missing required key: dublin_core.format')
 
-        You can exclude the parameter if this RC only has one project.
+    if 'identifier' not in manifest['dublin_core']:
+        raise Exception('Missing required key: dublin_core.identifier')
 
-        :param identifier: The project identifier
-        :return array:
-        """
-        p = self.project(identifier)
-        if p is None:
-            return []
-        else:
-            directory = os.path.join(self.dir, p['path'])
-            for root, dirs, files in os.walk(directory):
-                return dirs
+    if 'language' not in manifest['dublin_core']:
+        raise Exception('Missing required key: dublin_core.language')
+
+    if 'rights' not in manifest['dublin_core']:
+        raise Exception('Missing required key: dublin_core.rights')
+
+    if 'checking' not in manifest:
+        manifest['checking'] = {}
+
+    if 'projects' not in manifest:
+        manifest['projects'] = []
+
+    opts = {
+        'dublin_core': {**defaults['dublin_core'], **manifest['dublin_core']},
+        'checking': {**defaults['checking'], **manifest['checking']},
+        'projects': defaults['projects'] + manifest['projects']
+    }
+
+    if not os.path.isdir(path):
+        os.makedirs(path)
+
+    manifest_file = open(os.path.join(path, 'manifest.yaml'), 'w')
+    manifest_file.write(yaml.dump(opts, default_flow_style=False))
+
+    return Rc(path)
+
+
+@property
+def conforms_to():
+    return current_version
