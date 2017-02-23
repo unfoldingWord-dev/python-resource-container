@@ -56,7 +56,7 @@ If you need to look at an RC regardless of it's validity
 you can disable strict mode by passing in `False`.
 
 ```python
-rc = Rc.load('/invalid/rd/dir', False)
+rc = rctool.load('/invalid/rd/dir', False)
 # do stuff with the invalid rc
 ```
 
@@ -73,6 +73,6 @@ manifest = {
     ...
 }
 
-rc = Rc.create('/my/rc/dir/', manifest)
+rc = rctool.create('/my/rc/dir/', manifest)
 # do stuff with your new rc
 ```
