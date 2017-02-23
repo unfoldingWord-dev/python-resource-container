@@ -1,7 +1,7 @@
-from door43rc import Rc
+from door43rc import rctool
 from unittest import TestCase
 
-rc = Rc.load('/Users/jeremymlane/Development/NeutrinoGraphics/projects/en-obs')
+rc = rctool.load('/Users/jeremymlane/Development/NeutrinoGraphics/projects/en-obs')
 
 class TestResourceContainer(TestCase):
 
@@ -48,7 +48,7 @@ class TestResourceContainer(TestCase):
         assert rc.read_chunk('test', 'test') is None
 
     def test_create_resource_container(self):
-        Rc.create('/Users/jeremymlane/Development/NeutrinoGraphics/projects/en-obs-test', {
+        container = rctool.create('/Users/jeremymlane/Development/NeutrinoGraphics/projects/en-obs-test', {
             'dublin_core': {
                 'type': 'book',
                 'format': 'text/markdown',
@@ -61,3 +61,4 @@ class TestResourceContainer(TestCase):
                 'rights': 'CC BY-SA 4.0'
             }
         })
+        assert container.conforms_to == '0.2'

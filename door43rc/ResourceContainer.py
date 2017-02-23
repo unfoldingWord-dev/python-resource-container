@@ -76,6 +76,7 @@ class Rc:
             elif len(self.manifest['projects']) > 1:
                 raise Exception('Multiple projects found. Specify the project identifier.')
 
+    @property
     def project_count(self):
         return len(self.manifest['projects'])
 
@@ -145,6 +146,8 @@ class Rc:
             os.makedirs(directory_path)
         file = open(file_path, 'w')
         file.write(content)
+        file.flush()
+        os.fsync(file)
 
     def delete_chunk(self, project_identifier, chapter_identifier, chunk_identifier=None):
         if chunk_identifier is None:

@@ -87,8 +87,11 @@ def create(path, manifest):
 
     manifest_file = open(os.path.join(path, 'manifest.yaml'), 'w')
     manifest_file.write(yaml.dump(opts, default_flow_style=False))
+    manifest_file.flush()
+    os.fsync(manifest_file)
 
-    return Rc(path)
+    rc = load(path)
+    return rc
 
 
 @property
