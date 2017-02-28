@@ -28,19 +28,19 @@ class TestResourceContainer(TestCase):
         assert rc.read_chunk('test', 'test') == my_chunk
         rc.delete_chunk('test', 'test')
         assert rc.read_chunk('test', 'test') is None
-    #
-    # def test_create_resource_container(self):
-    #     container = factory.create('/Users/jeremymlane/Development/NeutrinoGraphics/projects/en-obs-test', {
-    #         'dublin_core': {
-    #             'type': 'book',
-    #             'format': 'text/markdown',
-    #             'identifier': 'obs',
-    #             'language': {
-    #                 'direction': 'ltr',
-    #                 'identifier': 'en',
-    #                 'title': 'English'
-    #             },
-    #             'rights': 'CC BY-SA 4.0'
-    #         }
-    #     })
-    #     assert container.conforms_to == '0.2'
+
+    def test_create_resource_container(self):
+        container = factory.create('/Users/jeremymlane/Development/NeutrinoGraphics/projects/en-obs-test', {
+            'dublin_core': {
+                'type': 'book',
+                'format': 'text/markdown',
+                'identifier': 'obs',
+                'language': {
+                    'direction': 'ltr',
+                    'identifier': 'en',
+                    'title': 'English'
+                },
+                'rights': 'CC BY-SA 4.0'
+            }
+        })
+        assert container.conforms_to == '0.2'
