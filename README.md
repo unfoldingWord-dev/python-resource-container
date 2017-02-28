@@ -7,6 +7,9 @@ A Resource Container (RC) is a modular/portable package of translation data.
 ## Installation
 ```pip install -r requirements.txt```
 
+## Running Tests
+
+```python -m unittest discover -s tests```
 
 ## Usage
 To get started you must first load an RC. Then you can read/write as needed.

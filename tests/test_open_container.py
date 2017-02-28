@@ -1,7 +1,9 @@
-from door43rc import rctool
+from lib import factory
 from unittest import TestCase
+import os
 
-rc = rctool.load('/Users/jeremymlane/Development/NeutrinoGraphics/projects/en-obs')
+DATA_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data')
+rc = factory.load('/Users/jeremymlane/Development/NeutrinoGraphics/projects/en-obs')
 
 class TestResourceContainer(TestCase):
 
@@ -13,6 +15,8 @@ class TestResourceContainer(TestCase):
         #assert testing == '123'
 
     def test_open_project(self):
+        dir = os.path.join(DATA_DIR, 'en-obs')
+        rc = factory.load(dir)
         project = rc.project()
         assert project['identifier'] == 'obs'
 
@@ -48,7 +52,7 @@ class TestResourceContainer(TestCase):
         assert rc.read_chunk('test', 'test') is None
 
     def test_create_resource_container(self):
-        container = rctool.create('/Users/jeremymlane/Development/NeutrinoGraphics/projects/en-obs-test', {
+        container = factory.create('/Users/jeremymlane/Development/NeutrinoGraphics/projects/en-obs-test', {
             'dublin_core': {
                 'type': 'book',
                 'format': 'text/markdown',

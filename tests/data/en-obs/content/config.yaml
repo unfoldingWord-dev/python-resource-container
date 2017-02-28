@@ -1,0 +1,6878 @@
+content:
+  '10':
+    '10':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/10/10
+        - /en/obs-tn/obs/help/10/10
+      img:
+        - /en/obs/obs/img/10/10
+    '11':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/egypt
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/10/11
+        - /en/obs-tn/obs/help/10/11
+      img:
+        - /en/obs/obs/img/10/11
+    '12':
+      dict:
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/10/12
+        - /en/obs-tn/obs/help/10/12
+      img:
+        - /en/obs/obs/img/10/12
+    '01':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/aaron
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/10/01
+        - /en/obs-tn/obs/help/10/01
+      img:
+        - /en/obs/obs/img/10/01
+    '02':
+      dict:
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/god
+        - /en/tw/bible/egypt
+        - /en/tw/bible/falsegod
+      help:
+        - /en/obs-tq/obs/help/10/02
+        - /en/obs-tn/obs/help/10/02
+      img:
+        - /en/obs/obs/img/10/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/nileriver
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/10/03
+        - /en/obs-tn/obs/help/10/03
+      img:
+        - /en/obs/obs/img/10/03
+    '04':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/egypt
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/beg
+        - /en/tw/bible/moses
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/10/04
+        - /en/obs-tn/obs/help/10/04
+      img:
+        - /en/obs/obs/img/10/04
+    '05':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/moses
+        - /en/tw/bible/aaron
+        - /en/tw/bible/israel
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/10/05
+        - /en/obs-tn/obs/help/10/05
+      img:
+        - /en/obs/obs/img/10/05
+    '06':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/egypt
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/10/06
+        - /en/obs-tn/obs/help/10/06
+      img:
+        - /en/obs/obs/img/10/06
+    '07':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/moses
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/egypt
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/10/07
+        - /en/obs-tn/obs/help/10/07
+      img:
+        - /en/obs/obs/img/10/07
+    '08':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/egypt
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/moses
+        - /en/tw/bible/aaron
+        - /en/tw/bible/sin
+        - /en/tw/bible/pray
+      help:
+        - /en/obs-tq/obs/help/10/08
+        - /en/obs-tn/obs/help/10/08
+      img:
+        - /en/obs/obs/img/10/08
+    '09':
+      dict:
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/sin
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/10/09
+        - /en/obs-tn/obs/help/10/09
+      img:
+        - /en/obs/obs/img/10/09
+  '11':
+    '01':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/israel
+        - /en/tw/bible/believe
+        - /en/tw/bible/obey
+      help:
+        - /en/obs-tq/obs/help/11/01
+        - /en/obs-tn/obs/help/11/01
+      img:
+        - /en/obs/obs/img/11/01
+    '02':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/save
+        - /en/tw/bible/son
+        - /en/tw/bible/believe
+        - /en/tw/bible/lamb
+      help:
+        - /en/obs-tq/obs/help/11/02
+        - /en/obs-tn/obs/help/11/02
+      img:
+        - /en/obs/obs/img/11/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/lamb
+        - /en/tw/bible/blood
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/11/03
+        - /en/obs-tn/obs/help/11/03
+      img:
+        - /en/obs/obs/img/11/03
+    '04':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/11/04
+        - /en/obs-tn/obs/help/11/04
+      img:
+        - /en/obs/obs/img/11/04
+    '05':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/blood
+        - /en/tw/bible/god
+        - /en/tw/bible/save
+        - /en/tw/bible/lamb
+      help:
+        - /en/obs-tq/obs/help/11/05
+        - /en/obs-tn/obs/help/11/05
+      img:
+        - /en/obs/obs/img/11/05
+    '06':
+      dict:
+        - /en/tw/bible/egypt
+        - /en/tw/bible/believe
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/11/06
+        - /en/obs-tn/obs/help/11/06
+      img:
+        - /en/obs/obs/img/11/06
+    '07':
+      dict:
+        - /en/tw/bible/egypt
+        - /en/tw/bible/pharaoh
+      help:
+        - /en/obs-tq/obs/help/11/07
+        - /en/obs-tn/obs/help/11/07
+      img:
+        - /en/obs/obs/img/11/07
+    '08':
+      dict:
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/moses
+        - /en/tw/bible/aaron
+        - /en/tw/bible/israel
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/11/08
+        - /en/obs-tn/obs/help/11/08
+      img:
+        - /en/obs/obs/img/11/08
+  '12':
+    '10':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+        - /en/tw/bible/egypt
+        - /en/tw/bible/chariot
+      help:
+        - /en/obs-tq/obs/help/12/10
+        - /en/obs-tn/obs/help/12/10
+      img:
+        - /en/obs/obs/img/12/10
+    '11':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+        - /en/tw/bible/moses
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/12/11
+        - /en/obs-tn/obs/help/12/11
+      img:
+        - /en/obs/obs/img/12/11
+    '12':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/egypt
+        - /en/tw/bible/god
+        - /en/tw/bible/believe
+        - /en/tw/bible/moses
+        - /en/tw/bible/prophet
+      help:
+        - /en/obs-tq/obs/help/12/12
+        - /en/obs-tn/obs/help/12/12
+      img:
+        - /en/obs/obs/img/12/12
+    '13':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+        - /en/tw/bible/save
+        - /en/tw/bible/servant
+        - /en/tw/bible/praise
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/12/13
+        - /en/obs-tn/obs/help/12/13
+      img:
+        - /en/obs/obs/img/12/13
+    '14':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/passover
+        - /en/tw/bible/egypt
+        - /en/tw/bible/servant
+        - /en/tw/bible/lamb
+      help:
+        - /en/obs-tq/obs/help/12/14
+        - /en/obs-tn/obs/help/12/14
+      img:
+        - /en/obs/obs/img/12/14
+    '01':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/egypt
+        - /en/tw/bible/servant
+        - /en/tw/bible/promisedland
+        - /en/tw/bible/believe
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/12/01
+        - /en/obs-tn/obs/help/12/01
+      img:
+        - /en/obs/obs/img/12/01
+    '02':
+      dict:
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/12/02
+        - /en/obs-tn/obs/help/12/02
+      img:
+        - /en/obs/obs/img/12/02
+    '03':
+      dict:
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/israel
+        - /en/tw/bible/servant
+        - /en/tw/bible/god
+        - /en/tw/bible/falsegod
+      help:
+        - /en/obs-tq/obs/help/12/03
+        - /en/obs-tn/obs/help/12/03
+      img:
+        - /en/obs/obs/img/12/03
+    '04':
+      dict:
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/israel
+        - /en/tw/bible/servant
+        - /en/tw/bible/egypt
+        - /en/tw/bible/redsea
+      help:
+        - /en/obs-tq/obs/help/12/04
+        - /en/obs-tn/obs/help/12/04
+      img:
+        - /en/obs/obs/img/12/04
+    '05':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+        - /en/tw/bible/save
+        - /en/tw/bible/redsea
+      help:
+        - /en/obs-tq/obs/help/12/05
+        - /en/obs-tn/obs/help/12/05
+      img:
+        - /en/obs/obs/img/12/05
+    '06':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/12/06
+        - /en/obs-tn/obs/help/12/06
+      img:
+        - /en/obs/obs/img/12/06
+    '07':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/moses
+      help:
+        - /en/obs-tq/obs/help/12/07
+        - /en/obs-tn/obs/help/12/07
+      img:
+        - /en/obs/obs/img/12/07
+    '08':
+      dict:
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/12/08
+        - /en/obs-tn/obs/help/12/08
+      img:
+        - /en/obs/obs/img/12/08
+    '09':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/egypt
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/12/09
+        - /en/obs-tn/obs/help/12/09
+      img:
+        - /en/obs/obs/img/12/09
+  '13':
+    '10':
+      dict:
+        - /en/tw/bible/obey
+        - /en/tw/bible/god
+        - /en/tw/bible/worship
+        - /en/tw/bible/promise
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/13/10
+        - /en/obs-tn/obs/help/13/10
+      img:
+        - /en/obs/obs/img/13/10
+    '11':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/sinai
+        - /en/tw/bible/god
+        - /en/tw/bible/aaron
+        - /en/tw/bible/idol
+      help:
+        - /en/obs-tq/obs/help/13/11
+        - /en/obs-tn/obs/help/13/11
+      img:
+        - /en/obs/obs/img/13/11
+    '12':
+      dict:
+        - /en/tw/bible/aaron
+        - /en/tw/bible/idol
+        - /en/tw/bible/worship
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/god
+        - /en/tw/bible/sin
+        - /en/tw/bible/moses
+        - /en/tw/bible/pray
+      help:
+        - /en/obs-tq/obs/help/13/12
+        - /en/obs-tn/obs/help/13/12
+      img:
+        - /en/obs/obs/img/13/12
+    '13':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/idol
+        - /en/tw/bible/god
+        - /en/tw/bible/tencommandments
+      help:
+        - /en/obs-tq/obs/help/13/13
+        - /en/obs-tn/obs/help/13/13
+      img:
+        - /en/obs/obs/img/13/13
+    '14':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/idol
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/13/14
+        - /en/obs-tn/obs/help/13/14
+      img:
+        - /en/obs/obs/img/13/14
+    '15':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/pray
+        - /en/tw/bible/god
+        - /en/tw/bible/forgive
+        - /en/tw/bible/tencommandments
+        - /en/tw/bible/israel
+        - /en/tw/bible/sinai
+        - /en/tw/bible/promisedland
+      help:
+        - /en/obs-tq/obs/help/13/15
+        - /en/obs-tn/obs/help/13/15
+      img:
+        - /en/obs/obs/img/13/15
+    '01':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/redsea
+        - /en/tw/bible/sinai
+        - /en/tw/bible/moses
+      help:
+        - /en/obs-tq/obs/help/13/01
+        - /en/obs-tn/obs/help/13/01
+      img:
+        - /en/obs/obs/img/13/01
+    '02':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/moses
+        - /en/tw/bible/israel
+        - /en/tw/bible/obey
+        - /en/tw/bible/covenant
+        - /en/tw/bible/kingdom
+        - /en/tw/bible/priest
+        - /en/tw/bible/holy
+      help:
+        - /en/obs-tq/obs/help/13/02
+        - /en/obs-tn/obs/help/13/02
+      img:
+        - /en/obs/obs/img/13/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/sinai
+        - /en/tw/bible/moses
+      help:
+        - /en/obs-tq/obs/help/13/03
+        - /en/obs-tn/obs/help/13/03
+      img:
+        - /en/obs/obs/img/13/03
+    '04':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/covenant
+        - /en/tw/bible/yahweh
+        - /en/tw/bible/save
+        - /en/tw/bible/servant
+        - /en/tw/bible/egypt
+        - /en/tw/bible/worship
+        - /en/tw/bible/falsegod
+      help:
+        - /en/obs-tq/obs/help/13/04
+        - /en/obs-tn/obs/help/13/04
+      img:
+        - /en/obs/obs/img/13/04
+    '05':
+      dict:
+        - /en/tw/bible/idol
+        - /en/tw/bible/worship
+        - /en/tw/bible/yahweh
+        - /en/tw/bible/god
+        - /en/tw/bible/sabbath
+        - /en/tw/bible/holy
+      help:
+        - /en/obs-tq/obs/help/13/05
+        - /en/obs-tn/obs/help/13/05
+      img:
+        - /en/obs/obs/img/13/05
+    '06':
+      dict:
+        - /en/tw/bible/adultery
+      help:
+        - /en/obs-tq/obs/help/13/06
+        - /en/obs-tn/obs/help/13/06
+      img:
+        - /en/obs/obs/img/13/06
+    '07':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/tencommandments
+        - /en/tw/bible/moses
+        - /en/tw/bible/lawofmoses
+        - /en/tw/bible/obey
+        - /en/tw/bible/promise
+        - /en/tw/bible/bless
+        - /en/tw/bible/disobey
+        - /en/tw/bible/punish
+      help:
+        - /en/obs-tq/obs/help/13/07
+        - /en/obs-tn/obs/help/13/07
+      img:
+        - /en/obs/obs/img/13/07
+    '08':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/tentofmeeting
+        - /en/tw/bible/highpriest
+      help:
+        - /en/obs-tq/obs/help/13/08
+        - /en/obs-tn/obs/help/13/08
+      img:
+        - /en/obs/obs/img/13/08
+    '09':
+      dict:
+        - /en/tw/bible/disobey
+        - /en/tw/bible/lawofmoses
+        - /en/tw/bible/tentofmeeting
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/god
+        - /en/tw/bible/priest
+        - /en/tw/bible/altar
+        - /en/tw/bible/blood
+        - /en/tw/bible/sin
+        - /en/tw/bible/moses
+        - /en/tw/bible/aaron
+        - /en/tw/bible/descendant
+      help:
+        - /en/obs-tq/obs/help/13/09
+        - /en/obs-tn/obs/help/13/09
+      img:
+        - /en/obs/obs/img/13/09
+  '14':
+    '10':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/canaan
+      help:
+        - /en/obs-tq/obs/help/14/10
+        - /en/obs-tn/obs/help/14/10
+      img:
+        - /en/obs/obs/img/14/10
+    '11':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/14/11
+        - /en/obs-tn/obs/help/14/11
+      img:
+        - /en/obs/obs/img/14/11
+    '12':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/moses
+        - /en/tw/bible/faithful
+        - /en/tw/bible/promise
+        - /en/tw/bible/abraham
+        - /en/tw/bible/isaac
+        - /en/tw/bible/jacob
+      help:
+        - /en/obs-tq/obs/help/14/12
+        - /en/obs-tn/obs/help/14/12
+      img:
+        - /en/obs/obs/img/14/12
+    '13':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/moses
+        - /en/tw/bible/promisedland
+      help:
+        - /en/obs-tq/obs/help/14/13
+        - /en/obs-tn/obs/help/14/13
+      img:
+        - /en/obs/obs/img/14/13
+    '14':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/rebel
+        - /en/tw/bible/god
+        - /en/tw/bible/promisedland
+        - /en/tw/bible/moses
+        - /en/tw/bible/joshua
+        - /en/tw/bible/promise
+        - /en/tw/bible/prophet
+      help:
+        - /en/obs-tq/obs/help/14/14
+        - /en/obs-tn/obs/help/14/14
+      img:
+        - /en/obs/obs/img/14/14
+    '15':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/moses
+        - /en/tw/bible/promisedland
+        - /en/tw/bible/israel
+        - /en/tw/bible/joshua
+        - /en/tw/bible/trust
+        - /en/tw/bible/obey
+      help:
+        - /en/obs-tq/obs/help/14/15
+        - /en/obs-tn/obs/help/14/15
+      img:
+        - /en/obs/obs/img/14/15
+    '01':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/covenant
+        - /en/tw/bible/sinai
+        - /en/tw/bible/promisedland
+        - /en/tw/bible/canaan
+      help:
+        - /en/obs-tq/obs/help/14/01
+        - /en/obs-tn/obs/help/14/01
+      img:
+        - /en/obs/obs/img/14/01
+    '02':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/promise
+        - /en/tw/bible/abraham
+        - /en/tw/bible/isaac
+        - /en/tw/bible/jacob
+        - /en/tw/bible/promisedland
+        - /en/tw/bible/descendant
+        - /en/tw/bible/peoplegroup
+        - /en/tw/bible/canaan
+        - /en/tw/bible/worship
+        - /en/tw/bible/obey
+        - /en/tw/bible/falsegod
+        - /en/tw/bible/evil
+      help:
+        - /en/obs-tq/obs/help/14/02
+        - /en/obs-tn/obs/help/14/02
+      img:
+        - /en/obs/obs/img/14/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/canaan
+        - /en/tw/bible/promisedland
+        - /en/tw/bible/peace
+        - /en/tw/bible/idol
+        - /en/tw/bible/obey
+        - /en/tw/bible/worship
+      help:
+        - /en/obs-tq/obs/help/14/03
+        - /en/obs-tn/obs/help/14/03
+      img:
+        - /en/obs/obs/img/14/03
+    '04':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/canaan
+        - /en/tw/bible/moses
+      help:
+        - /en/obs-tq/obs/help/14/04
+        - /en/obs-tn/obs/help/14/04
+      img:
+        - /en/obs/obs/img/14/04
+    '05':
+      dict:
+        - /en/tw/bible/canaan
+      help:
+        - /en/obs-tq/obs/help/14/05
+        - /en/obs-tn/obs/help/14/05
+      img:
+        - /en/obs/obs/img/14/05
+    '06':
+      dict:
+        - /en/tw/bible/caleb
+        - /en/tw/bible/joshua
+        - /en/tw/bible/canaan
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/14/06
+        - /en/obs-tn/obs/help/14/06
+      img:
+        - /en/obs/obs/img/14/06
+    '07':
+      dict:
+        - /en/tw/bible/caleb
+        - /en/tw/bible/joshua
+        - /en/tw/bible/moses
+        - /en/tw/bible/aaron
+        - /en/tw/bible/egypt
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/14/07
+        - /en/obs-tn/obs/help/14/07
+      img:
+        - /en/obs/obs/img/14/07
+    '08':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/tentofmeeting
+        - /en/tw/bible/joshua
+        - /en/tw/bible/caleb
+        - /en/tw/bible/promisedland
+      help:
+        - /en/obs-tq/obs/help/14/08
+        - /en/obs-tn/obs/help/14/08
+      img:
+        - /en/obs/obs/img/14/08
+    '09':
+      dict:
+        - /en/tw/bible/sin
+        - /en/tw/bible/canaan
+        - /en/tw/bible/moses
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/14/09
+        - /en/obs-tn/obs/help/14/09
+      img:
+        - /en/obs/obs/img/14/09
+  '15':
+    '10':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/amorite
+      help:
+        - /en/obs-tq/obs/help/15/10
+        - /en/obs-tn/obs/help/15/10
+      img:
+        - /en/obs/obs/img/15/10
+    '11':
+      dict:
+        - /en/tw/bible/canaan
+        - /en/tw/bible/israel
+        - /en/tw/bible/joshua
+      help:
+        - /en/obs-tq/obs/help/15/11
+        - /en/obs-tn/obs/help/15/11
+      img:
+        - /en/obs/obs/img/15/11
+    '12':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/promisedland
+        - /en/tw/bible/peace
+      help:
+        - /en/obs-tq/obs/help/15/12
+        - /en/obs-tn/obs/help/15/12
+      img:
+        - /en/obs/obs/img/15/12
+    '13':
+      dict:
+        - /en/tw/bible/joshua
+        - /en/tw/bible/israel
+        - /en/tw/bible/obey
+        - /en/tw/bible/covenant
+        - /en/tw/bible/god
+        - /en/tw/bible/sinai
+        - /en/tw/bible/promise
+        - /en/tw/bible/faithful
+        - /en/tw/bible/lawofmoses
+      help:
+        - /en/obs-tq/obs/help/15/13
+        - /en/obs-tn/obs/help/15/13
+      img:
+        - /en/obs/obs/img/15/13
+    '01':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/canaan
+        - /en/tw/bible/promisedland
+        - /en/tw/bible/joshua
+        - /en/tw/bible/jericho
+        - /en/tw/bible/rahab
+        - /en/tw/bible/believe
+        - /en/tw/bible/god
+        - /en/tw/bible/promise
+      help:
+        - /en/obs-tq/obs/help/15/01
+        - /en/obs-tn/obs/help/15/01
+      img:
+        - /en/obs/obs/img/15/01
+    '02':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/jordanriver
+        - /en/tw/bible/promisedland
+        - /en/tw/bible/god
+        - /en/tw/bible/joshua
+        - /en/tw/bible/priest
+      help:
+        - /en/obs-tq/obs/help/15/02
+        - /en/obs-tn/obs/help/15/02
+      img:
+        - /en/obs/obs/img/15/02
+    '03':
+      dict:
+        - /en/tw/bible/jordanriver
+        - /en/tw/bible/god
+        - /en/tw/bible/joshua
+        - /en/tw/bible/jericho
+        - /en/tw/bible/obey
+        - /en/tw/bible/priest
+      help:
+        - /en/obs-tq/obs/help/15/03
+        - /en/obs-tn/obs/help/15/03
+      img:
+        - /en/obs/obs/img/15/03
+    '04':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/priest
+      help:
+        - /en/obs-tq/obs/help/15/04
+        - /en/obs-tn/obs/help/15/04
+      img:
+        - /en/obs/obs/img/15/04
+    '05':
+      dict:
+        - /en/tw/bible/jericho
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+        - /en/tw/bible/rahab
+        - /en/tw/bible/canaan
+      help:
+        - /en/obs-tq/obs/help/15/05
+        - /en/obs-tn/obs/help/15/05
+      img:
+        - /en/obs/obs/img/15/05
+    '06':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/peace
+        - /en/tw/bible/canaan
+        - /en/tw/bible/gibeon
+        - /en/tw/bible/joshua
+      help:
+        - /en/obs-tq/obs/help/15/06
+        - /en/obs-tn/obs/help/15/06
+      img:
+        - /en/obs/obs/img/15/06
+    '07':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/gibeon
+        - /en/tw/bible/peace
+        - /en/tw/bible/promise
+        - /en/tw/bible/god
+        - /en/tw/bible/king
+        - /en/tw/bible/canaan
+        - /en/tw/bible/amorite
+        - /en/tw/bible/joshua
+      help:
+        - /en/obs-tq/obs/help/15/07
+        - /en/obs-tn/obs/help/15/07
+      img:
+        - /en/obs/obs/img/15/07
+    '08':
+      dict:
+        - /en/tw/bible/joshua
+        - /en/tw/bible/israel
+        - /en/tw/bible/gibeon
+        - /en/tw/bible/amorite
+      help:
+        - /en/obs-tq/obs/help/15/08
+        - /en/obs-tn/obs/help/15/08
+      img:
+        - /en/obs/obs/img/15/08
+    '09':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/amorite
+      help:
+        - /en/obs-tq/obs/help/15/09
+        - /en/obs-tn/obs/help/15/09
+      img:
+        - /en/obs/obs/img/15/09
+  '16':
+    '10':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/gideon
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/16/10
+        - /en/obs-tn/obs/help/16/10
+      img:
+        - /en/obs/obs/img/16/10
+    '11':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/gideon
+        - /en/tw/bible/midian
+        - /en/tw/bible/dream
+        - /en/tw/bible/worship
+      help:
+        - /en/obs-tq/obs/help/16/11
+        - /en/obs-tn/obs/help/16/11
+      img:
+        - /en/obs/obs/img/16/11
+    '12':
+      dict:
+        - /en/tw/bible/gideon
+        - /en/tw/bible/midian
+      help:
+        - /en/obs-tq/obs/help/16/12
+        - /en/obs-tn/obs/help/16/12
+      img:
+        - /en/obs/obs/img/16/12
+    '13':
+      dict:
+        - /en/tw/bible/gideon
+        - /en/tw/bible/yahweh
+      help:
+        - /en/obs-tq/obs/help/16/13
+        - /en/obs-tn/obs/help/16/13
+      img:
+        - /en/obs/obs/img/16/13
+    '14':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/midian
+        - /en/tw/bible/israel
+        - /en/tw/bible/save
+      help:
+        - /en/obs-tq/obs/help/16/14
+        - /en/obs-tn/obs/help/16/14
+      img:
+        - /en/obs/obs/img/16/14
+    '15':
+      dict:
+        - /en/tw/bible/gideon
+        - /en/tw/bible/king
+        - /en/tw/bible/midian
+      help:
+        - /en/obs-tq/obs/help/16/15
+        - /en/obs-tn/obs/help/16/15
+      img:
+        - /en/obs/obs/img/16/15
+    '16':
+      dict:
+        - /en/tw/bible/gideon
+        - /en/tw/bible/highpriest
+        - /en/tw/bible/worship
+        - /en/tw/bible/idol
+        - /en/tw/bible/god
+        - /en/tw/bible/punish
+        - /en/tw/bible/israel
+        - /en/tw/bible/deliverer
+      help:
+        - /en/obs-tq/obs/help/16/16
+        - /en/obs-tn/obs/help/16/16
+      img:
+        - /en/obs/obs/img/16/16
+    '17':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/sin
+        - /en/tw/bible/god
+        - /en/tw/bible/punish
+        - /en/tw/bible/repent
+        - /en/tw/bible/deliverer
+        - /en/tw/bible/save
+      help:
+        - /en/obs-tq/obs/help/16/17
+        - /en/obs-tn/obs/help/16/17
+      img:
+        - /en/obs/obs/img/16/17
+    '18':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/king
+      help:
+        - /en/obs-tq/obs/help/16/18
+        - /en/obs-tn/obs/help/16/18
+      img:
+        - /en/obs/obs/img/16/18
+    '01':
+      dict:
+        - /en/tw/bible/joshua
+        - /en/tw/bible/israel
+        - /en/tw/bible/disobey
+        - /en/tw/bible/god
+        - /en/tw/bible/canaan
+        - /en/tw/bible/obey
+        - /en/tw/bible/lawofmoses
+        - /en/tw/bible/worship
+        - /en/tw/bible/falsegod
+        - /en/tw/bible/yahweh
+        - /en/tw/bible/true
+        - /en/tw/bible/king
+      help:
+        - /en/obs-tq/obs/help/16/01
+        - /en/obs-tn/obs/help/16/01
+      img:
+        - /en/obs/obs/img/16/01
+    '02':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/disobey
+        - /en/tw/bible/god
+        - /en/tw/bible/punish
+        - /en/tw/bible/repent
+      help:
+        - /en/obs-tq/obs/help/16/02
+        - /en/obs-tn/obs/help/16/02
+      img:
+        - /en/obs/obs/img/16/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/deliverer
+        - /en/tw/bible/peace
+        - /en/tw/bible/worship
+        - /en/tw/bible/idol
+        - /en/tw/bible/midian
+      help:
+        - /en/obs-tq/obs/help/16/03
+        - /en/obs-tn/obs/help/16/03
+      img:
+        - /en/obs/obs/img/16/03
+    '04':
+      dict:
+        - /en/tw/bible/midian
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+        - /en/tw/bible/save
+      help:
+        - /en/obs-tq/obs/help/16/04
+        - /en/obs-tn/obs/help/16/04
+      img:
+        - /en/obs/obs/img/16/04
+    '05':
+      dict:
+        - /en/tw/bible/gideon
+        - /en/tw/bible/midian
+        - /en/tw/bible/angel
+        - /en/tw/bible/yahweh
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/16/05
+        - /en/obs-tn/obs/help/16/05
+      img:
+        - /en/obs/obs/img/16/05
+    '06':
+      dict:
+        - /en/tw/bible/gideon
+        - /en/tw/bible/altar
+        - /en/tw/bible/idol
+        - /en/tw/bible/god
+        - /en/tw/bible/sacrifice
+      help:
+        - /en/obs-tq/obs/help/16/06
+        - /en/obs-tn/obs/help/16/06
+      img:
+        - /en/obs/obs/img/16/06
+    '07':
+      dict:
+        - /en/tw/bible/altar
+        - /en/tw/bible/gideon
+        - /en/tw/bible/falsegod
+      help:
+        - /en/obs-tq/obs/help/16/07
+        - /en/obs-tn/obs/help/16/07
+      img:
+        - /en/obs/obs/img/16/07
+    '08':
+      dict:
+        - /en/tw/bible/midian
+        - /en/tw/bible/israel
+        - /en/tw/bible/gideon
+        - /en/tw/bible/god
+        - /en/tw/bible/save
+      help:
+        - /en/obs-tq/obs/help/16/08
+        - /en/obs-tn/obs/help/16/08
+      img:
+        - /en/obs/obs/img/16/08
+    '09':
+      dict:
+        - /en/tw/bible/gideon
+        - /en/tw/bible/sheep
+        - /en/tw/bible/god
+        - /en/tw/bible/save
+        - /en/tw/bible/israel
+        - /en/tw/bible/midian
+      help:
+        - /en/obs-tq/obs/help/16/09
+        - /en/obs-tn/obs/help/16/09
+      img:
+        - /en/obs/obs/img/16/09
+  '17':
+    '10':
+      dict:
+        - /en/tw/bible/david
+        - /en/tw/bible/bathsheba
+      help:
+        - /en/obs-tq/obs/help/17/10
+        - /en/obs-tn/obs/help/17/10
+      img:
+        - /en/obs/obs/img/17/10
+    '11':
+      dict:
+        - /en/tw/bible/david
+        - /en/tw/bible/bathsheba
+      help:
+        - /en/obs-tq/obs/help/17/11
+        - /en/obs-tn/obs/help/17/11
+      img:
+        - /en/obs/obs/img/17/11
+    '12':
+      dict:
+        - /en/tw/bible/bathsheba
+        - /en/tw/bible/uriah
+        - /en/tw/bible/david
+      help:
+        - /en/obs-tq/obs/help/17/12
+        - /en/obs-tn/obs/help/17/12
+      img:
+        - /en/obs/obs/img/17/12
+    '13':
+      dict:
+        - /en/tw/bible/uriah
+        - /en/tw/bible/david
+        - /en/tw/bible/bathsheba
+        - /en/tw/bible/god
+        - /en/tw/bible/prophet
+        - /en/tw/bible/nathan
+        - /en/tw/bible/evil
+        - /en/tw/bible/sin
+        - /en/tw/bible/repent
+        - /en/tw/bible/forgive
+        - /en/tw/bible/obey
+      help:
+        - /en/obs-tq/obs/help/17/13
+        - /en/obs-tn/obs/help/17/13
+      img:
+        - /en/obs/obs/img/17/13
+    '14':
+      dict:
+        - /en/tw/bible/punish
+        - /en/tw/bible/david
+        - /en/tw/bible/sin
+        - /en/tw/bible/god
+        - /en/tw/bible/faithful
+        - /en/tw/bible/promise
+        - /en/tw/bible/bathsheba
+        - /en/tw/bible/solomon
+      help:
+        - /en/obs-tq/obs/help/17/14
+        - /en/obs-tn/obs/help/17/14
+      img:
+        - /en/obs/obs/img/17/14
+    '01':
+      dict:
+        - /en/tw/bible/saul
+        - /en/tw/bible/king
+        - /en/tw/bible/israel
+        - /en/tw/bible/obey
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/17/01
+        - /en/obs-tn/obs/help/17/01
+      img:
+        - /en/obs/obs/img/17/01
+    '02':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/david
+        - /en/tw/bible/king
+        - /en/tw/bible/saul
+        - /en/tw/bible/shepherd
+        - /en/tw/bible/bethlehem
+        - /en/tw/bible/sheep
+        - /en/tw/bible/humble
+        - /en/tw/bible/righteous
+        - /en/tw/bible/trust
+        - /en/tw/bible/obey
+      help:
+        - /en/obs-tq/obs/help/17/02
+        - /en/obs-tn/obs/help/17/02
+      img:
+        - /en/obs/obs/img/17/02
+    '03':
+      dict:
+        - /en/tw/bible/david
+        - /en/tw/bible/god
+        - /en/tw/bible/israel
+        - /en/tw/bible/praise
+      help:
+        - /en/obs-tq/obs/help/17/03
+        - /en/obs-tn/obs/help/17/03
+      img:
+        - /en/obs/obs/img/17/03
+    '04':
+      dict:
+        - /en/tw/bible/saul
+        - /en/tw/bible/love
+        - /en/tw/bible/david
+        - /en/tw/bible/king
+      help:
+        - /en/obs-tq/obs/help/17/04
+        - /en/obs-tn/obs/help/17/04
+      img:
+        - /en/obs/obs/img/17/04
+    '05':
+      dict:
+        - /en/tw/bible/saul
+        - /en/tw/bible/david
+        - /en/tw/bible/king
+        - /en/tw/bible/israel
+        - /en/tw/bible/love
+        - /en/tw/bible/god
+        - /en/tw/bible/bless
+        - /en/tw/bible/jerusalem
+      help:
+        - /en/obs-tq/obs/help/17/05
+        - /en/obs-tn/obs/help/17/05
+      img:
+        - /en/obs/obs/img/17/05
+    '06':
+      dict:
+        - /en/tw/bible/david
+        - /en/tw/bible/temple
+        - /en/tw/bible/israel
+        - /en/tw/bible/worship
+        - /en/tw/bible/god
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/tentofmeeting
+        - /en/tw/bible/moses
+      help:
+        - /en/obs-tq/obs/help/17/06
+        - /en/obs-tn/obs/help/17/06
+      img:
+        - /en/obs/obs/img/17/06
+    '07':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/prophet
+        - /en/tw/bible/nathan
+        - /en/tw/bible/david
+        - /en/tw/bible/temple
+        - /en/tw/bible/son
+        - /en/tw/bible/bless
+        - /en/tw/bible/king
+        - /en/tw/bible/israel
+        - /en/tw/bible/christ
+        - /en/tw/bible/descendant
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/17/07
+        - /en/obs-tn/obs/help/17/07
+      img:
+        - /en/obs/obs/img/17/07
+    '08':
+      dict:
+        - /en/tw/bible/david
+        - /en/tw/bible/praise
+        - /en/tw/bible/god
+        - /en/tw/bible/promise
+        - /en/tw/bible/bless
+        - /en/tw/bible/israel
+        - /en/tw/bible/christ
+      help:
+        - /en/obs-tq/obs/help/17/08
+        - /en/obs-tn/obs/help/17/08
+      img:
+        - /en/obs/obs/img/17/08
+    '09':
+      dict:
+        - /en/tw/bible/david
+        - /en/tw/bible/justice
+        - /en/tw/bible/faithful
+        - /en/tw/bible/god
+        - /en/tw/bible/bless
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/17/09
+        - /en/obs-tn/obs/help/17/09
+      img:
+        - /en/obs/obs/img/17/09
+  '18':
+    '10':
+      dict:
+        - /en/tw/bible/kingdom
+        - /en/tw/bible/kingdomofjudah
+        - /en/tw/bible/kingdomofisrael
+      help:
+        - /en/obs-tq/obs/help/18/10
+        - /en/obs-tn/obs/help/18/10
+      img:
+        - /en/obs/obs/img/18/10
+    '11':
+      dict:
+        - /en/tw/bible/kingdom
+        - /en/tw/bible/israel
+        - /en/tw/bible/king
+        - /en/tw/bible/evil
+      help:
+        - /en/obs-tq/obs/help/18/11
+        - /en/obs-tn/obs/help/18/11
+      img:
+        - /en/obs/obs/img/18/11
+    '12':
+      dict:
+        - /en/tw/bible/king
+        - /en/tw/bible/kingdomofisrael
+        - /en/tw/bible/worship
+        - /en/tw/bible/idol
+        - /en/tw/bible/sacrifice
+      help:
+        - /en/obs-tq/obs/help/18/12
+        - /en/obs-tn/obs/help/18/12
+      img:
+        - /en/obs/obs/img/18/12
+    '13':
+      dict:
+        - /en/tw/bible/king
+        - /en/tw/bible/kingdomofjudah
+        - /en/tw/bible/descendant
+        - /en/tw/bible/david
+        - /en/tw/bible/good
+        - /en/tw/bible/justice
+        - /en/tw/bible/worship
+        - /en/tw/bible/god
+        - /en/tw/bible/evil
+        - /en/tw/bible/idol
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/falsegod
+        - /en/tw/bible/rebel
+      help:
+        - /en/obs-tq/obs/help/18/13
+        - /en/obs-tn/obs/help/18/13
+      img:
+        - /en/obs/obs/img/18/13
+    '01':
+      dict:
+        - /en/tw/bible/david
+        - /en/tw/bible/solomon
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+        - /en/tw/bible/wise
+        - /en/tw/bible/judge
+      help:
+        - /en/obs-tq/obs/help/18/01
+        - /en/obs-tn/obs/help/18/01
+      img:
+        - /en/obs/obs/img/18/01
+    '02':
+      dict:
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/solomon
+        - /en/tw/bible/temple
+        - /en/tw/bible/david
+        - /en/tw/bible/worship
+        - /en/tw/bible/god
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/tentofmeeting
+      help:
+        - /en/obs-tq/obs/help/18/02
+        - /en/obs-tn/obs/help/18/02
+      img:
+        - /en/obs/obs/img/18/02
+    '03':
+      dict:
+        - /en/tw/bible/solomon
+        - /en/tw/bible/disobey
+        - /en/tw/bible/god
+        - /en/tw/bible/falsegod
+        - /en/tw/bible/worship
+      help:
+        - /en/obs-tq/obs/help/18/03
+        - /en/obs-tn/obs/help/18/03
+      img:
+        - /en/obs/obs/img/18/03
+    '04':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/solomon
+        - /en/tw/bible/punish
+        - /en/tw/bible/promise
+        - /en/tw/bible/israel
+        - /en/tw/bible/kingdom
+      help:
+        - /en/obs-tq/obs/help/18/04
+        - /en/obs-tn/obs/help/18/04
+      img:
+        - /en/obs/obs/img/18/04
+    '05':
+      dict:
+        - /en/tw/bible/solomon
+        - /en/tw/bible/rehoboam
+        - /en/tw/bible/king
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/18/05
+        - /en/obs-tn/obs/help/18/05
+      img:
+        - /en/obs/obs/img/18/05
+    '06':
+      dict:
+        - /en/tw/bible/rehoboam
+        - /en/tw/bible/solomon
+        - /en/tw/bible/punish
+      help:
+        - /en/obs-tq/obs/help/18/06
+        - /en/obs-tn/obs/help/18/06
+      img:
+        - /en/obs/obs/img/18/06
+    '07':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/rebel
+        - /en/tw/bible/rehoboam
+        - /en/tw/bible/faithful
+        - /en/tw/bible/kingdomofjudah
+      help:
+        - /en/obs-tq/obs/help/18/07
+        - /en/obs-tn/obs/help/18/07
+      img:
+        - /en/obs/obs/img/18/07
+    '08':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/rehoboam
+        - /en/tw/bible/jeroboam
+        - /en/tw/bible/king
+        - /en/tw/bible/kingdom
+        - /en/tw/bible/kingdomofisrael
+      help:
+        - /en/obs-tq/obs/help/18/08
+        - /en/obs-tn/obs/help/18/08
+      img:
+        - /en/obs/obs/img/18/08
+    '09':
+      dict:
+        - /en/tw/bible/jeroboam
+        - /en/tw/bible/rebel
+        - /en/tw/bible/god
+        - /en/tw/bible/sin
+        - /en/tw/bible/idol
+        - /en/tw/bible/worship
+        - /en/tw/bible/temple
+        - /en/tw/bible/kingdomofjudah
+      help:
+        - /en/obs-tq/obs/help/18/09
+        - /en/obs-tn/obs/help/18/09
+      img:
+        - /en/obs/obs/img/18/09
+  '19':
+    '10':
+      dict:
+        - /en/tw/bible/elijah
+        - /en/tw/bible/pray
+        - /en/tw/bible/yahweh
+        - /en/tw/bible/god
+        - /en/tw/bible/abraham
+        - /en/tw/bible/isaac
+        - /en/tw/bible/jacob
+        - /en/tw/bible/israel
+        - /en/tw/bible/servant
+        - /en/tw/bible/true
+      help:
+        - /en/obs-tq/obs/help/19/10
+        - /en/obs-tn/obs/help/19/10
+      img:
+        - /en/obs/obs/img/19/10
+    '11':
+      dict:
+        - /en/tw/bible/altar
+        - /en/tw/bible/yahweh
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/19/11
+        - /en/obs-tn/obs/help/19/11
+      img:
+        - /en/obs/obs/img/19/11
+    '12':
+      dict:
+        - /en/tw/bible/elijah
+        - /en/tw/bible/prophet
+        - /en/tw/bible/baal
+      help:
+        - /en/obs-tq/obs/help/19/12
+        - /en/obs-tn/obs/help/19/12
+      img:
+        - /en/obs/obs/img/19/12
+    '13':
+      dict:
+        - /en/tw/bible/elijah
+        - /en/tw/bible/king
+        - /en/tw/bible/ahab
+        - /en/tw/bible/yahweh
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/19/13
+        - /en/obs-tn/obs/help/19/13
+      img:
+        - /en/obs/obs/img/19/13
+    '14':
+      dict:
+        - /en/tw/bible/elijah
+        - /en/tw/bible/god
+        - /en/tw/bible/prophet
+        - /en/tw/bible/miracle
+        - /en/tw/bible/naaman
+        - /en/tw/bible/heal
+        - /en/tw/bible/jordanriver
+      help:
+        - /en/obs-tq/obs/help/19/14
+        - /en/obs-tn/obs/help/19/14
+      img:
+        - /en/obs/obs/img/19/14
+    '15':
+      dict:
+        - /en/tw/bible/naaman
+        - /en/tw/bible/jordanriver
+        - /en/tw/bible/heal
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/19/15
+        - /en/obs-tn/obs/help/19/15
+      img:
+        - /en/obs/obs/img/19/15
+    '16':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/prophet
+        - /en/tw/bible/worship
+        - /en/tw/bible/idol
+        - /en/tw/bible/justice
+        - /en/tw/bible/mercy
+        - /en/tw/bible/evil
+        - /en/tw/bible/obey
+        - /en/tw/bible/judge
+        - /en/tw/bible/guilt
+        - /en/tw/bible/punish
+      help:
+        - /en/obs-tq/obs/help/19/16
+        - /en/obs-tn/obs/help/19/16
+      img:
+        - /en/obs/obs/img/19/16
+    '17':
+      dict:
+        - /en/tw/bible/obey
+        - /en/tw/bible/god
+        - /en/tw/bible/prophet
+        - /en/tw/bible/jeremiah
+        - /en/tw/bible/king
+        - /en/tw/bible/mercy
+      help:
+        - /en/obs-tq/obs/help/19/17
+        - /en/obs-tn/obs/help/19/17
+      img:
+        - /en/obs/obs/img/19/17
+    '18':
+      dict:
+        - /en/tw/bible/prophet
+        - /en/tw/bible/god
+        - /en/tw/bible/repent
+        - /en/tw/bible/promise
+        - /en/tw/bible/christ
+      help:
+        - /en/obs-tq/obs/help/19/18
+        - /en/obs-tn/obs/help/19/18
+      img:
+        - /en/obs/obs/img/19/18
+    '01':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+        - /en/tw/bible/prophet
+      help:
+        - /en/obs-tq/obs/help/19/01
+        - /en/obs-tn/obs/help/19/01
+      img:
+        - /en/obs/obs/img/19/01
+    '02':
+      dict:
+        - /en/tw/bible/elijah
+        - /en/tw/bible/prophet
+        - /en/tw/bible/ahab
+        - /en/tw/bible/king
+        - /en/tw/bible/kingdomofisrael
+        - /en/tw/bible/evil
+        - /en/tw/bible/worship
+        - /en/tw/bible/falsegod
+        - /en/tw/bible/baal
+      help:
+        - /en/obs-tq/obs/help/19/02
+        - /en/obs-tn/obs/help/19/02
+      img:
+        - /en/obs/obs/img/19/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/elijah
+        - /en/tw/bible/ahab
+      help:
+        - /en/obs-tq/obs/help/19/03
+        - /en/obs-tn/obs/help/19/03
+      img:
+        - /en/obs/obs/img/19/03
+    '04':
+      dict:
+        - /en/tw/bible/elijah
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/19/04
+        - /en/obs-tn/obs/help/19/04
+      img:
+        - /en/obs/obs/img/19/04
+    '05':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/elijah
+        - /en/tw/bible/kingdomofisrael
+        - /en/tw/bible/ahab
+        - /en/tw/bible/yahweh
+        - /en/tw/bible/worship
+        - /en/tw/bible/baal
+      help:
+        - /en/obs-tq/obs/help/19/05
+        - /en/obs-tn/obs/help/19/05
+      img:
+        - /en/obs/obs/img/19/05
+    '06':
+      dict:
+        - /en/tw/bible/kingdomofisrael
+        - /en/tw/bible/prophet
+        - /en/tw/bible/baal
+        - /en/tw/bible/elijah
+        - /en/tw/bible/yahweh
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/19/06
+        - /en/obs-tn/obs/help/19/06
+      img:
+        - /en/obs/obs/img/19/06
+    '07':
+      dict:
+        - /en/tw/bible/elijah
+        - /en/tw/bible/prophet
+        - /en/tw/bible/baal
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/god
+        - /en/tw/bible/priest
+      help:
+        - /en/obs-tq/obs/help/19/07
+        - /en/obs-tn/obs/help/19/07
+      img:
+        - /en/obs/obs/img/19/07
+    '08':
+      dict:
+        - /en/tw/bible/prophet
+        - /en/tw/bible/baal
+        - /en/tw/bible/pray
+      help:
+        - /en/obs-tq/obs/help/19/08
+        - /en/obs-tn/obs/help/19/08
+      img:
+        - /en/obs/obs/img/19/08
+    '09':
+      dict:
+        - /en/tw/bible/elijah
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/god
+        - /en/tw/bible/altar
+      help:
+        - /en/obs-tq/obs/help/19/09
+        - /en/obs-tn/obs/help/19/09
+      img:
+        - /en/obs/obs/img/19/09
+  '20':
+    '10':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/punish
+        - /en/tw/bible/sin
+        - /en/tw/bible/promise
+        - /en/tw/bible/prophet
+        - /en/tw/bible/promisedland
+      help:
+        - /en/obs-tq/obs/help/20/10
+        - /en/obs-tn/obs/help/20/10
+      img:
+        - /en/obs/obs/img/20/10
+    '11':
+      dict:
+        - /en/tw/bible/king
+        - /en/tw/bible/babylon
+        - /en/tw/bible/israel
+        - /en/tw/bible/jew
+      help:
+        - /en/obs-tq/obs/help/20/11
+        - /en/obs-tn/obs/help/20/11
+      img:
+        - /en/obs/obs/img/20/11
+    '12':
+      dict:
+        - /en/tw/bible/mercy
+        - /en/tw/bible/jew
+        - /en/tw/bible/temple
+        - /en/tw/bible/jerusalem
+      help:
+        - /en/obs-tq/obs/help/20/12
+        - /en/obs-tn/obs/help/20/12
+      img:
+        - /en/obs/obs/img/20/12
+    '13':
+      dict:
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/temple
+        - /en/tw/bible/promisedland
+        - /en/tw/bible/worship
+      help:
+        - /en/obs-tq/obs/help/20/13
+        - /en/obs-tn/obs/help/20/13
+      img:
+        - /en/obs/obs/img/20/13
+    '01':
+      dict:
+        - /en/tw/bible/kingdomofisrael
+        - /en/tw/bible/kingdomofjudah
+        - /en/tw/bible/sin
+        - /en/tw/bible/god
+        - /en/tw/bible/covenant
+        - /en/tw/bible/sinai
+        - /en/tw/bible/prophet
+        - /en/tw/bible/repent
+        - /en/tw/bible/worship
+        - /en/tw/bible/obey
+      help:
+        - /en/obs-tq/obs/help/20/01
+        - /en/obs-tn/obs/help/20/01
+      img:
+        - /en/obs/obs/img/20/01
+    '02':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/punish
+        - /en/tw/bible/assyria
+        - /en/tw/bible/kingdomofisrael
+      help:
+        - /en/obs-tq/obs/help/20/02
+        - /en/obs-tn/obs/help/20/02
+      img:
+        - /en/obs/obs/img/20/02
+    '03':
+      dict:
+        - /en/tw/bible/assyria
+        - /en/tw/bible/israel
+        - /en/tw/bible/kingdomofisrael
+      help:
+        - /en/obs-tq/obs/help/20/03
+        - /en/obs-tn/obs/help/20/03
+      img:
+        - /en/obs/obs/img/20/03
+    '04':
+      dict:
+        - /en/tw/bible/assyria
+        - /en/tw/bible/kingdomofisrael
+        - /en/tw/bible/israel
+        - /en/tw/bible/descendant
+        - /en/tw/bible/samaria
+      help:
+        - /en/obs-tq/obs/help/20/04
+        - /en/obs-tn/obs/help/20/04
+      img:
+        - /en/obs/obs/img/20/04
+    '05':
+      dict:
+        - /en/tw/bible/kingdomofjudah
+        - /en/tw/bible/god
+        - /en/tw/bible/punish
+        - /en/tw/bible/kingdomofisrael
+        - /en/tw/bible/believe
+        - /en/tw/bible/obey
+        - /en/tw/bible/worship
+        - /en/tw/bible/idol
+        - /en/tw/bible/falsegod
+        - /en/tw/bible/canaan
+        - /en/tw/bible/prophet
+      help:
+        - /en/obs-tq/obs/help/20/05
+        - /en/obs-tn/obs/help/20/05
+      img:
+        - /en/obs/obs/img/20/05
+    '06':
+      dict:
+        - /en/tw/bible/assyria
+        - /en/tw/bible/kingdomofisrael
+        - /en/tw/bible/god
+        - /en/tw/bible/nebuchadnezzar
+        - /en/tw/bible/king
+        - /en/tw/bible/babylon
+        - /en/tw/bible/kingdomofjudah
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/20/06
+        - /en/obs-tn/obs/help/20/06
+      img:
+        - /en/obs/obs/img/20/06
+    '07':
+      dict:
+        - /en/tw/bible/kingdomofjudah
+        - /en/tw/bible/rebel
+        - /en/tw/bible/babylon
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/temple
+      help:
+        - /en/obs-tq/obs/help/20/07
+        - /en/obs-tn/obs/help/20/07
+      img:
+        - /en/obs/obs/img/20/07
+    '08':
+      dict:
+        - /en/tw/bible/punish
+        - /en/tw/bible/king
+        - /en/tw/bible/kingdomofjudah
+        - /en/tw/bible/nebuchadnezzar
+        - /en/tw/bible/son
+        - /en/tw/bible/babylon
+      help:
+        - /en/obs-tq/obs/help/20/08
+        - /en/obs-tn/obs/help/20/08
+      img:
+        - /en/obs/obs/img/20/08
+    '09':
+      dict:
+        - /en/tw/bible/nebuchadnezzar
+        - /en/tw/bible/kingdomofjudah
+        - /en/tw/bible/babylon
+        - /en/tw/bible/god
+        - /en/tw/bible/promisedland
+      help:
+        - /en/obs-tq/obs/help/20/09
+        - /en/obs-tn/obs/help/20/09
+      img:
+        - /en/obs/obs/img/20/09
+  '21':
+    '10':
+      dict:
+        - /en/tw/bible/prophet
+        - /en/tw/bible/isaiah
+        - /en/tw/bible/galilee
+        - /en/tw/bible/christ
+        - /en/tw/bible/heal
+      help:
+        - /en/obs-tq/obs/help/21/10
+        - /en/obs-tn/obs/help/21/10
+      img:
+        - /en/obs/obs/img/21/10
+    '11':
+      dict:
+        - /en/tw/bible/prophet
+        - /en/tw/bible/isaiah
+        - /en/tw/bible/christ
+        - /en/tw/bible/betray
+      help:
+        - /en/obs-tq/obs/help/21/11
+        - /en/obs-tn/obs/help/21/11
+      img:
+        - /en/obs/obs/img/21/11
+    '12':
+      dict:
+        - /en/tw/bible/prophet
+        - /en/tw/bible/christ
+        - /en/tw/bible/death
+        - /en/tw/bible/isaiah
+      help:
+        - /en/obs-tq/obs/help/21/12
+        - /en/obs-tn/obs/help/21/12
+      img:
+        - /en/obs/obs/img/21/12
+    '13':
+      dict:
+        - /en/tw/bible/prophet
+        - /en/tw/bible/christ
+        - /en/tw/bible/sin
+        - /en/tw/bible/death
+        - /en/tw/bible/receive
+        - /en/tw/bible/punish
+        - /en/tw/bible/peace
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/21/13
+        - /en/obs-tn/obs/help/21/13
+      img:
+        - /en/obs/obs/img/21/13
+    '14':
+      dict:
+        - /en/tw/bible/prophet
+        - /en/tw/bible/christ
+        - /en/tw/bible/death
+        - /en/tw/bible/god
+        - /en/tw/bible/raise
+        - /en/tw/bible/resurrection
+        - /en/tw/bible/save
+        - /en/tw/bible/sin
+        - /en/tw/bible/newcovenant
+      help:
+        - /en/obs-tq/obs/help/21/14
+        - /en/obs-tn/obs/help/21/14
+      img:
+        - /en/obs/obs/img/21/14
+    '15':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/prophet
+        - /en/tw/bible/christ
+      help:
+        - /en/obs-tq/obs/help/21/15
+        - /en/obs-tn/obs/help/21/15
+      img:
+        - /en/obs/obs/img/21/15
+    '01':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/christ
+        - /en/tw/bible/promise
+        - /en/tw/bible/adam
+        - /en/tw/bible/eve
+        - /en/tw/bible/descendant
+        - /en/tw/bible/satan
+      help:
+        - /en/obs-tq/obs/help/21/01
+        - /en/obs-tn/obs/help/21/01
+      img:
+        - /en/obs/obs/img/21/01
+    '02':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/abraham
+        - /en/tw/bible/peoplegroup
+        - /en/tw/bible/bless
+        - /en/tw/bible/fulfill
+        - /en/tw/bible/christ
+        - /en/tw/bible/save
+      help:
+        - /en/obs-tq/obs/help/21/02
+        - /en/obs-tn/obs/help/21/02
+      img:
+        - /en/obs/obs/img/21/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/promise
+        - /en/tw/bible/moses
+        - /en/tw/bible/prophet
+        - /en/tw/bible/christ
+      help:
+        - /en/obs-tq/obs/help/21/03
+        - /en/obs-tn/obs/help/21/03
+      img:
+        - /en/obs/obs/img/21/03
+    '04':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/promise
+        - /en/tw/bible/david
+        - /en/tw/bible/christ
+        - /en/tw/bible/descendant
+      help:
+        - /en/obs-tq/obs/help/21/04
+        - /en/obs-tn/obs/help/21/04
+      img:
+        - /en/obs/obs/img/21/04
+    '05':
+      dict:
+        - /en/tw/bible/prophet
+        - /en/tw/bible/jeremiah
+        - /en/tw/bible/god
+        - /en/tw/bible/promise
+        - /en/tw/bible/newcovenant
+        - /en/tw/bible/covenant
+        - /en/tw/bible/israel
+        - /en/tw/bible/sinai
+        - /en/tw/bible/forgive
+        - /en/tw/bible/sin
+        - /en/tw/bible/christ
+      help:
+        - /en/obs-tq/obs/help/21/05
+        - /en/obs-tn/obs/help/21/05
+      img:
+        - /en/obs/obs/img/21/05
+    '06':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/prophet
+        - /en/tw/bible/christ
+        - /en/tw/bible/priest
+        - /en/tw/bible/king
+      help:
+        - /en/obs-tq/obs/help/21/06
+        - /en/obs-tn/obs/help/21/06
+      img:
+        - /en/obs/obs/img/21/06
+    '07':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/priest
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/god
+        - /en/tw/bible/punish
+        - /en/tw/bible/sin
+        - /en/tw/bible/pray
+        - /en/tw/bible/christ
+        - /en/tw/bible/highpriest
+      help:
+        - /en/obs-tq/obs/help/21/07
+        - /en/obs-tn/obs/help/21/07
+      img:
+        - /en/obs/obs/img/21/07
+    '08':
+      dict:
+        - /en/tw/bible/king
+        - /en/tw/bible/kingdom
+        - /en/tw/bible/judge
+        - /en/tw/bible/christ
+        - /en/tw/bible/david
+      help:
+        - /en/obs-tq/obs/help/21/08
+        - /en/obs-tn/obs/help/21/08
+      img:
+        - /en/obs/obs/img/21/08
+    '09':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/prophet
+        - /en/tw/bible/christ
+        - /en/tw/bible/isaiah
+        - /en/tw/bible/prophet
+        - /en/tw/bible/virgin
+        - /en/tw/bible/bethlehem
+      help:
+        - /en/obs-tq/obs/help/21/09
+        - /en/obs-tn/obs/help/21/09
+      img:
+        - /en/obs/obs/img/21/09
+  '22':
+    '01':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/angel
+        - /en/tw/bible/prophet
+        - /en/tw/bible/priest
+        - /en/tw/bible/zechariahnt
+      help:
+        - /en/obs-tq/obs/help/22/01
+        - /en/obs-tn/obs/help/22/01
+      img:
+        - /en/obs/obs/img/22/01
+    '02':
+      dict:
+        - /en/tw/bible/angel
+        - /en/tw/bible/zechariahnt
+        - /en/tw/bible/johnthebaptist
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/christ
+      help:
+        - /en/obs-tq/obs/help/22/02
+        - /en/obs-tn/obs/help/22/02
+      img:
+        - /en/obs/obs/img/22/02
+    '03':
+      dict:
+        - /en/tw/bible/angel
+        - /en/tw/bible/god
+        - /en/tw/bible/believe
+        - /en/tw/bible/zechariahnt
+      help:
+        - /en/obs-tq/obs/help/22/03
+        - /en/obs-tn/obs/help/22/03
+      img:
+        - /en/obs/obs/img/22/03
+    '04':
+      dict:
+        - /en/tw/bible/angel
+        - /en/tw/bible/mary
+        - /en/tw/bible/virgin
+        - /en/tw/bible/josephnt
+        - /en/tw/bible/jesus
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/godthefather
+      help:
+        - /en/obs-tq/obs/help/22/04
+        - /en/obs-tn/obs/help/22/04
+      img:
+        - /en/obs/obs/img/22/04
+    '05':
+      dict:
+        - /en/tw/bible/mary
+        - /en/tw/bible/virgin
+        - /en/tw/bible/angel
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/power
+        - /en/tw/bible/god
+        - /en/tw/bible/holy
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/believe
+      help:
+        - /en/obs-tq/obs/help/22/05
+        - /en/obs-tn/obs/help/22/05
+      img:
+        - /en/obs/obs/img/22/05
+    '06':
+      dict:
+        - /en/tw/bible/angel
+        - /en/tw/bible/mary
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/22/06
+        - /en/obs-tn/obs/help/22/06
+      img:
+        - /en/obs/obs/img/22/06
+    '07':
+      dict:
+        - /en/tw/bible/zechariahnt
+        - /en/tw/bible/johnthebaptist
+        - /en/tw/bible/angel
+        - /en/tw/bible/god
+        - /en/tw/bible/zechariahnt
+        - /en/tw/bible/praise
+        - /en/tw/bible/prophet
+        - /en/tw/bible/forgive
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/22/07
+        - /en/obs-tn/obs/help/22/07
+      img:
+        - /en/obs/obs/img/22/07
+  '23':
+    '10':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/worship
+      help:
+        - /en/obs-tq/obs/help/23/10
+        - /en/obs-tn/obs/help/23/10
+      img:
+        - /en/obs/obs/img/23/10
+    '01':
+      dict:
+        - /en/tw/bible/mary
+        - /en/tw/bible/righteous
+        - /en/tw/bible/josephnt
+        - /en/tw/bible/angel
+        - /en/tw/bible/dream
+      help:
+        - /en/obs-tq/obs/help/23/01
+        - /en/obs-tn/obs/help/23/01
+      img:
+        - /en/obs/obs/img/23/01
+    '02':
+      dict:
+        - /en/tw/bible/angel
+        - /en/tw/bible/josephnt
+        - /en/tw/bible/mary
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/son
+        - /en/tw/bible/jesus
+        - /en/tw/bible/yahweh
+        - /en/tw/bible/save
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/23/02
+        - /en/obs-tn/obs/help/23/02
+      img:
+        - /en/obs/obs/img/23/02
+    '03':
+      dict:
+        - /en/tw/bible/josephnt
+        - /en/tw/bible/mary
+      help:
+        - /en/obs-tq/obs/help/23/03
+        - /en/obs-tn/obs/help/23/03
+      img:
+        - /en/obs/obs/img/23/03
+    '04':
+      dict:
+        - /en/tw/bible/mary
+        - /en/tw/bible/rome
+        - /en/tw/bible/josephnt
+        - /en/tw/bible/nazareth
+        - /en/tw/bible/bethlehem
+        - /en/tw/bible/david
+      help:
+        - /en/obs-tq/obs/help/23/04
+        - /en/obs-tn/obs/help/23/04
+      img:
+        - /en/obs/obs/img/23/04
+    '05':
+      dict:
+        - /en/tw/bible/bethlehem
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/23/05
+        - /en/obs-tn/obs/help/23/05
+      img:
+        - /en/obs/obs/img/23/05
+    '06':
+      dict:
+        - /en/tw/bible/shepherd
+        - /en/tw/bible/angel
+        - /en/tw/bible/christ
+        - /en/tw/bible/lord
+        - /en/tw/bible/bethlehem
+      help:
+        - /en/obs-tq/obs/help/23/06
+        - /en/obs-tn/obs/help/23/06
+      img:
+        - /en/obs/obs/img/23/06
+    '07':
+      dict:
+        - /en/tw/bible/angel
+        - /en/tw/bible/god
+        - /en/tw/bible/glory
+        - /en/tw/bible/heaven
+        - /en/tw/bible/peace
+      help:
+        - /en/obs-tq/obs/help/23/07
+        - /en/obs-tn/obs/help/23/07
+      img:
+        - /en/obs/obs/img/23/07
+    '08':
+      dict:
+        - /en/tw/bible/shepherd
+        - /en/tw/bible/jesus
+        - /en/tw/bible/angel
+        - /en/tw/bible/mary
+        - /en/tw/bible/praise
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/23/08
+        - /en/obs-tn/obs/help/23/08
+      img:
+        - /en/obs/obs/img/23/08
+    '09':
+      dict:
+        - /en/tw/bible/wise
+        - /en/tw/bible/kingofthejews
+        - /en/tw/bible/bethlehem
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/23/09
+        - /en/obs-tn/obs/help/23/09
+      img:
+        - /en/obs/obs/img/23/09
+  '24':
+    '01':
+      dict:
+        - /en/tw/bible/johnthebaptist
+        - /en/tw/bible/zechariahnt
+        - /en/tw/bible/prophet
+      help:
+        - /en/obs-tq/obs/help/24/01
+        - /en/obs-tn/obs/help/24/01
+      img:
+        - /en/obs/obs/img/24/01
+    '02':
+      dict:
+        - /en/tw/bible/johnthebaptist
+        - /en/tw/bible/preach
+        - /en/tw/bible/repent
+        - /en/tw/bible/kingdomofgod
+      help:
+        - /en/obs-tq/obs/help/24/02
+        - /en/obs-tn/obs/help/24/02
+      img:
+        - /en/obs/obs/img/24/02
+    '03':
+      dict:
+        - /en/tw/bible/johnthebaptist
+        - /en/tw/bible/repent
+        - /en/tw/bible/sin
+        - /en/tw/bible/baptize
+        - /en/tw/bible/jewishleaders
+      help:
+        - /en/obs-tq/obs/help/24/03
+        - /en/obs-tn/obs/help/24/03
+      img:
+        - /en/obs/obs/img/24/03
+    '04':
+      dict:
+        - /en/tw/bible/johnthebaptist
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/repent
+        - /en/tw/bible/fulfill
+        - /en/tw/bible/prophet
+      help:
+        - /en/obs-tq/obs/help/24/04
+        - /en/obs-tn/obs/help/24/04
+      img:
+        - /en/obs/obs/img/24/04
+    '05':
+      dict:
+        - /en/tw/bible/jew
+        - /en/tw/bible/johnthebaptist
+        - /en/tw/bible/christ
+      help:
+        - /en/obs-tq/obs/help/24/05
+        - /en/obs-tn/obs/help/24/05
+      img:
+        - /en/obs/obs/img/24/05
+    '06':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/baptize
+        - /en/tw/bible/johnthebaptist
+        - /en/tw/bible/lamb
+        - /en/tw/bible/god
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/24/06
+        - /en/obs-tn/obs/help/24/06
+      img:
+        - /en/obs/obs/img/24/06
+    '07':
+      dict:
+        - /en/tw/bible/johnthebaptist
+        - /en/tw/bible/jesus
+        - /en/tw/bible/baptize
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/24/07
+        - /en/obs-tn/obs/help/24/07
+      img:
+        - /en/obs/obs/img/24/07
+    '08':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/baptize
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/heaven
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/love
+      help:
+        - /en/obs-tq/obs/help/24/08
+        - /en/obs-tn/obs/help/24/08
+      img:
+        - /en/obs/obs/img/24/08
+    '09':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/johnthebaptist
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/baptize
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/godthefather
+        - /en/tw/bible/jesus
+        - /en/tw/bible/sonofgod
+      help:
+        - /en/obs-tq/obs/help/24/09
+        - /en/obs-tn/obs/help/24/09
+      img:
+        - /en/obs/obs/img/24/09
+  '25':
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/baptize
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/fast
+        - /en/tw/bible/satan
+        - /en/tw/bible/tempt
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/25/01
+        - /en/obs-tn/obs/help/25/01
+      img:
+        - /en/obs/obs/img/25/01
+    '02':
+      dict:
+        - /en/tw/bible/satan
+        - /en/tw/bible/tempt
+        - /en/tw/bible/jesus
+        - /en/tw/bible/sonofgod
+      help:
+        - /en/obs-tq/obs/help/25/02
+        - /en/obs-tn/obs/help/25/02
+      img:
+        - /en/obs/obs/img/25/02
+    '03':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/25/03
+        - /en/obs-tn/obs/help/25/03
+      img:
+        - /en/obs/obs/img/25/03
+    '04':
+      dict:
+        - /en/tw/bible/satan
+        - /en/tw/bible/jesus
+        - /en/tw/bible/temple
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/god
+        - /en/tw/bible/angel
+      help:
+        - /en/obs-tq/obs/help/25/04
+        - /en/obs-tn/obs/help/25/04
+      img:
+        - /en/obs/obs/img/25/04
+    '05':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/satan
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/lord
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/25/05
+        - /en/obs-tn/obs/help/25/05
+      img:
+        - /en/obs/obs/img/25/05
+    '06':
+      dict:
+        - /en/tw/bible/satan
+        - /en/tw/bible/jesus
+        - /en/tw/bible/kingdom
+        - /en/tw/bible/glory
+        - /en/tw/bible/worship
+      help:
+        - /en/obs-tq/obs/help/25/06
+        - /en/obs-tn/obs/help/25/06
+      img:
+        - /en/obs/obs/img/25/06
+    '07':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/satan
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/worship
+        - /en/tw/bible/lord
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/25/07
+        - /en/obs-tn/obs/help/25/07
+      img:
+        - /en/obs/obs/img/25/07
+    '08':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/satan
+        - /en/tw/bible/tempt
+        - /en/tw/bible/angel
+      help:
+        - /en/obs-tq/obs/help/25/08
+        - /en/obs-tn/obs/help/25/08
+      img:
+        - /en/obs/obs/img/25/08
+  '26':
+    '10':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/apostle
+      help:
+        - /en/obs-tq/obs/help/26/10
+        - /en/obs-tn/obs/help/26/10
+      img:
+        - /en/obs/obs/img/26/10
+    '01':
+      dict:
+        - /en/tw/bible/satan
+        - /en/tw/bible/tempt
+        - /en/tw/bible/jesus
+        - /en/tw/bible/power
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/galilee
+      help:
+        - /en/obs-tq/obs/help/26/01
+        - /en/obs-tn/obs/help/26/01
+      img:
+        - /en/obs/obs/img/26/01
+    '02':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/nazareth
+        - /en/tw/bible/sabbath
+        - /en/tw/bible/worship
+        - /en/tw/bible/prophet
+        - /en/tw/bible/isaiah
+      help:
+        - /en/obs-tq/obs/help/26/02
+        - /en/obs-tn/obs/help/26/02
+      img:
+        - /en/obs/obs/img/26/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/goodnews
+        - /en/tw/bible/lord
+      help:
+        - /en/obs-tq/obs/help/26/03
+        - /en/obs-tn/obs/help/26/03
+      img:
+        - /en/obs/obs/img/26/03
+    '04':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/christ
+        - /en/tw/bible/josephnt
+      help:
+        - /en/obs-tq/obs/help/26/04
+        - /en/obs-tn/obs/help/26/04
+      img:
+        - /en/obs/obs/img/26/04
+    '05':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/true
+        - /en/tw/bible/prophet
+        - /en/tw/bible/elijah
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/26/05
+        - /en/obs-tn/obs/help/26/05
+      img:
+        - /en/obs/obs/img/26/05
+    '06':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/prophet
+        - /en/tw/bible/israel
+        - /en/tw/bible/heal
+        - /en/tw/bible/naaman
+        - /en/tw/bible/jew
+      help:
+        - /en/obs-tq/obs/help/26/06
+        - /en/obs-tn/obs/help/26/06
+      img:
+        - /en/obs/obs/img/26/06
+    '07':
+      dict:
+        - /en/tw/bible/nazareth
+        - /en/tw/bible/jesus
+        - /en/tw/bible/worship
+      help:
+        - /en/obs-tq/obs/help/26/07
+        - /en/obs-tn/obs/help/26/07
+      img:
+        - /en/obs/obs/img/26/07
+    '08':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/galilee
+        - /en/tw/bible/heal
+      help:
+        - /en/obs-tq/obs/help/26/08
+        - /en/obs-tn/obs/help/26/08
+      img:
+        - /en/obs/obs/img/26/08
+    '09':
+      dict:
+        - /en/tw/bible/demon
+        - /en/tw/bible/jesus
+        - /en/tw/bible/demon
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/worship
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/26/09
+        - /en/obs-tn/obs/help/26/09
+      img:
+        - /en/obs/obs/img/26/09
+  '27':
+    '10':
+      dict:
+        - /en/tw/bible/samaria
+      help:
+        - /en/obs-tq/obs/help/27/10
+        - /en/obs-tn/obs/help/27/10
+      img:
+        - /en/obs/obs/img/27/10
+    '11':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/mercy
+      help:
+        - /en/obs-tq/obs/help/27/11
+        - /en/obs-tn/obs/help/27/11
+      img:
+        - /en/obs/obs/img/27/11
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/teacher
+        - /en/tw/bible/inherit
+        - /en/tw/bible/eternity
+        - /en/tw/bible/lawofmoses
+      help:
+        - /en/obs-tq/obs/help/27/01
+        - /en/obs-tn/obs/help/27/01
+      img:
+        - /en/obs/obs/img/27/01
+    '02':
+      dict:
+        - /en/tw/bible/lawofmoses
+        - /en/tw/bible/love
+        - /en/tw/bible/lord
+        - /en/tw/bible/god
+        - /en/tw/bible/jesus
+        - /en/tw/bible/life
+      help:
+        - /en/obs-tq/obs/help/27/02
+        - /en/obs-tn/obs/help/27/02
+      img:
+        - /en/obs/obs/img/27/02
+    '03':
+      dict:
+        - /en/tw/bible/righteous
+      help:
+        - /en/obs-tq/obs/help/27/03
+        - /en/obs-tn/obs/help/27/03
+      img:
+        - /en/obs/obs/img/27/03
+    '04':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/jew
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/jericho
+      help:
+        - /en/obs-tq/obs/help/27/04
+        - /en/obs-tn/obs/help/27/04
+      img:
+        - /en/obs/obs/img/27/04
+    '06':
+      dict:
+        - /en/tw/bible/jew
+        - /en/tw/bible/priest
+        - /en/tw/bible/jewishleaders
+      help:
+        - /en/obs-tq/obs/help/27/06
+        - /en/obs-tn/obs/help/27/06
+      img:
+        - /en/obs/obs/img/27/06
+    '07':
+      dict:
+        - /en/tw/bible/jew
+        - /en/tw/bible/priest
+        - /en/tw/bible/temple
+      help:
+        - /en/obs-tq/obs/help/27/07
+        - /en/obs-tn/obs/help/27/07
+      img:
+        - /en/obs/obs/img/27/07
+    '08':
+      dict:
+        - /en/tw/bible/samaria
+        - /en/tw/bible/jew
+      help:
+        - /en/obs-tq/obs/help/27/08
+        - /en/obs-tn/obs/help/27/08
+      img:
+        - /en/obs/obs/img/27/08
+    '09':
+      dict:
+        - /en/tw/bible/samaria
+      help:
+        - /en/obs-tq/obs/help/27/09
+        - /en/obs-tn/obs/help/27/09
+      img:
+        - /en/obs/obs/img/27/09
+  '28':
+    '10':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/eternity
+      help:
+        - /en/obs-tq/obs/help/28/10
+        - /en/obs-tn/obs/help/28/10
+      img:
+        - /en/obs/obs/img/28/10
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/good
+        - /en/tw/bible/teacher
+        - /en/tw/bible/eternity
+        - /en/tw/bible/god
+        - /en/tw/bible/obey
+        - /en/tw/bible/lawofmoses
+      help:
+        - /en/obs-tq/obs/help/28/01
+        - /en/obs-tn/obs/help/28/01
+      img:
+        - /en/obs/obs/img/28/01
+    '02':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/adultery
+        - /en/tw/bible/love
+      help:
+        - /en/obs-tq/obs/help/28/02
+        - /en/obs-tn/obs/help/28/02
+      img:
+        - /en/obs/obs/img/28/02
+    '03':
+      dict:
+        - /en/tw/bible/obey
+        - /en/tw/bible/lawofmoses
+        - /en/tw/bible/jesus
+        - /en/tw/bible/love
+      help:
+        - /en/obs-tq/obs/help/28/03
+        - /en/obs-tn/obs/help/28/03
+      img:
+        - /en/obs/obs/img/28/03
+    '04':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/heaven
+      help:
+        - /en/obs-tq/obs/help/28/04
+        - /en/obs-tn/obs/help/28/04
+      img:
+        - /en/obs/obs/img/28/04
+    '05':
+      dict:
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/28/05
+        - /en/obs-tn/obs/help/28/05
+      img:
+        - /en/obs/obs/img/28/05
+    '06':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/kingdomofgod
+      help:
+        - /en/obs-tq/obs/help/28/06
+        - /en/obs-tn/obs/help/28/06
+      img:
+        - /en/obs/obs/img/28/06
+    '07':
+      dict:
+        - /en/tw/bible/disciple
+        - /en/tw/bible/save
+      help:
+        - /en/obs-tq/obs/help/28/07
+        - /en/obs-tn/obs/help/28/07
+      img:
+        - /en/obs/obs/img/28/07
+    '08':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/28/08
+        - /en/obs-tn/obs/help/28/08
+      img:
+        - /en/obs/obs/img/28/08
+    '09':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/28/09
+        - /en/obs-tn/obs/help/28/09
+      img:
+        - /en/obs/obs/img/28/09
+  '29':
+    '01':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/jesus
+        - /en/tw/bible/lord
+        - /en/tw/bible/forgive
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/29/01
+        - /en/obs-tn/obs/help/29/01
+      img:
+        - /en/obs/obs/img/29/01
+    '02':
+      dict:
+        - /en/tw/bible/kingdomofgod
+        - /en/tw/bible/king
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/29/02
+        - /en/obs-tn/obs/help/29/02
+      img:
+        - /en/obs/obs/img/29/02
+    '03':
+      dict:
+        - /en/tw/bible/servant
+        - /en/tw/bible/king
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/29/03
+        - /en/obs-tn/obs/help/29/03
+      img:
+        - /en/obs/obs/img/29/03
+    '04':
+      dict:
+        - /en/tw/bible/servant
+        - /en/tw/bible/king
+      help:
+        - /en/obs-tq/obs/help/29/04
+        - /en/obs-tn/obs/help/29/04
+      img:
+        - /en/obs/obs/img/29/04
+    '05':
+      dict:
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/29/05
+        - /en/obs-tn/obs/help/29/05
+      img:
+        - /en/obs/obs/img/29/05
+    '06':
+      dict:
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/29/06
+        - /en/obs-tn/obs/help/29/06
+      img:
+        - /en/obs/obs/img/29/06
+    '07':
+      dict:
+        - /en/tw/bible/servant
+        - /en/tw/bible/king
+      help:
+        - /en/obs-tq/obs/help/29/07
+        - /en/obs-tn/obs/help/29/07
+      img:
+        - /en/obs/obs/img/29/07
+    '08':
+      dict:
+        - /en/tw/bible/king
+        - /en/tw/bible/servant
+        - /en/tw/bible/forgive
+        - /en/tw/bible/beg
+        - /en/tw/bible/evil
+      help:
+        - /en/obs-tq/obs/help/29/08
+        - /en/obs-tn/obs/help/29/08
+      img:
+        - /en/obs/obs/img/29/08
+    '09':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/godthefather
+        - /en/tw/bible/forgive
+      help:
+        - /en/obs-tq/obs/help/29/09
+        - /en/obs-tn/obs/help/29/09
+      img:
+        - /en/obs/obs/img/29/09
+  '30':
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/apostle
+        - /en/tw/bible/preach
+      help:
+        - /en/obs-tq/obs/help/30/01
+        - /en/obs-tn/obs/help/30/01
+      img:
+        - /en/obs/obs/img/30/01
+    '02':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/30/02
+        - /en/obs-tn/obs/help/30/02
+      img:
+        - /en/obs/obs/img/30/02
+    '03':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/sheep
+        - /en/tw/bible/shepherd
+        - /en/tw/bible/heal
+      help:
+        - /en/obs-tq/obs/help/30/03
+        - /en/obs-tn/obs/help/30/03
+      img:
+        - /en/obs/obs/img/30/03
+    '04':
+      dict:
+        - /en/tw/bible/disciple
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/30/04
+        - /en/obs-tn/obs/help/30/04
+      img:
+        - /en/obs/obs/img/30/04
+    '05':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/30/05
+        - /en/obs-tn/obs/help/30/05
+      img:
+        - /en/obs/obs/img/30/05
+    '06':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/30/06
+        - /en/obs-tn/obs/help/30/06
+      img:
+        - /en/obs/obs/img/30/06
+    '07':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/heaven
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/30/07
+        - /en/obs-tn/obs/help/30/07
+      img:
+        - /en/obs/obs/img/30/07
+    '08':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/30/08
+        - /en/obs-tn/obs/help/30/08
+      img:
+        - /en/obs/obs/img/30/08
+    '09':
+      dict:
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/30/09
+        - /en/obs-tn/obs/help/30/09
+      img:
+        - /en/obs/obs/img/30/09
+  '31':
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/pray
+      help:
+        - /en/obs-tq/obs/help/31/01
+        - /en/obs-tn/obs/help/31/01
+      img:
+        - /en/obs/obs/img/31/01
+    '02':
+      dict:
+        - /en/tw/bible/disciple
+        - /en/tw/bible/pray
+      help:
+        - /en/obs-tq/obs/help/31/02
+        - /en/obs-tn/obs/help/31/02
+      img:
+        - /en/obs/obs/img/31/02
+    '03':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/pray
+      help:
+        - /en/obs-tq/obs/help/31/03
+        - /en/obs-tn/obs/help/31/03
+      img:
+        - /en/obs/obs/img/31/03
+    '04':
+      dict:
+        - /en/tw/bible/disciple
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/31/04
+        - /en/obs-tn/obs/help/31/04
+      img:
+        - /en/obs/obs/img/31/04
+    '05':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/jesus
+        - /en/tw/bible/lord
+      help:
+        - /en/obs-tq/obs/help/31/05
+        - /en/obs-tn/obs/help/31/05
+      img:
+        - /en/obs/obs/img/31/05
+    '06':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/31/06
+        - /en/obs-tn/obs/help/31/06
+      img:
+        - /en/obs/obs/img/31/06
+    '07':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/lord
+        - /en/tw/bible/save
+        - /en/tw/bible/jesus
+        - /en/tw/bible/faith
+      help:
+        - /en/obs-tq/obs/help/31/07
+        - /en/obs-tn/obs/help/31/07
+      img:
+        - /en/obs/obs/img/31/07
+    '08':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/worship
+        - /en/tw/bible/true
+        - /en/tw/bible/sonofgod
+      help:
+        - /en/obs-tq/obs/help/31/08
+        - /en/obs-tn/obs/help/31/08
+      img:
+        - /en/obs/obs/img/31/08
+  '32':
+    '10':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/beg
+      help:
+        - /en/obs-tq/obs/help/32/10
+        - /en/obs-tn/obs/help/32/10
+      img:
+        - /en/obs/obs/img/32/10
+    '11':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/god
+        - /en/tw/bible/mercy
+      help:
+        - /en/obs-tq/obs/help/32/11
+        - /en/obs-tn/obs/help/32/11
+      img:
+        - /en/obs/obs/img/32/11
+    '12':
+      dict:
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/32/12
+        - /en/obs-tn/obs/help/32/12
+      img:
+        - /en/obs/obs/img/32/12
+    '13':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/heal
+      help:
+        - /en/obs-tq/obs/help/32/13
+        - /en/obs-tn/obs/help/32/13
+      img:
+        - /en/obs/obs/img/32/13
+    '14':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/heal
+      help:
+        - /en/obs-tq/obs/help/32/14
+        - /en/obs-tn/obs/help/32/14
+      img:
+        - /en/obs/obs/img/32/14
+    '15':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/power
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/32/15
+        - /en/obs-tn/obs/help/32/15
+      img:
+        - /en/obs/obs/img/32/15
+    '16':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/faith
+        - /en/tw/bible/heal
+        - /en/tw/bible/peace
+      help:
+        - /en/obs-tq/obs/help/32/16
+        - /en/obs-tn/obs/help/32/16
+      img:
+        - /en/obs/obs/img/32/16
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/32/01
+        - /en/obs-tn/obs/help/32/01
+      img:
+        - /en/obs/obs/img/32/01
+    '02':
+      dict:
+        - /en/tw/bible/demonpossessed
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/32/02
+        - /en/obs-tn/obs/help/32/02
+      img:
+        - /en/obs/obs/img/32/02
+    '04':
+      dict:
+        - /en/tw/bible/tomb
+      help:
+        - /en/obs-tq/obs/help/32/04
+        - /en/obs-tn/obs/help/32/04
+      img:
+        - /en/obs/obs/img/32/04
+    '05':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/demon
+      help:
+        - /en/obs-tq/obs/help/32/05
+        - /en/obs-tn/obs/help/32/05
+      img:
+        - /en/obs/obs/img/32/05
+    '06':
+      dict:
+        - /en/tw/bible/demonpossessed
+        - /en/tw/bible/jesus
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/32/06
+        - /en/obs-tn/obs/help/32/06
+      img:
+        - /en/obs/obs/img/32/06
+    '07':
+      dict:
+        - /en/tw/bible/demon
+        - /en/tw/bible/beg
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/32/07
+        - /en/obs-tn/obs/help/32/07
+      img:
+        - /en/obs/obs/img/32/07
+    '08':
+      dict:
+        - /en/tw/bible/demon
+      help:
+        - /en/obs-tq/obs/help/32/08
+        - /en/obs-tn/obs/help/32/08
+      img:
+        - /en/obs/obs/img/32/08
+    '09':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/demon
+      help:
+        - /en/obs-tq/obs/help/32/09
+        - /en/obs-tn/obs/help/32/09
+      img:
+        - /en/obs/obs/img/32/09
+  '33':
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/33/01
+        - /en/obs-tn/obs/help/33/01
+      img:
+        - /en/obs/obs/img/33/01
+    '02':
+      dict:
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/33/02
+        - /en/obs-tn/obs/help/33/02
+      img:
+        - /en/obs/obs/img/33/02
+    '05':
+      dict:
+        - /en/tw/bible/good
+      help:
+        - /en/obs-tq/obs/help/33/05
+        - /en/obs-tn/obs/help/33/05
+      img:
+        - /en/obs/obs/img/33/05
+    '06':
+      dict:
+        - /en/tw/bible/disciple
+        - /en/tw/bible/jesus
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/satan
+      help:
+        - /en/obs-tq/obs/help/33/06
+        - /en/obs-tn/obs/help/33/06
+      img:
+        - /en/obs/obs/img/33/06
+    '07':
+      dict:
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/joy
+        - /en/tw/bible/persecute
+      help:
+        - /en/obs-tq/obs/help/33/07
+        - /en/obs-tn/obs/help/33/07
+      img:
+        - /en/obs/obs/img/33/07
+    '08':
+      dict:
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/love
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/33/08
+        - /en/obs-tn/obs/help/33/08
+      img:
+        - /en/obs/obs/img/33/08
+    '09':
+      dict:
+        - /en/tw/bible/good
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/believe
+      help:
+        - /en/obs-tq/obs/help/33/09
+        - /en/obs-tn/obs/help/33/09
+      img:
+        - /en/obs/obs/img/33/09
+  '34':
+    '10':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/true
+        - /en/tw/bible/god
+        - /en/tw/bible/taxcollector
+        - /en/tw/bible/pray
+        - /en/tw/bible/righteous
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/humble
+        - /en/tw/bible/proud
+      help:
+        - /en/obs-tq/obs/help/34/10
+        - /en/obs-tn/obs/help/34/10
+      img:
+        - /en/obs/obs/img/34/10
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/kingdomofgod
+      help:
+        - /en/obs-tq/obs/help/34/01
+        - /en/obs-tn/obs/help/34/01
+      img:
+        - /en/obs/obs/img/34/01
+    '03':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/kingdomofgod
+      help:
+        - /en/obs-tq/obs/help/34/03
+        - /en/obs-tn/obs/help/34/03
+      img:
+        - /en/obs/obs/img/34/03
+    '04':
+      dict:
+        - /en/tw/bible/kingdomofgod
+        - /en/tw/bible/joy
+      help:
+        - /en/obs-tq/obs/help/34/04
+        - /en/obs-tn/obs/help/34/04
+      img:
+        - /en/obs/obs/img/34/04
+    '05':
+      dict:
+        - /en/tw/bible/kingdomofgod
+      help:
+        - /en/obs-tq/obs/help/34/05
+        - /en/obs-tn/obs/help/34/05
+      img:
+        - /en/obs/obs/img/34/05
+    '06':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/trust
+        - /en/tw/bible/temple
+        - /en/tw/bible/pray
+        - /en/tw/bible/taxcollector
+        - /en/tw/bible/jewishleaders
+      help:
+        - /en/obs-tq/obs/help/34/06
+        - /en/obs-tn/obs/help/34/06
+      img:
+        - /en/obs/obs/img/34/06
+    '07':
+      dict:
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/god
+        - /en/tw/bible/sin
+        - /en/tw/bible/adultery
+        - /en/tw/bible/taxcollector
+      help:
+        - /en/obs-tq/obs/help/34/07
+        - /en/obs-tn/obs/help/34/07
+      img:
+        - /en/obs/obs/img/34/07
+    '08':
+      dict:
+        - /en/tw/bible/fast
+      help:
+        - /en/obs-tq/obs/help/34/08
+        - /en/obs-tn/obs/help/34/08
+      img:
+        - /en/obs/obs/img/34/08
+    '09':
+      dict:
+        - /en/tw/bible/taxcollector
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/heaven
+        - /en/tw/bible/pray
+        - /en/tw/bible/god
+        - /en/tw/bible/mercy
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/34/09
+        - /en/obs-tn/obs/help/34/09
+      img:
+        - /en/obs/obs/img/34/09
+  '35':
+    '11':
+      dict:
+        - /en/tw/bible/son
+        - /en/tw/bible/beg
+      help:
+        - /en/obs-tq/obs/help/35/11
+        - /en/obs-tn/obs/help/35/11
+      img:
+        - /en/obs/obs/img/35/11
+    '12':
+      dict:
+        - /en/tw/bible/faithful
+        - /en/tw/bible/disobey
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/35/12
+        - /en/obs-tn/obs/help/35/12
+      img:
+        - /en/obs/obs/img/35/12
+    '13':
+      dict:
+        - /en/tw/bible/son
+        - /en/tw/bible/death
+        - /en/tw/bible/life
+      help:
+        - /en/obs-tq/obs/help/35/13
+        - /en/obs-tn/obs/help/35/13
+      img:
+        - /en/obs/obs/img/35/13
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/taxcollector
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/35/01
+        - /en/obs-tn/obs/help/35/01
+      img:
+        - /en/obs/obs/img/35/01
+    '02':
+      dict:
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/jesus
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/35/02
+        - /en/obs-tn/obs/help/35/02
+      img:
+        - /en/obs/obs/img/35/02
+    '03':
+      dict:
+        - /en/tw/bible/son
+        - /en/tw/bible/inherit
+      help:
+        - /en/obs-tq/obs/help/35/03
+        - /en/obs-tn/obs/help/35/03
+      img:
+        - /en/obs/obs/img/35/03
+    '04':
+      dict:
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/35/04
+        - /en/obs-tn/obs/help/35/04
+      img:
+        - /en/obs/obs/img/35/04
+    '06':
+      dict:
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/35/06
+        - /en/obs-tn/obs/help/35/06
+      img:
+        - /en/obs/obs/img/35/06
+    '07':
+      dict:
+        - /en/tw/bible/son
+      help:
+        - /en/obs-tq/obs/help/35/07
+        - /en/obs-tn/obs/help/35/07
+      img:
+        - /en/obs/obs/img/35/07
+    '08':
+      dict:
+        - /en/tw/bible/son
+        - /en/tw/bible/sin
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/35/08
+        - /en/obs-tn/obs/help/35/08
+      img:
+        - /en/obs/obs/img/35/08
+    '09':
+      dict:
+        - /en/tw/bible/servant
+        - /en/tw/bible/son
+        - /en/tw/bible/death
+        - /en/tw/bible/life
+      help:
+        - /en/obs-tq/obs/help/35/09
+        - /en/obs-tn/obs/help/35/09
+      img:
+        - /en/obs/obs/img/35/09
+  '36':
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/peter
+        - /en/tw/bible/johntheapostle
+        - /en/tw/bible/baptize
+      help:
+        - /en/obs-tq/obs/help/36/01
+        - /en/obs-tn/obs/help/36/01
+      img:
+        - /en/obs/obs/img/36/01
+    '02':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/pray
+      help:
+        - /en/obs-tq/obs/help/36/02
+        - /en/obs-tn/obs/help/36/02
+      img:
+        - /en/obs/obs/img/36/02
+    '03':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/prophet
+        - /en/tw/bible/elijah
+        - /en/tw/bible/jesus
+        - /en/tw/bible/death
+        - /en/tw/bible/jerusalem
+      help:
+        - /en/obs-tq/obs/help/36/03
+        - /en/obs-tn/obs/help/36/03
+      img:
+        - /en/obs/obs/img/36/03
+    '04':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/elijah
+        - /en/tw/bible/jesus
+        - /en/tw/bible/peter
+        - /en/tw/bible/good
+      help:
+        - /en/obs-tq/obs/help/36/04
+        - /en/obs-tn/obs/help/36/04
+      img:
+        - /en/obs/obs/img/36/04
+    '05':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/love
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/36/05
+        - /en/obs-tn/obs/help/36/05
+      img:
+        - /en/obs/obs/img/36/05
+    '06':
+      dict:
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/36/06
+        - /en/obs-tn/obs/help/36/06
+      img:
+        - /en/obs/obs/img/36/06
+    '07':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/death
+        - /en/tw/bible/life
+      help:
+        - /en/obs-tq/obs/help/36/07
+        - /en/obs-tn/obs/help/36/07
+      img:
+        - /en/obs/obs/img/36/07
+  '37':
+    '10':
+      dict:
+        - /en/tw/bible/lazarus
+        - /en/tw/bible/jesus
+        - /en/tw/bible/jew
+        - /en/tw/bible/believe
+        - /en/tw/bible/miracle
+      help:
+        - /en/obs-tq/obs/help/37/10
+        - /en/obs-tn/obs/help/37/10
+      img:
+        - /en/obs/obs/img/37/10
+    '11':
+      dict:
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/jew
+        - /en/tw/bible/jesus
+        - /en/tw/bible/lazarus
+      help:
+        - /en/obs-tq/obs/help/37/11
+        - /en/obs-tn/obs/help/37/11
+      img:
+        - /en/obs/obs/img/37/11
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/lazarus
+        - /en/tw/bible/death
+        - /en/tw/bible/glory
+        - /en/tw/bible/god
+        - /en/tw/bible/love
+      help:
+        - /en/obs-tq/obs/help/37/01
+        - /en/obs-tn/obs/help/37/01
+      img:
+        - /en/obs/obs/img/37/01
+    '02':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/teacher
+        - /en/tw/bible/lazarus
+      help:
+        - /en/obs-tq/obs/help/37/02
+        - /en/obs-tn/obs/help/37/02
+      img:
+        - /en/obs/obs/img/37/02
+    '03':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/lord
+        - /en/tw/bible/lazarus
+        - /en/tw/bible/death
+        - /en/tw/bible/believe
+      help:
+        - /en/obs-tq/obs/help/37/03
+        - /en/obs-tn/obs/help/37/03
+      img:
+        - /en/obs/obs/img/37/03
+    '04':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/lazarus
+        - /en/tw/bible/death
+        - /en/tw/bible/lord
+        - /en/tw/bible/believe
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/37/04
+        - /en/obs-tn/obs/help/37/04
+      img:
+        - /en/obs/obs/img/37/04
+    '05':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/resurrection
+        - /en/tw/bible/life
+        - /en/tw/bible/believe
+        - /en/tw/bible/death
+        - /en/tw/bible/lord
+        - /en/tw/bible/christ
+        - /en/tw/bible/sonofgod
+      help:
+        - /en/obs-tq/obs/help/37/05
+        - /en/obs-tn/obs/help/37/05
+      img:
+        - /en/obs/obs/img/37/05
+    '06':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/lord
+        - /en/tw/bible/death
+        - /en/tw/bible/lazarus
+        - /en/tw/bible/tomb
+      help:
+        - /en/obs-tq/obs/help/37/06
+        - /en/obs-tn/obs/help/37/06
+      img:
+        - /en/obs/obs/img/37/06
+    '07':
+      dict:
+        - /en/tw/bible/tomb
+        - /en/tw/bible/jesus
+        - /en/tw/bible/death
+      help:
+        - /en/obs-tq/obs/help/37/07
+        - /en/obs-tn/obs/help/37/07
+      img:
+        - /en/obs/obs/img/37/07
+    '08':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/god
+        - /en/tw/bible/glory
+        - /en/tw/bible/believe
+      help:
+        - /en/obs-tq/obs/help/37/08
+        - /en/obs-tn/obs/help/37/08
+      img:
+        - /en/obs/obs/img/37/08
+    '09':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/heaven
+        - /en/tw/bible/godthefather
+        - /en/tw/bible/believe
+        - /en/tw/bible/lazarus
+      help:
+        - /en/obs-tq/obs/help/37/09
+        - /en/obs-tn/obs/help/37/09
+      img:
+        - /en/obs/obs/img/37/09
+  '38':
+    '10':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/jesus
+        - /en/tw/bible/death
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/38/10
+        - /en/obs-tn/obs/help/38/10
+      img:
+        - /en/obs/obs/img/38/10
+    '11':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/pray
+        - /en/tw/bible/tempt
+      help:
+        - /en/obs-tq/obs/help/38/11
+        - /en/obs-tn/obs/help/38/11
+      img:
+        - /en/obs/obs/img/38/11
+    '12':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/pray
+        - /en/tw/bible/godthefather
+        - /en/tw/bible/suffer
+        - /en/tw/bible/sin
+        - /en/tw/bible/forgive
+        - /en/tw/bible/blood
+        - /en/tw/bible/god
+        - /en/tw/bible/angel
+      help:
+        - /en/obs-tq/obs/help/38/12
+        - /en/obs-tn/obs/help/38/12
+      img:
+        - /en/obs/obs/img/38/12
+    '13':
+      dict:
+        - /en/tw/bible/pray
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/betray
+      help:
+        - /en/obs-tq/obs/help/38/13
+        - /en/obs-tn/obs/help/38/13
+      img:
+        - /en/obs/obs/img/38/13
+    '14':
+      dict:
+        - /en/tw/bible/judasiscariot
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/jesus
+        - /en/tw/bible/teacher
+        - /en/tw/bible/betray
+      help:
+        - /en/obs-tq/obs/help/38/14
+        - /en/obs-tn/obs/help/38/14
+      img:
+        - /en/obs/obs/img/38/14
+    '15':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/peter
+        - /en/tw/bible/servant
+        - /en/tw/bible/highpriest
+        - /en/tw/bible/godthefather
+        - /en/tw/bible/angel
+        - /en/tw/bible/obey
+        - /en/tw/bible/heal
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/38/15
+        - /en/obs-tn/obs/help/38/15
+      img:
+        - /en/obs/obs/img/38/15
+    '01':
+      dict:
+        - /en/tw/bible/jew
+        - /en/tw/bible/passover
+        - /en/tw/bible/god
+        - /en/tw/bible/save
+        - /en/tw/bible/servant
+        - /en/tw/bible/egypt
+        - /en/tw/bible/jesus
+        - /en/tw/bible/preach
+        - /en/tw/bible/disciple
+        - /en/tw/bible/jerusalem
+      help:
+        - /en/obs-tq/obs/help/38/01
+        - /en/obs-tn/obs/help/38/01
+      img:
+        - /en/obs/obs/img/38/01
+    '02':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/judasiscariot
+        - /en/tw/bible/apostle
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/betray
+        - /en/tw/bible/christ
+      help:
+        - /en/obs-tq/obs/help/38/02
+        - /en/obs-tn/obs/help/38/02
+      img:
+        - /en/obs/obs/img/38/02
+    '03':
+      dict:
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/highpriest
+        - /en/tw/bible/judasiscariot
+        - /en/tw/bible/betray
+        - /en/tw/bible/jesus
+        - /en/tw/bible/prophet
+      help:
+        - /en/obs-tq/obs/help/38/03
+        - /en/obs-tn/obs/help/38/03
+      img:
+        - /en/obs/obs/img/38/03
+    '04':
+      dict:
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/jesus
+        - /en/tw/bible/passover
+        - /en/tw/bible/disciple
+        - /en/tw/bible/sacrifice
+      help:
+        - /en/obs-tq/obs/help/38/04
+        - /en/obs-tn/obs/help/38/04
+      img:
+        - /en/obs/obs/img/38/04
+    '05':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/blood
+        - /en/tw/bible/newcovenant
+        - /en/tw/bible/forgive
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/38/05
+        - /en/obs-tn/obs/help/38/05
+      img:
+        - /en/obs/obs/img/38/05
+    '06':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/betray
+        - /en/tw/bible/judasiscariot
+      help:
+        - /en/obs-tq/obs/help/38/06
+        - /en/obs-tn/obs/help/38/06
+      img:
+        - /en/obs/obs/img/38/06
+    '07':
+      dict:
+        - /en/tw/bible/judasiscariot
+        - /en/tw/bible/satan
+        - /en/tw/bible/jew
+      help:
+        - /en/obs-tq/obs/help/38/07
+        - /en/obs-tn/obs/help/38/07
+      img:
+        - /en/obs/obs/img/38/07
+    '08':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/shepherd
+        - /en/tw/bible/sheep
+      help:
+        - /en/obs-tq/obs/help/38/08
+        - /en/obs-tn/obs/help/38/08
+      img:
+        - /en/obs/obs/img/38/08
+    '09':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/jesus
+        - /en/tw/bible/satan
+        - /en/tw/bible/pray
+        - /en/tw/bible/faith
+      help:
+        - /en/obs-tq/obs/help/38/09
+        - /en/obs-tn/obs/help/38/09
+      img:
+        - /en/obs/obs/img/38/09
+  '39':
+    '10':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/kingdomofgod
+        - /en/tw/bible/kingdom
+        - /en/tw/bible/servant
+        - /en/tw/bible/true
+        - /en/tw/bible/god
+        - /en/tw/bible/love
+        - /en/tw/bible/pilate
+      help:
+        - /en/obs-tq/obs/help/39/10
+        - /en/obs-tn/obs/help/39/10
+      img:
+        - /en/obs/obs/img/39/10
+    '11':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/pilate
+        - /en/tw/bible/guilt
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/crucify
+      help:
+        - /en/obs-tq/obs/help/39/11
+        - /en/obs-tn/obs/help/39/11
+      img:
+        - /en/obs/obs/img/39/11
+    '12':
+      dict:
+        - /en/tw/bible/pilate
+        - /en/tw/bible/crucify
+        - /en/tw/bible/jesus
+        - /en/tw/bible/rome
+        - /en/tw/bible/mock
+        - /en/tw/bible/kingofthejews
+      help:
+        - /en/obs-tq/obs/help/39/12
+        - /en/obs-tn/obs/help/39/12
+      img:
+        - /en/obs/obs/img/39/12
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/highpriest
+        - /en/tw/bible/peter
+      help:
+        - /en/obs-tq/obs/help/39/01
+        - /en/obs-tn/obs/help/39/01
+      img:
+        - /en/obs/obs/img/39/01
+    '02':
+      dict:
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/jesus
+        - /en/tw/bible/wiobs-tness
+        - /en/tw/bible/guilt
+      help:
+        - /en/obs-tq/obs/help/39/02
+        - /en/obs-tn/obs/help/39/02
+      img:
+        - /en/obs/obs/img/39/02
+    '03':
+      dict:
+        - /en/tw/bible/highpriest
+        - /en/tw/bible/jesus
+        - /en/tw/bible/christ
+        - /en/tw/bible/sonofgod
+      help:
+        - /en/obs-tq/obs/help/39/03
+        - /en/obs-tn/obs/help/39/03
+      img:
+        - /en/obs/obs/img/39/03
+    '04':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/god
+        - /en/tw/bible/heaven
+        - /en/tw/bible/highpriest
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/wiobs-tness
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/judge
+      help:
+        - /en/obs-tq/obs/help/39/04
+        - /en/obs-tn/obs/help/39/04
+      img:
+        - /en/obs/obs/img/39/04
+    '05':
+      dict:
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/highpriest
+        - /en/tw/bible/death
+        - /en/tw/bible/jesus
+        - /en/tw/bible/mock
+      help:
+        - /en/obs-tq/obs/help/39/05
+        - /en/obs-tn/obs/help/39/05
+      img:
+        - /en/obs/obs/img/39/05
+    '06':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/servant
+        - /en/tw/bible/jesus
+        - /en/tw/bible/galilee
+      help:
+        - /en/obs-tq/obs/help/39/06
+        - /en/obs-tn/obs/help/39/06
+      img:
+        - /en/obs/obs/img/39/06
+    '07':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/god
+        - /en/tw/bible/curse
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/39/07
+        - /en/obs-tn/obs/help/39/07
+      img:
+        - /en/obs/obs/img/39/07
+    '08':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/judasiscariot
+        - /en/tw/bible/betray
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/39/08
+        - /en/obs-tn/obs/help/39/08
+      img:
+        - /en/obs/obs/img/39/08
+    '09':
+      dict:
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/jesus
+        - /en/tw/bible/pilate
+        - /en/tw/bible/rome
+        - /en/tw/bible/kingofthejews
+      help:
+        - /en/obs-tq/obs/help/39/09
+        - /en/obs-tn/obs/help/39/09
+      img:
+        - /en/obs/obs/img/39/09
+  '40':
+    '01':
+      dict:
+        - /en/tw/bible/mock
+        - /en/tw/bible/jesus
+        - /en/tw/bible/crucify
+        - /en/tw/bible/cross
+      help:
+        - /en/obs-tq/obs/help/40/01
+        - /en/obs-tn/obs/help/40/01
+      img:
+        - /en/obs/obs/img/40/01
+    '02':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/cross
+        - /en/tw/bible/godthefather
+        - /en/tw/bible/forgive
+        - /en/tw/bible/pilate
+        - /en/tw/bible/kingofthejews
+      help:
+        - /en/obs-tq/obs/help/40/02
+        - /en/obs-tn/obs/help/40/02
+      img:
+        - /en/obs/obs/img/40/02
+    '03':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/fulfill
+        - /en/tw/bible/prophet
+      help:
+        - /en/obs-tq/obs/help/40/03
+        - /en/obs-tn/obs/help/40/03
+      img:
+        - /en/obs/obs/img/40/03
+    '04':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/crucify
+        - /en/tw/bible/mock
+        - /en/tw/bible/god
+        - /en/tw/bible/guilt
+        - /en/tw/bible/innocent
+        - /en/tw/bible/kingdomofgod
+      help:
+        - /en/obs-tq/obs/help/40/04
+        - /en/obs-tn/obs/help/40/04
+      img:
+        - /en/obs/obs/img/40/04
+    '05':
+      dict:
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/mock
+        - /en/tw/bible/jesus
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/cross
+        - /en/tw/bible/save
+        - /en/tw/bible/believe
+      help:
+        - /en/obs-tq/obs/help/40/05
+        - /en/obs-tn/obs/help/40/05
+      img:
+        - /en/obs/obs/img/40/05
+    '07':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/godthefather
+        - /en/tw/bible/spirit
+        - /en/tw/bible/death
+        - /en/tw/bible/god
+        - /en/tw/bible/temple
+      help:
+        - /en/obs-tq/obs/help/40/07
+        - /en/obs-tn/obs/help/40/07
+      img:
+        - /en/obs/obs/img/40/07
+    '08':
+      dict:
+        - /en/tw/bible/death
+        - /en/tw/bible/jesus
+        - /en/tw/bible/god
+        - /en/tw/bible/innocent
+        - /en/tw/bible/sonofgod
+      help:
+        - /en/obs-tq/obs/help/40/08
+        - /en/obs-tn/obs/help/40/08
+      img:
+        - /en/obs/obs/img/40/08
+    '09':
+      dict:
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/believe
+        - /en/tw/bible/jesus
+        - /en/tw/bible/christ
+        - /en/tw/bible/pilate
+        - /en/tw/bible/tomb
+      help:
+        - /en/obs-tq/obs/help/40/09
+        - /en/obs-tn/obs/help/40/09
+      img:
+        - /en/obs/obs/img/40/09
+  '41':
+    '01':
+      dict:
+        - /en/tw/bible/crucify
+        - /en/tw/bible/jesus
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/pilate
+        - /en/tw/bible/raise
+        - /en/tw/bible/death
+        - /en/tw/bible/tomb
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/41/01
+        - /en/obs-tn/obs/help/41/01
+      img:
+        - /en/obs/obs/img/41/01
+    '02':
+      dict:
+        - /en/tw/bible/pilate
+        - /en/tw/bible/tomb
+      help:
+        - /en/obs-tq/obs/help/41/02
+        - /en/obs-tn/obs/help/41/02
+      img:
+        - /en/obs/obs/img/41/02
+    '03':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/sabbath
+        - /en/tw/bible/jew
+        - /en/tw/bible/tomb
+      help:
+        - /en/obs-tq/obs/help/41/03
+        - /en/obs-tn/obs/help/41/03
+      img:
+        - /en/obs/obs/img/41/03
+    '04':
+      dict:
+        - /en/tw/bible/angel
+        - /en/tw/bible/heaven
+        - /en/tw/bible/tomb
+        - /en/tw/bible/death
+      help:
+        - /en/obs-tq/obs/help/41/04
+        - /en/obs-tn/obs/help/41/04
+      img:
+        - /en/obs/obs/img/41/04
+    '05':
+      dict:
+        - /en/tw/bible/angel
+        - /en/tw/bible/jesus
+        - /en/tw/bible/raise
+        - /en/tw/bible/death
+        - /en/tw/bible/tomb
+      help:
+        - /en/obs-tq/obs/help/41/05
+        - /en/obs-tn/obs/help/41/05
+      img:
+        - /en/obs/obs/img/41/05
+    '06':
+      dict:
+        - /en/tw/bible/angel
+        - /en/tw/bible/disciple
+        - /en/tw/bible/jesus
+        - /en/tw/bible/raise
+        - /en/tw/bible/death
+        - /en/tw/bible/galilee
+      help:
+        - /en/obs-tq/obs/help/41/06
+        - /en/obs-tn/obs/help/41/06
+      img:
+        - /en/obs/obs/img/41/06
+    '07':
+      dict:
+        - /en/tw/bible/joy
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/41/07
+        - /en/obs-tn/obs/help/41/07
+      img:
+        - /en/obs/obs/img/41/07
+    '08':
+      dict:
+        - /en/tw/bible/disciple
+        - /en/tw/bible/jesus
+        - /en/tw/bible/worship
+        - /en/tw/bible/galilee
+      help:
+        - /en/obs-tq/obs/help/41/08
+        - /en/obs-tn/obs/help/41/08
+      img:
+        - /en/obs/obs/img/41/08
+  '42':
+    '10':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/heaven
+        - /en/tw/bible/peoplegroup
+        - /en/tw/bible/baptize
+        - /en/tw/bible/godthefather
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/obey
+      help:
+        - /en/obs-tq/obs/help/42/10
+        - /en/obs-tn/obs/help/42/10
+      img:
+        - /en/obs/obs/img/42/10
+    '11':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/godthefather
+        - /en/tw/bible/power
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/heaven
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/42/11
+        - /en/obs-tn/obs/help/42/11
+      img:
+        - /en/obs/obs/img/42/11
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/raise
+        - /en/tw/bible/disciple
+        - /en/tw/bible/christ
+        - /en/tw/bible/life
+        - /en/tw/bible/believe
+      help:
+        - /en/obs-tq/obs/help/42/01
+        - /en/obs-tn/obs/help/42/01
+      img:
+        - /en/obs/obs/img/42/01
+    '02':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/jerusalem
+      help:
+        - /en/obs-tq/obs/help/42/02
+        - /en/obs-tn/obs/help/42/02
+      img:
+        - /en/obs/obs/img/42/02
+    '03':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/christ
+        - /en/tw/bible/prophet
+        - /en/tw/bible/suffer
+        - /en/tw/bible/raise
+      help:
+        - /en/obs-tq/obs/help/42/03
+        - /en/obs-tn/obs/help/42/03
+      img:
+        - /en/obs/obs/img/42/03
+    '04':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/42/04
+        - /en/obs-tn/obs/help/42/04
+      img:
+        - /en/obs/obs/img/42/04
+    '05':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/disciple
+        - /en/tw/bible/life
+      help:
+        - /en/obs-tq/obs/help/42/05
+        - /en/obs-tn/obs/help/42/05
+      img:
+        - /en/obs/obs/img/42/05
+    '06':
+      dict:
+        - /en/tw/bible/disciple
+        - /en/tw/bible/jesus
+        - /en/tw/bible/peace
+      help:
+        - /en/obs-tq/obs/help/42/06
+        - /en/obs-tn/obs/help/42/06
+      img:
+        - /en/obs/obs/img/42/06
+    '07':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/fulfill
+        - /en/tw/bible/christ
+        - /en/tw/bible/suffer
+        - /en/tw/bible/death
+        - /en/tw/bible/raise
+      help:
+        - /en/obs-tq/obs/help/42/07
+        - /en/obs-tn/obs/help/42/07
+      img:
+        - /en/obs/obs/img/42/07
+    '08':
+      dict:
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/disciple
+        - /en/tw/bible/repent
+        - /en/tw/bible/receive
+        - /en/tw/bible/forgive
+        - /en/tw/bible/sin
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/peoplegroup
+        - /en/tw/bible/wiobs-tness
+      help:
+        - /en/obs-tq/obs/help/42/08
+        - /en/obs-tn/obs/help/42/08
+      img:
+        - /en/obs/obs/img/42/08
+    '09':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/life
+        - /en/tw/bible/kingdomofgod
+      help:
+        - /en/obs-tq/obs/help/42/09
+        - /en/obs-tn/obs/help/42/09
+      img:
+        - /en/obs/obs/img/42/09
+  '43':
+    '10':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/43/10
+        - /en/obs-tn/obs/help/43/10
+      img:
+        - /en/obs/obs/img/43/10
+    '11':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/repent
+        - /en/tw/bible/baptize
+        - /en/tw/bible/jesus
+        - /en/tw/bible/god
+        - /en/tw/bible/forgive
+        - /en/tw/bible/sin
+        - /en/tw/bible/holyspirit
+      help:
+        - /en/obs-tq/obs/help/43/11
+        - /en/obs-tn/obs/help/43/11
+      img:
+        - /en/obs/obs/img/43/11
+    '12':
+      dict:
+        - /en/tw/bible/believe
+        - /en/tw/bible/peter
+        - /en/tw/bible/disciple
+        - /en/tw/bible/jesus
+        - /en/tw/bible/baptize
+        - /en/tw/bible/church
+        - /en/tw/bible/jerusalem
+      help:
+        - /en/obs-tq/obs/help/43/12
+        - /en/obs-tn/obs/help/43/12
+      img:
+        - /en/obs/obs/img/43/12
+    '13':
+      dict:
+        - /en/tw/bible/disciple
+        - /en/tw/bible/apostle
+        - /en/tw/bible/pray
+        - /en/tw/bible/praise
+        - /en/tw/bible/god
+        - /en/tw/bible/believer
+      help:
+        - /en/obs-tq/obs/help/43/13
+        - /en/obs-tn/obs/help/43/13
+      img:
+        - /en/obs/obs/img/43/13
+    '01':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/heaven
+        - /en/tw/bible/disciple
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/believer
+        - /en/tw/bible/pray
+      help:
+        - /en/obs-tq/obs/help/43/01
+        - /en/obs-tn/obs/help/43/01
+      img:
+        - /en/obs/obs/img/43/01
+    '02':
+      dict:
+        - /en/tw/bible/passover
+        - /en/tw/bible/jew
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/jesus
+        - /en/tw/bible/heaven
+      help:
+        - /en/obs-tq/obs/help/43/02
+        - /en/obs-tn/obs/help/43/02
+      img:
+        - /en/obs/obs/img/43/02
+    '03':
+      dict:
+        - /en/tw/bible/believer
+        - /en/tw/bible/holyspirit
+      help:
+        - /en/obs-tq/obs/help/43/03
+        - /en/obs-tn/obs/help/43/03
+      img:
+        - /en/obs/obs/img/43/03
+    '04':
+      dict:
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/believer
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/43/04
+        - /en/obs-tn/obs/help/43/04
+      img:
+        - /en/obs/obs/img/43/04
+    '05':
+      dict:
+        - /en/tw/bible/disciple
+        - /en/tw/bible/peter
+        - /en/tw/bible/fulfill
+        - /en/tw/bible/prophet
+        - /en/tw/bible/holyspirit
+      help:
+        - /en/obs-tq/obs/help/43/05
+        - /en/obs-tn/obs/help/43/05
+      img:
+        - /en/obs/obs/img/43/05
+    '06':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/jesus
+        - /en/tw/bible/miracle
+        - /en/tw/bible/power
+        - /en/tw/bible/god
+        - /en/tw/bible/crucify
+      help:
+        - /en/obs-tq/obs/help/43/06
+        - /en/obs-tn/obs/help/43/06
+      img:
+        - /en/obs/obs/img/43/06
+    '07':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/god
+        - /en/tw/bible/raise
+        - /en/tw/bible/death
+        - /en/tw/bible/fulfill
+        - /en/tw/bible/prophet
+        - /en/tw/bible/christ
+        - /en/tw/bible/wiobs-tness
+        - /en/tw/bible/life
+      help:
+        - /en/obs-tq/obs/help/43/07
+        - /en/obs-tn/obs/help/43/07
+      img:
+        - /en/obs/obs/img/43/07
+    '08':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/godthefather
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/promise
+      help:
+        - /en/obs-tq/obs/help/43/08
+        - /en/obs-tn/obs/help/43/08
+      img:
+        - /en/obs/obs/img/43/08
+    '09':
+      dict:
+        - /en/tw/bible/crucify
+        - /en/tw/bible/jesus
+        - /en/tw/bible/god
+        - /en/tw/bible/lord
+        - /en/tw/bible/christ
+      help:
+        - /en/obs-tq/obs/help/43/09
+        - /en/obs-tn/obs/help/43/09
+      img:
+        - /en/obs/obs/img/43/09
+  '44':
+    '01':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/johntheapostle
+        - /en/tw/bible/temple
+        - /en/tw/bible/beg
+      help:
+        - /en/obs-tq/obs/help/44/01
+        - /en/obs-tn/obs/help/44/01
+      img:
+        - /en/obs/obs/img/44/01
+    '02':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/44/02
+        - /en/obs-tn/obs/help/44/02
+      img:
+        - /en/obs/obs/img/44/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/heal
+        - /en/tw/bible/praise
+        - /en/tw/bible/temple
+      help:
+        - /en/obs-tq/obs/help/44/03
+        - /en/obs-tn/obs/help/44/03
+      img:
+        - /en/obs/obs/img/44/03
+    '04':
+      dict:
+        - /en/tw/bible/heal
+        - /en/tw/bible/peter
+        - /en/tw/bible/power
+        - /en/tw/bible/jesus
+        - /en/tw/bible/faith
+      help:
+        - /en/obs-tq/obs/help/44/04
+        - /en/obs-tn/obs/help/44/04
+      img:
+        - /en/obs/obs/img/44/04
+    '05':
+      dict:
+        - /en/tw/bible/rome
+        - /en/tw/bible/jesus
+        - /en/tw/bible/life
+        - /en/tw/bible/god
+        - /en/tw/bible/raise
+        - /en/tw/bible/death
+        - /en/tw/bible/fulfill
+        - /en/tw/bible/prophet
+        - /en/tw/bible/christ
+        - /en/tw/bible/suffer
+        - /en/tw/bible/repent
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/44/05
+        - /en/obs-tn/obs/help/44/05
+      img:
+        - /en/obs/obs/img/44/05
+    '06':
+      dict:
+        - /en/tw/bible/temple
+        - /en/tw/bible/peter
+        - /en/tw/bible/johntheapostle
+        - /en/tw/bible/believe
+      help:
+        - /en/obs-tq/obs/help/44/06
+        - /en/obs-tn/obs/help/44/06
+      img:
+        - /en/obs/obs/img/44/06
+    '07':
+      dict:
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/peter
+        - /en/tw/bible/johntheapostle
+        - /en/tw/bible/highpriest
+        - /en/tw/bible/power
+      help:
+        - /en/obs-tq/obs/help/44/07
+        - /en/obs-tn/obs/help/44/07
+      img:
+        - /en/obs/obs/img/44/07
+    '08':
+      dict:
+        - /en/tw/bible/peter
+        - /en/tw/bible/heal
+        - /en/tw/bible/power
+        - /en/tw/bible/jesus
+        - /en/tw/bible/christ
+        - /en/tw/bible/crucify
+        - /en/tw/bible/god
+        - /en/tw/bible/raise
+        - /en/tw/bible/life
+        - /en/tw/bible/save
+      help:
+        - /en/obs-tq/obs/help/44/08
+        - /en/obs-tn/obs/help/44/08
+      img:
+        - /en/obs/obs/img/44/08
+    '09':
+      dict:
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/peter
+        - /en/tw/bible/johntheapostle
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/44/09
+        - /en/obs-tn/obs/help/44/09
+      img:
+        - /en/obs/obs/img/44/09
+  '45':
+    '10':
+      dict:
+        - /en/tw/bible/isaiah
+        - /en/tw/bible/jesus
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/goodnews
+      help:
+        - /en/obs-tq/obs/help/45/10
+        - /en/obs-tn/obs/help/45/10
+      img:
+        - /en/obs/obs/img/45/10
+    '11':
+      dict:
+        - /en/tw/bible/baptize
+        - /en/tw/bible/chariot
+      help:
+        - /en/obs-tq/obs/help/45/11
+        - /en/obs-tn/obs/help/45/11
+      img:
+        - /en/obs/obs/img/45/11
+    '12':
+      dict:
+        - /en/tw/bible/baptize
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/45/12
+        - /en/obs-tn/obs/help/45/12
+      img:
+        - /en/obs/obs/img/45/12
+    '13':
+      dict:
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/45/13
+        - /en/obs-tn/obs/help/45/13
+      img:
+        - /en/obs/obs/img/45/13
+    '01':
+      dict:
+        - /en/tw/bible/church
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/wise
+        - /en/tw/bible/miracle
+        - /en/tw/bible/believe
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/45/01
+        - /en/obs-tn/obs/help/45/01
+      img:
+        - /en/obs/obs/img/45/01
+    '02':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/jew
+        - /en/tw/bible/jewishleaders
+        - /en/tw/bible/evil
+        - /en/tw/bible/moses
+        - /en/tw/bible/god
+        - /en/tw/bible/highpriest
+        - /en/tw/bible/wiobs-tness
+      help:
+        - /en/obs-tq/obs/help/45/02
+        - /en/obs-tn/obs/help/45/02
+      img:
+        - /en/obs/obs/img/45/02
+    '03':
+      dict:
+        - /en/tw/bible/highpriest
+        - /en/tw/bible/true
+        - /en/tw/bible/god
+        - /en/tw/bible/abraham
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disobey
+        - /en/tw/bible/rebel
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/prophet
+        - /en/tw/bible/christ
+      help:
+        - /en/obs-tq/obs/help/45/03
+        - /en/obs-tn/obs/help/45/03
+      img:
+        - /en/obs/obs/img/45/03
+    '04':
+      dict:
+        - /en/tw/bible/jewishleaders
+      help:
+        - /en/obs-tq/obs/help/45/04
+        - /en/obs-tn/obs/help/45/04
+      img:
+        - /en/obs/obs/img/45/04
+    '05':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/receive
+        - /en/tw/bible/spirit
+        - /en/tw/bible/lord
+        - /en/tw/bible/sin
+        - /en/tw/bible/death
+      help:
+        - /en/obs-tq/obs/help/45/05
+        - /en/obs-tn/obs/help/45/05
+      img:
+        - /en/obs/obs/img/45/05
+    '06':
+      dict:
+        - /en/tw/bible/paul
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/persecute
+        - /en/tw/bible/jesus
+        - /en/tw/bible/believer
+        - /en/tw/bible/preach
+      help:
+        - /en/obs-tq/obs/help/45/06
+        - /en/obs-tn/obs/help/45/06
+      img:
+        - /en/obs/obs/img/45/06
+    '07':
+      dict:
+        - /en/tw/bible/disciple
+        - /en/tw/bible/jesus
+        - /en/tw/bible/believer
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/persecute
+        - /en/tw/bible/samaria
+        - /en/tw/bible/preach
+        - /en/tw/bible/save
+        - /en/tw/bible/angel
+        - /en/tw/bible/god
+        - /en/tw/bible/chariot
+        - /en/tw/bible/holyspirit
+      help:
+        - /en/obs-tq/obs/help/45/07
+        - /en/obs-tn/obs/help/45/07
+      img:
+        - /en/obs/obs/img/45/07
+    '08':
+      dict:
+        - /en/tw/bible/chariot
+        - /en/tw/bible/isaiah
+        - /en/tw/bible/lamb
+        - /en/tw/bible/life
+      help:
+        - /en/obs-tq/obs/help/45/08
+        - /en/obs-tn/obs/help/45/08
+      img:
+        - /en/obs/obs/img/45/08
+    '09':
+      dict:
+        - /en/tw/bible/isaiah
+      help:
+        - /en/obs-tq/obs/help/45/09
+        - /en/obs-tn/obs/help/45/09
+      img:
+        - /en/obs/obs/img/45/09
+  '46':
+    '10':
+      dict:
+        - /en/tw/bible/fast
+        - /en/tw/bible/pray
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/church
+        - /en/tw/bible/barnabas
+        - /en/tw/bible/paul
+        - /en/tw/bible/preach
+        - /en/tw/bible/goodnews
+        - /en/tw/bible/jesus
+        - /en/tw/bible/believe
+      help:
+        - /en/obs-tq/obs/help/46/10
+        - /en/obs-tn/obs/help/46/10
+      img:
+        - /en/obs/obs/img/46/10
+    '01':
+      dict:
+        - /en/tw/bible/paul
+        - /en/tw/bible/believe
+        - /en/tw/bible/jesus
+        - /en/tw/bible/persecute
+        - /en/tw/bible/believer
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/highpriest
+      help:
+        - /en/obs-tq/obs/help/46/01
+        - /en/obs-tn/obs/help/46/01
+      img:
+        - /en/obs/obs/img/46/01
+    '02':
+      dict:
+        - /en/tw/bible/paul
+        - /en/tw/bible/persecute
+        - /en/tw/bible/lord
+      help:
+        - /en/obs-tq/obs/help/46/02
+        - /en/obs-tn/obs/help/46/02
+      img:
+        - /en/obs/obs/img/46/02
+    '03':
+      dict:
+        - /en/tw/bible/paul
+      help:
+        - /en/obs-tq/obs/help/46/03
+        - /en/obs-tn/obs/help/46/03
+      img:
+        - /en/obs/obs/img/46/03
+    '04':
+      dict:
+        - /en/tw/bible/disciple
+        - /en/tw/bible/god
+        - /en/tw/bible/paul
+        - /en/tw/bible/lord
+        - /en/tw/bible/persecute
+        - /en/tw/bible/suffer
+      help:
+        - /en/obs-tq/obs/help/46/04
+        - /en/obs-tn/obs/help/46/04
+      img:
+        - /en/obs/obs/img/46/04
+    '05':
+      dict:
+        - /en/tw/bible/paul
+        - /en/tw/bible/jesus
+        - /en/tw/bible/holyspirit
+        - /en/tw/bible/baptize
+      help:
+        - /en/obs-tq/obs/help/46/05
+        - /en/obs-tn/obs/help/46/05
+      img:
+        - /en/obs/obs/img/46/05
+    '06':
+      dict:
+        - /en/tw/bible/paul
+        - /en/tw/bible/preach
+        - /en/tw/bible/jew
+        - /en/tw/bible/jesus
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/believer
+        - /en/tw/bible/christ
+      help:
+        - /en/obs-tq/obs/help/46/06
+        - /en/obs-tn/obs/help/46/06
+      img:
+        - /en/obs/obs/img/46/06
+    '07':
+      dict:
+        - /en/tw/bible/jew
+        - /en/tw/bible/paul
+        - /en/tw/bible/preach
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/46/07
+        - /en/obs-tn/obs/help/46/07
+      img:
+        - /en/obs/obs/img/46/07
+    '08':
+      dict:
+        - /en/tw/bible/paul
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/disciple
+        - /en/tw/bible/believer
+        - /en/tw/bible/barnabas
+        - /en/tw/bible/apostle
+        - /en/tw/bible/preach
+      help:
+        - /en/obs-tq/obs/help/46/08
+        - /en/obs-tn/obs/help/46/08
+      img:
+        - /en/obs/obs/img/46/08
+    '09':
+      dict:
+        - /en/tw/bible/persecute
+        - /en/tw/bible/jerusalem
+        - /en/tw/bible/jesus
+        - /en/tw/bible/jew
+        - /en/tw/bible/barnabas
+        - /en/tw/bible/paul
+        - /en/tw/bible/church
+        - /en/tw/bible/christian
+      help:
+        - /en/obs-tq/obs/help/46/09
+        - /en/obs-tn/obs/help/46/09
+      img:
+        - /en/obs/obs/img/46/09
+  '47':
+    '10':
+      dict:
+        - /en/tw/bible/rome
+        - /en/tw/bible/paul
+      help:
+        - /en/obs-tq/obs/help/47/10
+        - /en/obs-tn/obs/help/47/10
+      img:
+        - /en/obs/obs/img/47/10
+    '11':
+      dict:
+        - /en/tw/bible/paul
+        - /en/tw/bible/silas
+        - /en/tw/bible/save
+        - /en/tw/bible/believe
+        - /en/tw/bible/jesus
+        - /en/tw/bible/lord
+        - /en/tw/bible/preach
+        - /en/tw/bible/goodnews
+      help:
+        - /en/obs-tq/obs/help/47/11
+        - /en/obs-tn/obs/help/47/11
+      img:
+        - /en/obs/obs/img/47/11
+    '12':
+      dict:
+        - /en/tw/bible/believe
+        - /en/tw/bible/jesus
+        - /en/tw/bible/baptize
+        - /en/tw/bible/paul
+        - /en/tw/bible/silas
+        - /en/tw/bible/joy
+      help:
+        - /en/obs-tq/obs/help/47/12
+        - /en/obs-tn/obs/help/47/12
+      img:
+        - /en/obs/obs/img/47/12
+    '13':
+      dict:
+        - /en/tw/bible/paul
+        - /en/tw/bible/silas
+        - /en/tw/bible/philippi
+        - /en/tw/bible/goodnews
+        - /en/tw/bible/jesus
+        - /en/tw/bible/church
+      help:
+        - /en/obs-tq/obs/help/47/13
+        - /en/obs-tn/obs/help/47/13
+      img:
+        - /en/obs/obs/img/47/13
+    '14':
+      dict:
+        - /en/tw/bible/paul
+        - /en/tw/bible/christian
+        - /en/tw/bible/preach
+        - /en/tw/bible/goodnews
+        - /en/tw/bible/jesus
+        - /en/tw/bible/believer
+        - /en/tw/bible/church
+      help:
+        - /en/obs-tq/obs/help/47/14
+        - /en/obs-tn/obs/help/47/14
+      img:
+        - /en/obs/obs/img/47/14
+    '01':
+      dict:
+        - /en/tw/bible/rome
+        - /en/tw/bible/paul
+        - /en/tw/bible/silas
+        - /en/tw/bible/philippi
+        - /en/tw/bible/goodnews
+        - /en/tw/bible/jesus
+        - /en/tw/bible/love
+        - /en/tw/bible/worship
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/47/01
+        - /en/obs-tn/obs/help/47/01
+      img:
+        - /en/obs/obs/img/47/01
+    '02':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/believe
+        - /en/tw/bible/jesus
+        - /en/tw/bible/baptize
+        - /en/tw/bible/paul
+        - /en/tw/bible/silas
+      help:
+        - /en/obs-tq/obs/help/47/02
+        - /en/obs-tn/obs/help/47/02
+      img:
+        - /en/obs/obs/img/47/02
+    '03':
+      dict:
+        - /en/tw/bible/paul
+        - /en/tw/bible/silas
+        - /en/tw/bible/pray
+        - /en/tw/bible/servant
+        - /en/tw/bible/demonpossessed
+        - /en/tw/bible/demon
+        - /en/tw/bible/lord
+      help:
+        - /en/obs-tq/obs/help/47/03
+        - /en/obs-tn/obs/help/47/03
+      img:
+        - /en/obs/obs/img/47/03
+    '04':
+      dict:
+        - /en/tw/bible/servant
+        - /en/tw/bible/god
+        - /en/tw/bible/save
+        - /en/tw/bible/paul
+      help:
+        - /en/obs-tq/obs/help/47/04
+        - /en/obs-tn/obs/help/47/04
+      img:
+        - /en/obs/obs/img/47/04
+    '05':
+      dict:
+        - /en/tw/bible/servant
+        - /en/tw/bible/paul
+        - /en/tw/bible/demon
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/47/05
+        - /en/obs-tn/obs/help/47/05
+      img:
+        - /en/obs/obs/img/47/05
+    '06':
+      dict:
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/47/06
+        - /en/obs-tn/obs/help/47/06
+      img:
+        - /en/obs/obs/img/47/06
+    '07':
+      dict:
+        - /en/tw/bible/servant
+        - /en/tw/bible/paul
+        - /en/tw/bible/silas
+        - /en/tw/bible/rome
+      help:
+        - /en/obs-tq/obs/help/47/07
+        - /en/obs-tn/obs/help/47/07
+      img:
+        - /en/obs/obs/img/47/07
+    '08':
+      dict:
+        - /en/tw/bible/paul
+        - /en/tw/bible/silas
+        - /en/tw/bible/praise
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/47/08
+        - /en/obs-tn/obs/help/47/08
+      img:
+        - /en/obs/obs/img/47/08
+  '48':
+    '10':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/passover
+        - /en/tw/bible/lamb
+        - /en/tw/bible/believe
+        - /en/tw/bible/blood
+        - /en/tw/bible/sin
+        - /en/tw/bible/god
+        - /en/tw/bible/punish
+      help:
+        - /en/obs-tq/obs/help/48/10
+        - /en/obs-tn/obs/help/48/10
+      img:
+        - /en/obs/obs/img/48/10
+    '11':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/covenant
+        - /en/tw/bible/israel
+        - /en/tw/bible/newcovenant
+        - /en/tw/bible/peoplegroup
+        - /en/tw/bible/believe
+      help:
+        - /en/obs-tq/obs/help/48/11
+        - /en/obs-tn/obs/help/48/11
+      img:
+        - /en/obs/obs/img/48/11
+    '12':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/prophet
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/jesus
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/48/12
+        - /en/obs-tn/obs/help/48/12
+      img:
+        - /en/obs/obs/img/48/12
+    '13':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/promise
+        - /en/tw/bible/david
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/christ
+        - /en/tw/bible/descendant
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/48/13
+        - /en/obs-tn/obs/help/48/13
+      img:
+        - /en/obs/obs/img/48/13
+    '14':
+      dict:
+        - /en/tw/bible/david
+        - /en/tw/bible/king
+        - /en/tw/bible/israel
+        - /en/tw/bible/jesus
+        - /en/tw/bible/kingdomofgod
+        - /en/tw/bible/justice
+        - /en/tw/bible/peace
+      help:
+        - /en/obs-tq/obs/help/48/14
+        - /en/obs-tn/obs/help/48/14
+      img:
+        - /en/obs/obs/img/48/14
+    '01':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/sin
+        - /en/tw/bible/adam
+        - /en/tw/bible/eve
+        - /en/tw/bible/love
+        - /en/tw/bible/death
+      help:
+        - /en/obs-tq/obs/help/48/01
+        - /en/obs-tn/obs/help/48/01
+      img:
+        - /en/obs/obs/img/48/01
+    '02':
+      dict:
+        - /en/tw/bible/satan
+        - /en/tw/bible/eve
+        - /en/tw/bible/adam
+        - /en/tw/bible/sin
+        - /en/tw/bible/god
+        - /en/tw/bible/death
+      help:
+        - /en/obs-tq/obs/help/48/02
+        - /en/obs-tn/obs/help/48/02
+      img:
+        - /en/obs/obs/img/48/02
+    '03':
+      dict:
+        - /en/tw/bible/adam
+        - /en/tw/bible/eve
+        - /en/tw/bible/sin
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/48/03
+        - /en/obs-tn/obs/help/48/03
+      img:
+        - /en/obs/obs/img/48/03
+    '04':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/promise
+        - /en/tw/bible/eve
+        - /en/tw/bible/descendant
+        - /en/tw/bible/satan
+        - /en/tw/bible/christ
+        - /en/tw/bible/raise
+        - /en/tw/bible/life
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/48/04
+        - /en/obs-tn/obs/help/48/04
+      img:
+        - /en/obs/obs/img/48/04
+    '05':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/save
+        - /en/tw/bible/believe
+        - /en/tw/bible/sin
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/48/05
+        - /en/obs-tn/obs/help/48/05
+      img:
+        - /en/obs/obs/img/48/05
+    '06':
+      dict:
+        - /en/tw/bible/priest
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/god
+        - /en/tw/bible/sin
+        - /en/tw/bible/jesus
+        - /en/tw/bible/highpriest
+        - /en/tw/bible/punish
+      help:
+        - /en/obs-tq/obs/help/48/06
+        - /en/obs-tn/obs/help/48/06
+      img:
+        - /en/obs/obs/img/48/06
+    '07':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/abraham
+        - /en/tw/bible/peoplegroup
+        - /en/tw/bible/bless
+        - /en/tw/bible/jesus
+        - /en/tw/bible/descendant
+        - /en/tw/bible/believe
+        - /en/tw/bible/save
+        - /en/tw/bible/spirit
+      help:
+        - /en/obs-tq/obs/help/48/07
+        - /en/obs-tn/obs/help/48/07
+      img:
+        - /en/obs/obs/img/48/07
+    '08':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/abraham
+        - /en/tw/bible/son
+        - /en/tw/bible/isaac
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/lamb
+        - /en/tw/bible/death
+        - /en/tw/bible/sin
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/48/08
+        - /en/obs-tn/obs/help/48/08
+      img:
+        - /en/obs/obs/img/48/08
+    '09':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/egypt
+        - /en/tw/bible/israel
+        - /en/tw/bible/lamb
+        - /en/tw/bible/blood
+        - /en/tw/bible/passover
+      help:
+        - /en/obs-tq/obs/help/48/09
+        - /en/obs-tn/obs/help/48/09
+      img:
+        - /en/obs/obs/img/48/09
+  '49':
+    '10':
+      dict:
+        - /en/tw/bible/sin
+        - /en/tw/bible/guilt
+        - /en/tw/bible/death
+        - /en/tw/bible/god
+        - /en/tw/bible/jesus
+        - /en/tw/bible/cross
+        - /en/tw/bible/receive
+        - /en/tw/bible/punish
+      help:
+        - /en/obs-tq/obs/help/49/10
+        - /en/obs-tn/obs/help/49/10
+      img:
+        - /en/obs/obs/img/49/10
+    '11':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/sin
+        - /en/tw/bible/punish
+        - /en/tw/bible/death
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/god
+        - /en/tw/bible/forgive
+      help:
+        - /en/obs-tq/obs/help/49/11
+        - /en/obs-tn/obs/help/49/11
+      img:
+        - /en/obs/obs/img/49/11
+    '12':
+      dict:
+        - /en/tw/bible/save
+        - /en/tw/bible/god
+        - /en/tw/bible/jesus
+        - /en/tw/bible/sin
+        - /en/tw/bible/believe
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/death
+        - /en/tw/bible/cross
+        - /en/tw/bible/raise
+        - /en/tw/bible/life
+      help:
+        - /en/obs-tq/obs/help/49/12
+        - /en/obs-tn/obs/help/49/12
+      img:
+        - /en/obs/obs/img/49/12
+    '13':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/save
+        - /en/tw/bible/believe
+        - /en/tw/bible/jesus
+        - /en/tw/bible/receive
+        - /en/tw/bible/lord
+        - /en/tw/bible/love
+      help:
+        - /en/obs-tq/obs/help/49/13
+        - /en/obs-tn/obs/help/49/13
+      img:
+        - /en/obs/obs/img/49/13
+    '14':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/believe
+        - /en/tw/bible/baptize
+        - /en/tw/bible/christ
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/sin
+        - /en/tw/bible/god
+        - /en/tw/bible/punish
+        - /en/tw/bible/death
+        - /en/tw/bible/cross
+      help:
+        - /en/obs-tq/obs/help/49/14
+        - /en/obs-tn/obs/help/49/14
+      img:
+        - /en/obs/obs/img/49/14
+    '15':
+      dict:
+        - /en/tw/bible/believe
+        - /en/tw/bible/jesus
+        - /en/tw/bible/christian
+        - /en/tw/bible/god
+        - /en/tw/bible/satan
+        - /en/tw/bible/kingdom
+        - /en/tw/bible/kingdomofgod
+      help:
+        - /en/obs-tq/obs/help/49/15
+        - /en/obs-tn/obs/help/49/15
+      img:
+        - /en/obs/obs/img/49/15
+    '16':
+      dict:
+        - /en/tw/bible/christian
+        - /en/tw/bible/god
+        - /en/tw/bible/forgive
+        - /en/tw/bible/sin
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/49/16
+        - /en/obs-tn/obs/help/49/16
+      img:
+        - /en/obs/obs/img/49/16
+    '17':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/servant
+        - /en/tw/bible/jesus
+        - /en/tw/bible/lord
+        - /en/tw/bible/obey
+        - /en/tw/bible/christian
+        - /en/tw/bible/tempt
+        - /en/tw/bible/sin
+        - /en/tw/bible/faithful
+        - /en/tw/bible/forgive
+      help:
+        - /en/obs-tq/obs/help/49/17
+        - /en/obs-tn/obs/help/49/17
+      img:
+        - /en/obs/obs/img/49/17
+    '18':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/pray
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/worship
+        - /en/tw/bible/christian
+      help:
+        - /en/obs-tq/obs/help/49/18
+        - /en/obs-tn/obs/help/49/18
+      img:
+        - /en/obs/obs/img/49/18
+    '01':
+      dict:
+        - /en/tw/bible/virgin
+        - /en/tw/bible/mary
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/49/01
+        - /en/obs-tn/obs/help/49/01
+      img:
+        - /en/obs/obs/img/49/01
+    '02':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/miracle
+        - /en/tw/bible/god
+        - /en/tw/bible/heal
+        - /en/tw/bible/demon
+        - /en/tw/bible/raise
+        - /en/tw/bible/death
+      help:
+        - /en/obs-tq/obs/help/49/02
+        - /en/obs-tn/obs/help/49/02
+      img:
+        - /en/obs/obs/img/49/02
+    '03':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/love
+      help:
+        - /en/obs-tq/obs/help/49/03
+        - /en/obs-tn/obs/help/49/03
+      img:
+        - /en/obs/obs/img/49/03
+    '04':
+      dict:
+        - /en/tw/bible/love
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/49/04
+        - /en/obs-tn/obs/help/49/04
+      img:
+        - /en/obs/obs/img/49/04
+    '05':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/kingdomofgod
+        - /en/tw/bible/save
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/49/05
+        - /en/obs-tn/obs/help/49/05
+      img:
+        - /en/obs/obs/img/49/05
+    '06':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/receive
+        - /en/tw/bible/save
+        - /en/tw/bible/goodnews
+        - /en/tw/bible/wordofgod
+        - /en/tw/bible/kingdomofgod
+      help:
+        - /en/obs-tq/obs/help/49/06
+        - /en/obs-tn/obs/help/49/06
+      img:
+        - /en/obs/obs/img/49/06
+    '07':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/god
+        - /en/tw/bible/love
+        - /en/tw/bible/sin
+        - /en/tw/bible/forgive
+      help:
+        - /en/obs-tq/obs/help/49/07
+        - /en/obs-tn/obs/help/49/07
+      img:
+        - /en/obs/obs/img/49/07
+    '08':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/god
+        - /en/tw/bible/sin
+        - /en/tw/bible/adam
+        - /en/tw/bible/eve
+        - /en/tw/bible/descendant
+      help:
+        - /en/obs-tq/obs/help/49/08
+        - /en/obs-tn/obs/help/49/08
+      img:
+        - /en/obs/obs/img/49/08
+    '09':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/love
+        - /en/tw/bible/sonofgod
+        - /en/tw/bible/believe
+        - /en/tw/bible/jesus
+        - /en/tw/bible/punish
+        - /en/tw/bible/sin
+        - /en/tw/bible/life
+      help:
+        - /en/obs-tq/obs/help/49/09
+        - /en/obs-tn/obs/help/49/09
+      img:
+        - /en/obs/obs/img/49/09
+  '50':
+    '10':
+      dict:
+        - /en/tw/bible/angel
+        - /en/tw/bible/satan
+        - /en/tw/bible/suffer
+        - /en/tw/bible/righteous
+        - /en/tw/bible/kingdomofgod
+        - /en/tw/bible/godthefather
+      help:
+        - /en/obs-tq/obs/help/50/10
+        - /en/obs-tn/obs/help/50/10
+      img:
+        - /en/obs/obs/img/50/10
+    '11':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/christian
+        - /en/tw/bible/death
+        - /en/tw/bible/raise
+      help:
+        - /en/obs-tq/obs/help/50/11
+        - /en/obs-tn/obs/help/50/11
+      img:
+        - /en/obs/obs/img/50/11
+    '12':
+      dict:
+        - /en/tw/bible/christian
+        - /en/tw/bible/life
+        - /en/tw/bible/raise
+        - /en/tw/bible/death
+        - /en/tw/bible/jesus
+      help:
+        - /en/obs-tq/obs/help/50/12
+        - /en/obs-tn/obs/help/50/12
+      img:
+        - /en/obs/obs/img/50/12
+    '13':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/promise
+        - /en/tw/bible/believe
+        - /en/tw/bible/life
+        - /en/tw/bible/god
+        - /en/tw/bible/peace
+      help:
+        - /en/obs-tq/obs/help/50/13
+        - /en/obs-tn/obs/help/50/13
+      img:
+        - /en/obs/obs/img/50/13
+    '14':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/judge
+        - /en/tw/bible/believe
+        - /en/tw/bible/jesus
+        - /en/tw/bible/hell
+      help:
+        - /en/obs-tq/obs/help/50/14
+        - /en/obs-tn/obs/help/50/14
+      img:
+        - /en/obs/obs/img/50/14
+    '15':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/satan
+        - /en/tw/bible/kingdom
+        - /en/tw/bible/hell
+        - /en/tw/bible/obey
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/50/15
+        - /en/obs-tn/obs/help/50/15
+      img:
+        - /en/obs/obs/img/50/15
+    '16':
+      dict:
+        - /en/tw/bible/adam
+        - /en/tw/bible/eve
+        - /en/tw/bible/disobey
+        - /en/tw/bible/god
+        - /en/tw/bible/sin
+        - /en/tw/bible/curse
+        - /en/tw/bible/heaven
+      help:
+        - /en/obs-tq/obs/help/50/16
+        - /en/obs-tn/obs/help/50/16
+      img:
+        - /en/obs/obs/img/50/16
+    '17':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/suffer
+        - /en/tw/bible/evil
+        - /en/tw/bible/death
+        - /en/tw/bible/kingdomofgod
+        - /en/tw/bible/peace
+        - /en/tw/bible/justice
+      help:
+        - /en/obs-tq/obs/help/50/17
+        - /en/obs-tn/obs/help/50/17
+      img:
+        - /en/obs/obs/img/50/17
+    '01':
+      dict:
+        - /en/tw/bible/goodnews
+        - /en/tw/bible/jesus
+        - /en/tw/bible/christ
+        - /en/tw/bible/church
+        - /en/tw/bible/promise
+      help:
+        - /en/obs-tq/obs/help/50/01
+        - /en/obs-tn/obs/help/50/01
+      img:
+        - /en/obs/obs/img/50/01
+    '02':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/god
+        - /en/tw/bible/holy
+        - /en/tw/bible/kingdomofgod
+        - /en/tw/bible/disciple
+        - /en/tw/bible/preach
+        - /en/tw/bible/goodnews
+      help:
+        - /en/obs-tq/obs/help/50/02
+        - /en/obs-tn/obs/help/50/02
+      img:
+        - /en/obs/obs/img/50/02
+    '03':
+      dict:
+        - /en/tw/bible/peoplegroup
+        - /en/tw/bible/jesus
+        - /en/tw/bible/heaven
+        - /en/tw/bible/christian
+        - /en/tw/bible/goodnews
+        - /en/tw/bible/disciple
+      help:
+        - /en/obs-tq/obs/help/50/03
+        - /en/obs-tn/obs/help/50/03
+      img:
+        - /en/obs/obs/img/50/03
+    '04':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/servant
+        - /en/tw/bible/lord
+        - /en/tw/bible/suffer
+        - /en/tw/bible/satan
+        - /en/tw/bible/faithful
+        - /en/tw/bible/save
+      help:
+        - /en/obs-tq/obs/help/50/04
+        - /en/obs-tn/obs/help/50/04
+      img:
+        - /en/obs/obs/img/50/04
+    '05':
+      dict:
+        - /en/tw/bible/jesus
+        - /en/tw/bible/disciple
+        - /en/tw/bible/good
+      help:
+        - /en/obs-tq/obs/help/50/05
+        - /en/obs-tn/obs/help/50/05
+      img:
+        - /en/obs/obs/img/50/05
+    '06':
+      dict:
+        - /en/tw/bible/servant
+        - /en/tw/bible/lord
+        - /en/tw/bible/good
+      help:
+        - /en/obs-tq/obs/help/50/06
+        - /en/obs-tn/obs/help/50/06
+      img:
+        - /en/obs/obs/img/50/06
+    '07':
+      dict:
+        - /en/tw/bible/servant
+        - /en/tw/bible/lord
+      help:
+        - /en/obs-tq/obs/help/50/07
+        - /en/obs-tn/obs/help/50/07
+      img:
+        - /en/obs/obs/img/50/07
+    '08':
+      dict:
+        - /en/tw/bible/disciple
+        - /en/tw/bible/jesus
+        - /en/tw/bible/good
+        - /en/tw/bible/christ
+        - /en/tw/bible/kingdomofgod
+      help:
+        - /en/obs-tq/obs/help/50/08
+        - /en/obs-tn/obs/help/50/08
+      img:
+        - /en/obs/obs/img/50/08
+    '09':
+      dict:
+        - /en/tw/bible/evil
+        - /en/tw/bible/satan
+        - /en/tw/bible/god
+        - /en/tw/bible/angel
+      help:
+        - /en/obs-tq/obs/help/50/09
+        - /en/obs-tn/obs/help/50/09
+      img:
+        - /en/obs/obs/img/50/09
+  '01':
+    '10':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/life
+        - /en/tw/bible/adam
+      help:
+        - /en/obs-tn/obs/help/01/10
+        - /en/obs-tq/obs/help/01/10
+      img:
+        - /en/obs/obs/img/01/10
+    '11':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/life
+        - /en/tw/bible/good
+        - /en/tw/bible/evil
+        - /en/tw/bible/adam
+        - /en/tw/bible/death
+      help:
+        - /en/obs-tn/obs/help/01/11
+        - /en/obs-tq/obs/help/01/11
+      img:
+        - /en/obs/obs/img/01/11
+    '12':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/good
+        - /en/tw/bible/adam
+      help:
+        - /en/obs-tn/obs/help/01/12
+        - /en/obs-tq/obs/help/01/12
+      img:
+        - /en/obs/obs/img/01/12
+    '13':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/adam
+      help:
+        - /en/obs-tn/obs/help/01/13
+        - /en/obs-tq/obs/help/01/13
+      img:
+        - /en/obs/obs/img/01/13
+    '14':
+      dict:
+        - /en/tw/bible/adam
+      help:
+        - /en/obs-tn/obs/help/01/14
+        - /en/obs-tq/obs/help/01/14
+      img:
+        - /en/obs/obs/img/01/14
+    '15':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/bless
+        - /en/tw/bible/good
+      help:
+        - /en/obs-tn/obs/help/01/15
+        - /en/obs-tq/obs/help/01/15
+      img:
+        - /en/obs/obs/img/01/15
+    '16':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/bless
+        - /en/tw/bible/holy
+      help:
+        - /en/obs-tn/obs/help/01/16
+        - /en/obs-tq/obs/help/01/16
+      img:
+        - /en/obs/obs/img/01/16
+    '01':
+      dict:
+        - /en/tw/bible/dict/god
+        - /en/tw/bible/dict/holyspirit
+      help:
+        - /en/obs-tn/obs/help/01/01
+        - /en/obs-tq/obs/help/01/01
+      img:
+        - /en/obs/obs/img/01/01
+    '02':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/good
+      help:
+        - /en/obs-tn/obs/help/01/02
+        - /en/obs-tq/obs/help/01/02
+      img:
+        - /en/obs/obs/img/01/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tn/obs/help/01/03
+        - /en/obs-tq/obs/help/01/03
+      img:
+        - /en/obs/obs/img/01/03
+    '04':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/good
+      help:
+        - /en/obs-tn/obs/help/01/04
+        - /en/obs-tq/obs/help/01/04
+      img:
+        - /en/obs/obs/img/01/04
+    '05':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/good
+      help:
+        - /en/obs-tn/obs/help/01/05
+        - /en/obs-tq/obs/help/01/05
+      img:
+        - /en/obs/obs/img/01/05
+    '06':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/good
+      help:
+        - /en/obs-tn/obs/help/01/06
+        - /en/obs-tq/obs/help/01/06
+      img:
+        - /en/obs/obs/img/01/06
+    '07':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/good
+        - /en/tw/bible/bless
+      help:
+        - /en/obs-tn/obs/help/01/07
+        - /en/obs-tq/obs/help/01/07
+      img:
+        - /en/obs/obs/img/01/07
+    '08':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/good
+      help:
+        - /en/obs-tn/obs/help/01/08
+        - /en/obs-tq/obs/help/01/08
+      img:
+        - /en/obs/obs/img/01/08
+    '09':
+      dict:
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tn/obs/help/01/09
+        - /en/obs-tq/obs/help/01/09
+      img:
+        - /en/obs/obs/img/01/09
+  '02':
+    '10':
+      dict:
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/02/10
+        - /en/obs-tn/obs/help/02/10
+      img:
+        - /en/obs/obs/img/02/10
+    '11':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/disobey
+        - /en/tw/bible/curse
+        - /en/tw/bible/death
+        - /en/tw/bible/eve
+        - /en/tw/bible/adam
+      help:
+        - /en/obs-tq/obs/help/02/11
+        - /en/obs-tn/obs/help/02/11
+      img:
+        - /en/obs/obs/img/02/11
+    '12':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/good
+        - /en/tw/bible/evil
+        - /en/tw/bible/life
+        - /en/tw/bible/adam
+        - /en/tw/bible/eve
+        - /en/tw/bible/angel
+      help:
+        - /en/obs-tq/obs/help/02/12
+        - /en/obs-tn/obs/help/02/12
+      img:
+        - /en/obs/obs/img/02/12
+    '01':
+      dict:
+        - /en/tw/bible/adam
+        - /en/tw/bible/god
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/02/01
+        - /en/obs-tn/obs/help/02/01
+      img:
+        - /en/obs/obs/img/02/01
+    '02':
+      dict:
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/02/02
+        - /en/obs-tn/obs/help/02/02
+      img:
+        - /en/obs/obs/img/02/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/good
+        - /en/tw/bible/evil
+        - /en/tw/bible/death
+      help:
+        - /en/obs-tq/obs/help/02/03
+        - /en/obs-tn/obs/help/02/03
+      img:
+        - /en/obs/obs/img/02/03
+    '04':
+      dict:
+        - /en/tw/bible/true
+        - /en/tw/bible/death
+        - /en/tw/bible/god
+        - /en/tw/bible/good
+        - /en/tw/bible/evil
+      help:
+        - /en/obs-tq/obs/help/02/04
+        - /en/obs-tn/obs/help/02/04
+      img:
+        - /en/obs/obs/img/02/04
+    '05':
+      dict:
+        - /en/tw/bible/wise
+      help:
+        - /en/obs-tq/obs/help/02/05
+        - /en/obs-tn/obs/help/02/05
+      img:
+        - /en/obs/obs/img/02/05
+    '07':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/adam
+      help:
+        - /en/obs-tq/obs/help/02/07
+        - /en/obs-tn/obs/help/02/07
+      img:
+        - /en/obs/obs/img/02/07
+    '08':
+      dict:
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/02/08
+        - /en/obs-tn/obs/help/02/08
+      img:
+        - /en/obs/obs/img/02/08
+    '09':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/curse
+        - /en/tw/bible/descendant
+      help:
+        - /en/obs-tq/obs/help/02/09
+        - /en/obs-tn/obs/help/02/09
+      img:
+        - /en/obs/obs/img/02/09
+  '03':
+    '10':
+      dict:
+        - /en/tw/bible/noah
+      help:
+        - /en/obs-tq/obs/help/03/10
+        - /en/obs-tn/obs/help/03/10
+      img:
+        - /en/obs/obs/img/03/10
+    '11':
+      dict:
+        - /en/tw/bible/noah
+      help:
+        - /en/obs-tq/obs/help/03/11
+        - /en/obs-tn/obs/help/03/11
+      img:
+        - /en/obs/obs/img/03/11
+    '12':
+      dict:
+        - /en/tw/bible/noah
+      help:
+        - /en/obs-tq/obs/help/03/12
+        - /en/obs-tn/obs/help/03/12
+      img:
+        - /en/obs/obs/img/03/12
+    '13':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/noah
+      help:
+        - /en/obs-tq/obs/help/03/13
+        - /en/obs-tn/obs/help/03/13
+      img:
+        - /en/obs/obs/img/03/13
+    '14':
+      dict:
+        - /en/tw/bible/noah
+        - /en/tw/bible/altar
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/god
+        - /en/tw/bible/bless
+      help:
+        - /en/obs-tq/obs/help/03/14
+        - /en/obs-tn/obs/help/03/14
+      img:
+        - /en/obs/obs/img/03/14
+    '15':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/promise
+        - /en/tw/bible/curse
+        - /en/tw/bible/evil
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/03/15
+        - /en/obs-tn/obs/help/03/15
+      img:
+        - /en/obs/obs/img/03/15
+    '16':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/promise
+      help:
+        - /en/obs-tq/obs/help/03/16
+        - /en/obs-tn/obs/help/03/16
+      img:
+        - /en/obs/obs/img/03/16
+    '01':
+      dict:
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/03/01
+        - /en/obs-tn/obs/help/03/01
+      img:
+        - /en/obs/obs/img/03/01
+    '02':
+      dict:
+        - /en/tw/bible/noah
+        - /en/tw/bible/god
+        - /en/tw/bible/righteous
+      help:
+        - /en/obs-tq/obs/help/03/02
+        - /en/obs-tn/obs/help/03/02
+      img:
+        - /en/obs/obs/img/03/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/noah
+      help:
+        - /en/obs-tq/obs/help/03/03
+        - /en/obs-tn/obs/help/03/03
+      img:
+        - /en/obs/obs/img/03/03
+    '04':
+      dict:
+        - /en/tw/bible/noah
+        - /en/tw/bible/obey
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/03/04
+        - /en/obs-tn/obs/help/03/04
+      img:
+        - /en/obs/obs/img/03/04
+    '05':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/noah
+      help:
+        - /en/obs-tq/obs/help/03/05
+        - /en/obs-tn/obs/help/03/05
+      img:
+        - /en/obs/obs/img/03/05
+    '06':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/noah
+        - /en/tw/bible/sacrifice
+      help:
+        - /en/obs-tq/obs/help/03/06
+        - /en/obs-tn/obs/help/03/06
+      img:
+        - /en/obs/obs/img/03/06
+    '08':
+      dict:
+        - /en/tw/bible/death
+      help:
+        - /en/obs-tq/obs/help/03/08
+        - /en/obs-tn/obs/help/03/08
+      img:
+        - /en/obs/obs/img/03/08
+  '04':
+    '01':
+      dict:
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/04/01
+        - /en/obs-tn/obs/help/04/01
+      img:
+        - /en/obs/obs/img/04/01
+    '02':
+      dict:
+        - /en/tw/bible/proud
+        - /en/tw/bible/god
+        - /en/tw/bible/heaven
+        - /en/tw/bible/evil
+        - /en/tw/bible/sin
+      help:
+        - /en/obs-tq/obs/help/04/02
+        - /en/obs-tn/obs/help/04/02
+      img:
+        - /en/obs/obs/img/04/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/04/03
+        - /en/obs-tn/obs/help/04/03
+      img:
+        - /en/obs/obs/img/04/03
+    '04':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/abraham
+        - /en/tw/bible/bless
+        - /en/tw/bible/curse
+      help:
+        - /en/obs-tq/obs/help/04/04
+        - /en/obs-tn/obs/help/04/04
+      img:
+        - /en/obs/obs/img/04/04
+    '05':
+      dict:
+        - /en/tw/bible/abraham
+        - /en/tw/bible/obey
+        - /en/tw/bible/god
+        - /en/tw/bible/sarah
+        - /en/tw/bible/servant
+        - /en/tw/bible/canaan
+      help:
+        - /en/obs-tq/obs/help/04/05
+        - /en/obs-tn/obs/help/04/05
+      img:
+        - /en/obs/obs/img/04/05
+    '06':
+      dict:
+        - /en/tw/bible/abraham
+        - /en/tw/bible/canaan
+        - /en/tw/bible/god
+        - /en/tw/bible/descendant
+        - /en/tw/bible/inherit
+      help:
+        - /en/obs-tq/obs/help/04/06
+        - /en/obs-tn/obs/help/04/06
+      img:
+        - /en/obs/obs/img/04/06
+    '07':
+      dict:
+        - /en/tw/bible/abraham
+        - /en/tw/bible/priest
+        - /en/tw/bible/god
+        - /en/tw/bible/bless
+        - /en/tw/bible/heaven
+      help:
+        - /en/obs-tq/obs/help/04/07
+        - /en/obs-tn/obs/help/04/07
+      img:
+        - /en/obs/obs/img/04/07
+    '08':
+      dict:
+        - /en/tw/bible/abraham
+        - /en/tw/bible/sarah
+        - /en/tw/bible/son
+        - /en/tw/bible/god
+        - /en/tw/bible/promise
+        - /en/tw/bible/descendant
+        - /en/tw/bible/believe
+        - /en/tw/bible/righteous
+      help:
+        - /en/obs-tq/obs/help/04/08
+        - /en/obs-tn/obs/help/04/08
+      img:
+        - /en/obs/obs/img/04/08
+    '09':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/covenant
+        - /en/tw/bible/abraham
+        - /en/tw/bible/son
+        - /en/tw/bible/canaan
+        - /en/tw/bible/descendant
+      help:
+        - /en/obs-tq/obs/help/04/09
+        - /en/obs-tn/obs/help/04/09
+      img:
+        - /en/obs/obs/img/04/09
+  '05':
+    '10':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/abraham
+        - /en/tw/bible/son
+        - /en/tw/bible/promise
+        - /en/tw/bible/bless
+        - /en/tw/bible/descendant
+        - /en/tw/bible/obey
+      help:
+        - /en/obs-tq/obs/help/05/10
+        - /en/obs-tn/obs/help/05/10
+      img:
+        - /en/obs/obs/img/05/10
+    '01':
+      dict:
+        - /en/tw/bible/abraham
+        - /en/tw/bible/sarah
+        - /en/tw/bible/canaan
+        - /en/tw/bible/god
+        - /en/tw/bible/servant
+        - /en/tw/bible/hagar
+      help:
+        - /en/obs-tq/obs/help/05/01
+        - /en/obs-tn/obs/help/05/01
+      img:
+        - /en/obs/obs/img/05/01
+    '02':
+      dict:
+        - /en/tw/bible/abraham
+        - /en/tw/bible/hagar
+        - /en/tw/bible/ishmael
+        - /en/tw/bible/sarah
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/05/02
+        - /en/obs-tn/obs/help/05/02
+      img:
+        - /en/obs/obs/img/05/02
+    '03':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/covenant
+        - /en/tw/bible/abraham
+        - /en/tw/bible/descendant
+        - /en/tw/bible/canaan
+        - /en/tw/bible/circumcise
+      help:
+        - /en/obs-tq/obs/help/05/03
+        - /en/obs-tn/obs/help/05/03
+      img:
+        - /en/obs/obs/img/05/03
+    '04':
+      dict:
+        - /en/tw/bible/sarah
+        - /en/tw/bible/son
+        - /en/tw/bible/promise
+        - /en/tw/bible/isaac
+        - /en/tw/bible/covenant
+        - /en/tw/bible/ishmael
+        - /en/tw/bible/god
+        - /en/tw/bible/abraham
+        - /en/tw/bible/sarah
+      help:
+        - /en/obs-tq/obs/help/05/04
+        - /en/obs-tn/obs/help/05/04
+      img:
+        - /en/obs/obs/img/05/04
+    '05':
+      dict:
+        - /en/tw/bible/abraham
+        - /en/tw/bible/circumcise
+        - /en/tw/bible/sarah
+        - /en/tw/bible/son
+        - /en/tw/bible/isaac
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/05/05
+        - /en/obs-tn/obs/help/05/05
+      img:
+        - /en/obs/obs/img/05/05
+    '06':
+      dict:
+        - /en/tw/bible/isaac
+        - /en/tw/bible/god
+        - /en/tw/bible/abraham
+        - /en/tw/bible/faith
+        - /en/tw/bible/son
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/obey
+      help:
+        - /en/obs-tq/obs/help/05/06
+        - /en/obs-tn/obs/help/05/06
+      img:
+        - /en/obs/obs/img/05/06
+    '07':
+      dict:
+        - /en/tw/bible/abraham
+        - /en/tw/bible/isaac
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/lamb
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/05/07
+        - /en/obs-tn/obs/help/05/07
+      img:
+        - /en/obs/obs/img/05/07
+    '08':
+      dict:
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/abraham
+        - /en/tw/bible/son
+        - /en/tw/bible/isaac
+        - /en/tw/bible/altar
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/05/08
+        - /en/obs-tn/obs/help/05/08
+      img:
+        - /en/obs/obs/img/05/08
+    '09':
+      dict:
+        - /en/tw/bible/abraham
+        - /en/tw/bible/god
+        - /en/tw/bible/sacrifice
+        - /en/tw/bible/isaac
+      help:
+        - /en/obs-tq/obs/help/05/09
+        - /en/obs-tn/obs/help/05/09
+      img:
+        - /en/obs/obs/img/05/09
+  '06':
+    '01':
+      dict:
+        - /en/tw/bible/abraham
+        - /en/tw/bible/son
+        - /en/tw/bible/isaac
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/06/01
+        - /en/obs-tn/obs/help/06/01
+      img:
+        - /en/obs/obs/img/06/01
+    '02':
+      dict:
+        - /en/tw/bible/abraham
+        - /en/tw/bible/god
+        - /en/tw/bible/servant
+        - /en/tw/bible/rebekah
+      help:
+        - /en/obs-tq/obs/help/06/02
+        - /en/obs-tn/obs/help/06/02
+      img:
+        - /en/obs/obs/img/06/02
+    '03':
+      dict:
+        - /en/tw/bible/rebekah
+        - /en/tw/bible/servant
+        - /en/tw/bible/isaac
+      help:
+        - /en/obs-tq/obs/help/06/03
+        - /en/obs-tn/obs/help/06/03
+      img:
+        - /en/obs/obs/img/06/03
+    '04':
+      dict:
+        - /en/tw/bible/abraham
+        - /en/tw/bible/promise
+        - /en/tw/bible/god
+        - /en/tw/bible/covenant
+        - /en/tw/bible/isaac
+        - /en/tw/bible/descendant
+        - /en/tw/bible/rebekah
+      help:
+        - /en/obs-tq/obs/help/06/04
+        - /en/obs-tn/obs/help/06/04
+      img:
+        - /en/obs/obs/img/06/04
+    '05':
+      dict:
+        - /en/tw/bible/isaac
+        - /en/tw/bible/rebekah
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/06/05
+        - /en/obs-tn/obs/help/06/05
+      img:
+        - /en/obs/obs/img/06/05
+    '06':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/rebekah
+        - /en/tw/bible/son
+      help:
+        - /en/obs-tq/obs/help/06/06
+        - /en/obs-tn/obs/help/06/06
+      img:
+        - /en/obs/obs/img/06/06
+    '07':
+      dict:
+        - /en/tw/bible/rebekah
+        - /en/tw/bible/son
+        - /en/tw/bible/esau
+        - /en/tw/bible/jacob
+      help:
+        - /en/obs-tq/obs/help/06/07
+        - /en/obs-tn/obs/help/06/07
+      img:
+        - /en/obs/obs/img/06/07
+  '07':
+    '10':
+      dict:
+        - /en/tw/bible/esau
+        - /en/tw/bible/forgive
+        - /en/tw/bible/jacob
+        - /en/tw/bible/peace
+        - /en/tw/bible/canaan
+        - /en/tw/bible/isaac
+        - /en/tw/bible/covenant
+        - /en/tw/bible/promise
+        - /en/tw/bible/god
+        - /en/tw/bible/abraham
+      help:
+        - /en/obs-tq/obs/help/07/10
+        - /en/obs-tn/obs/help/07/10
+      img:
+        - /en/obs/obs/img/07/10
+    '01':
+      dict:
+        - /en/tw/bible/jacob
+        - /en/tw/bible/esau
+        - /en/tw/bible/rebekah
+        - /en/tw/bible/isaac
+      help:
+        - /en/obs-tq/obs/help/07/01
+        - /en/obs-tn/obs/help/07/01
+      img:
+        - /en/obs/obs/img/07/01
+    '02':
+      dict:
+        - /en/tw/bible/esau
+        - /en/tw/bible/jacob
+      help:
+        - /en/obs-tq/obs/help/07/02
+        - /en/obs-tn/obs/help/07/02
+      img:
+        - /en/obs/obs/img/07/02
+    '03':
+      dict:
+        - /en/tw/bible/isaac
+        - /en/tw/bible/bless
+        - /en/tw/bible/esau
+        - /en/tw/bible/rebekah
+        - /en/tw/bible/jacob
+      help:
+        - /en/obs-tq/obs/help/07/03
+        - /en/obs-tn/obs/help/07/03
+      img:
+        - /en/obs/obs/img/07/03
+    '04':
+      dict:
+        - /en/tw/bible/jacob
+        - /en/tw/bible/isaac
+        - /en/tw/bible/esau
+        - /en/tw/bible/bless
+      help:
+        - /en/obs-tq/obs/help/07/04
+        - /en/obs-tn/obs/help/07/04
+      img:
+        - /en/obs/obs/img/07/04
+    '05':
+      dict:
+        - /en/tw/bible/esau
+        - /en/tw/bible/jacob
+        - /en/tw/bible/bless
+      help:
+        - /en/obs-tq/obs/help/07/05
+        - /en/obs-tn/obs/help/07/05
+      img:
+        - /en/obs/obs/img/07/05
+    '06':
+      dict:
+        - /en/tw/bible/rebekah
+        - /en/tw/bible/esau
+        - /en/tw/bible/isaac
+        - /en/tw/bible/jacob
+      help:
+        - /en/obs-tq/obs/help/07/06
+        - /en/obs-tn/obs/help/07/06
+      img:
+        - /en/obs/obs/img/07/06
+    '07':
+      dict:
+        - /en/tw/bible/jacob
+        - /en/tw/bible/rebekah
+        - /en/tw/bible/god
+      help:
+        - /en/obs-tq/obs/help/07/07
+        - /en/obs-tn/obs/help/07/07
+      img:
+        - /en/obs/obs/img/07/07
+    '08':
+      dict:
+        - /en/tw/bible/canaan
+        - /en/tw/bible/jacob
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/07/08
+        - /en/obs-tn/obs/help/07/08
+      img:
+        - /en/obs/obs/img/07/08
+    '09':
+      dict:
+        - /en/tw/bible/jacob
+        - /en/tw/bible/esau
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/07/09
+        - /en/obs-tn/obs/help/07/09
+      img:
+        - /en/obs/obs/img/07/09
+  '08':
+    '10':
+      dict:
+        - /en/tw/bible/egypt
+        - /en/tw/bible/canaan
+        - /en/tw/bible/jacob
+      help:
+        - /en/obs-tq/obs/help/08/10
+        - /en/obs-tn/obs/help/08/10
+      img:
+        - /en/obs/obs/img/08/10
+    '11':
+      dict:
+        - /en/tw/bible/jacob
+        - /en/tw/bible/egypt
+        - /en/tw/bible/josephot
+      help:
+        - /en/obs-tq/obs/help/08/11
+        - /en/obs-tn/obs/help/08/11
+      img:
+        - /en/obs/obs/img/08/11
+    '12':
+      dict:
+        - /en/tw/bible/josephot
+        - /en/tw/bible/evil
+        - /en/tw/bible/servant
+        - /en/tw/bible/god
+        - /en/tw/bible/good
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/08/12
+        - /en/obs-tn/obs/help/08/12
+      img:
+        - /en/obs/obs/img/08/12
+    '13':
+      dict:
+        - /en/tw/bible/josephot
+        - /en/tw/bible/jacob
+      help:
+        - /en/obs-tq/obs/help/08/13
+        - /en/obs-tn/obs/help/08/13
+      img:
+        - /en/obs/obs/img/08/13
+    '14':
+      dict:
+        - /en/tw/bible/jacob
+        - /en/tw/bible/egypt
+        - /en/tw/bible/bless
+      help:
+        - /en/obs-tq/obs/help/08/14
+        - /en/obs-tn/obs/help/08/14
+      img:
+        - /en/obs/obs/img/08/14
+    '15':
+      dict:
+        - /en/tw/bible/covenant
+        - /en/tw/bible/promise
+        - /en/tw/bible/god
+        - /en/tw/bible/abraham
+        - /en/tw/bible/isaac
+        - /en/tw/bible/jacob
+        - /en/tw/bible/descendant
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/08/15
+        - /en/obs-tn/obs/help/08/15
+      img:
+        - /en/obs/obs/img/08/15
+    '01':
+      dict:
+        - /en/tw/bible/jacob
+        - /en/tw/bible/josephot
+      help:
+        - /en/obs-tq/obs/help/08/01
+        - /en/obs-tn/obs/help/08/01
+      img:
+        - /en/obs/obs/img/08/01
+    '02':
+      dict:
+        - /en/tw/bible/josephot
+        - /en/tw/bible/dream
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/08/02
+        - /en/obs-tn/obs/help/08/02
+      img:
+        - /en/obs/obs/img/08/02
+    '03':
+      dict:
+        - /en/tw/bible/josephot
+        - /en/tw/bible/jacob
+      help:
+        - /en/obs-tq/obs/help/08/03
+        - /en/obs-tn/obs/help/08/03
+      img:
+        - /en/obs/obs/img/08/03
+    '04':
+      dict:
+        - /en/tw/bible/servant
+        - /en/tw/bible/josephot
+        - /en/tw/bible/egypt
+        - /en/tw/bible/nileriver
+        - /en/tw/bible/god
+        - /en/tw/bible/bless
+      help:
+        - /en/obs-tq/obs/help/08/04
+        - /en/obs-tn/obs/help/08/04
+      img:
+        - /en/obs/obs/img/08/04
+    '05':
+      dict:
+        - /en/tw/bible/josephot
+        - /en/tw/bible/sin
+        - /en/tw/bible/god
+        - /en/tw/bible/faithful
+        - /en/tw/bible/bless
+      help:
+        - /en/obs-tq/obs/help/08/05
+        - /en/obs-tn/obs/help/08/05
+      img:
+        - /en/obs/obs/img/08/05
+    '06':
+      dict:
+        - /en/tw/bible/josephot
+        - /en/tw/bible/innocent
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/egypt
+        - /en/tw/bible/king
+        - /en/tw/bible/dream
+      help:
+        - /en/obs-tq/obs/help/08/06
+        - /en/obs-tn/obs/help/08/06
+      img:
+        - /en/obs/obs/img/08/06
+    '07':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/josephot
+        - /en/tw/bible/dream
+        - /en/tw/bible/pharaoh
+      help:
+        - /en/obs-tq/obs/help/08/07
+        - /en/obs-tn/obs/help/08/07
+      img:
+        - /en/obs/obs/img/08/07
+    '08':
+      dict:
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/josephot
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/08/08
+        - /en/obs-tn/obs/help/08/08
+      img:
+        - /en/obs/obs/img/08/08
+    '09':
+      dict:
+        - /en/tw/bible/josephot
+      help:
+        - /en/obs-tq/obs/help/08/09
+        - /en/obs-tn/obs/help/08/09
+      img:
+        - /en/obs/obs/img/08/09
+  '09':
+    '10':
+      dict:
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/moses
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/09/10
+        - /en/obs-tn/obs/help/09/10
+      img:
+        - /en/obs/obs/img/09/10
+    '11':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/shepherd
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/09/11
+        - /en/obs-tn/obs/help/09/11
+      img:
+        - /en/obs/obs/img/09/11
+    '12':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/sheep
+        - /en/tw/bible/god
+        - /en/tw/bible/holy
+      help:
+        - /en/obs-tq/obs/help/09/12
+        - /en/obs-tn/obs/help/09/12
+      img:
+        - /en/obs/obs/img/09/12
+    '13':
+      dict:
+        - /en/tw/bible/god
+        - /en/tw/bible/suffer
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/israel
+        - /en/tw/bible/servant
+        - /en/tw/bible/egypt
+        - /en/tw/bible/canaan
+        - /en/tw/bible/promise
+        - /en/tw/bible/abraham
+        - /en/tw/bible/isaac
+        - /en/tw/bible/jacob
+      help:
+        - /en/obs-tq/obs/help/09/13
+        - /en/obs-tn/obs/help/09/13
+      img:
+        - /en/obs/obs/img/09/13
+    '14':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/god
+        - /en/tw/bible/yahweh
+        - /en/tw/bible/abraham
+        - /en/tw/bible/isaac
+        - /en/tw/bible/jacob
+      help:
+        - /en/obs-tq/obs/help/09/14
+        - /en/obs-tn/obs/help/09/14
+      img:
+        - /en/obs/obs/img/09/14
+    '15':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/god
+        - /en/tw/bible/aaron
+      help:
+        - /en/obs-tq/obs/help/09/15
+        - /en/obs-tn/obs/help/09/15
+      img:
+        - /en/obs/obs/img/09/15
+    '01':
+      dict:
+        - /en/tw/bible/josephot
+        - /en/tw/bible/egypt
+        - /en/tw/bible/descendant
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/09/01
+        - /en/obs-tn/obs/help/09/01
+      img:
+        - /en/obs/obs/img/09/01
+    '02':
+      dict:
+        - /en/tw/bible/israel
+        - /en/tw/bible/egypt
+        - /en/tw/bible/josephot
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/servant
+      help:
+        - /en/obs-tq/obs/help/09/02
+        - /en/obs-tn/obs/help/09/02
+      img:
+        - /en/obs/obs/img/09/02
+    '03':
+      dict:
+        - /en/tw/bible/egypt
+        - /en/tw/bible/israel
+        - /en/tw/bible/god
+        - /en/tw/bible/bless
+      help:
+        - /en/obs-tq/obs/help/09/03
+        - /en/obs-tn/obs/help/09/03
+      img:
+        - /en/obs/obs/img/09/03
+    '04':
+      dict:
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/israel
+        - /en/tw/bible/nileriver
+      help:
+        - /en/obs-tq/obs/help/09/04
+        - /en/obs-tn/obs/help/09/04
+      img:
+        - /en/obs/obs/img/09/04
+    '05':
+      dict:
+        - /en/tw/bible/israel
+      help:
+        - /en/obs-tq/obs/help/09/05
+        - /en/obs-tn/obs/help/09/05
+      img:
+        - /en/obs/obs/img/09/05
+    '06':
+      dict:
+        - /en/tw/bible/nileriver
+      help:
+        - /en/obs-tq/obs/help/09/06
+        - /en/obs-tn/obs/help/09/06
+      img:
+        - /en/obs/obs/img/09/06
+    '07':
+      dict:
+        - /en/tw/bible/pharaoh
+        - /en/tw/bible/son
+        - /en/tw/bible/israel
+        - /en/tw/bible/moses
+      help:
+        - /en/obs-tq/obs/help/09/07
+        - /en/obs-tn/obs/help/09/07
+      img:
+        - /en/obs/obs/img/09/07
+    '08':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/egypt
+        - /en/tw/bible/israel
+        - /en/tw/bible/servant
+        - /en/tw/bible/save
+      help:
+        - /en/obs-tq/obs/help/09/08
+        - /en/obs-tn/obs/help/09/08
+      img:
+        - /en/obs/obs/img/09/08
+    '09':
+      dict:
+        - /en/tw/bible/moses
+        - /en/tw/bible/egypt
+      help:
+        - /en/obs-tq/obs/help/09/09
+        - /en/obs-tn/obs/help/09/09
+      img:
+        - /en/obs/obs/img/09/09
