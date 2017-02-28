@@ -44,4 +44,4 @@ projects:
     path: './content'
     sort: 0
     title: 'Open Bible Stories'
-    versification: "ufw",
+    versification: "ufw"
