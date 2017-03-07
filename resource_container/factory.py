@@ -97,9 +97,11 @@ def create(path, manifest):
     if 'projects' not in manifest:
         manifest['projects'] = []
 
+    manifest['dublin_core'].update(defaults['dublin_core'])
+    manifest['checking'].update(defaults['checking'])
     opts = {
-        'dublin_core': {**defaults['dublin_core'], **manifest['dublin_core']},
-        'checking': {**defaults['checking'], **manifest['checking']},
+        'dublin_core': manifest['dublin_core'],
+        'checking': manifest['checking'],
         'projects': defaults['projects'] + manifest['projects']
     }
 
