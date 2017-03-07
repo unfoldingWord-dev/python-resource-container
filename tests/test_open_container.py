@@ -1,13 +1,19 @@
 import factory
 from unittest import TestCase
 import os
+import shutil
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data')
 
 class TestResourceContainer(TestCase):
 
+    def setUpClass(cls=None):
+        directory = os.path.join(DATA_DIR, 'new-rc')
+        if os.path.exists(directory):
+            shutil.rmtree(directory)
+
     def test_open_project(self):
-        dir = os.path.join(DATA_DIR, 'en-obs')
+        dir = os.path.join(DATA_DIR, 'existing-rc', 'en-obs')
         rc = factory.load(dir)
         project = rc.project()
         assert project['identifier'] == 'obs'
@@ -21,7 +27,7 @@ class TestResourceContainer(TestCase):
         assert rc.toc is None
 
     def test_write_and_remove_chunk(self):
-        dir = os.path.join(DATA_DIR, 'en-obs')
+        dir = os.path.join(DATA_DIR, 'existing-rc', 'en-obs')
         rc = factory.load(dir)
         my_chunk = 'this is a test'
         rc.write_chunk('test', 'test', my_chunk)
@@ -30,7 +36,8 @@ class TestResourceContainer(TestCase):
         assert rc.read_chunk('test', 'test') is None
 
     def test_create_resource_container(self):
-        container = factory.create('/Users/jeremymlane/Development/NeutrinoGraphics/projects/en-obs-test', {
+        dir = os.path.join(DATA_DIR, 'new-rc', 'en-obs')
+        container = factory.create(dir, {
             'dublin_core': {
                 'type': 'book',
                 'format': 'text/markdown',

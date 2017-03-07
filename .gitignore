@@ -90,3 +90,5 @@ ENV/
 
 #PyCharm
 .idea
+
+tests/data/new-rc
