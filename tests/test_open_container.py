@@ -272,6 +272,25 @@ class TestResourceContainer(TestCase):
                     'title': 'English'
                 },
                 'rights': 'CC BY-SA 4.0'
-            }
+            },
+            'checking': {
+                'checking_entity': [
+                    'Wycliffe Associates',
+                ],
+                'checking_level': '3'
+            },
+            'projects': [{
+                'identifier': 'gen',
+                'title': 'Genesis',
+                'versification': 'kjv',
+                'sort': 1,
+                'path': './gen',
+                'categories': [
+                    'bible-ot'
+                ]
+            }]
         })
         assert container.conforms_to == '0.2'
+        assert container.project_count == 1
+        assert container.manifest['checking']['checking_entity'][0] == 'Wycliffe Associates'
+        assert container.manifest['projects'][0]['identifier'] == 'gen'
