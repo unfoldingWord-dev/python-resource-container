@@ -8,6 +8,12 @@ A Resource Container (RC) is a modular/portable package of translation data.
 ```
 pip install -r requirements.txt
 ```
+If your system has multiple versions of python installed e.g. 2.7 and 3.+
+you'll need to run pip with the python version you'll be using.
+
+```
+python -m pip install -r requirements.txt
+```
 
 ## Requirements
 
