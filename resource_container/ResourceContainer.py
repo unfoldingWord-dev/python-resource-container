@@ -2,6 +2,7 @@ import os
 import yaml
 import codecs
 
+
 class RC:
     def __init__(self, directory):
         """
@@ -53,7 +54,10 @@ class RC:
 
     @property
     def conforms_to(self):
-        return self.manifest['dublin_core']['conformsto'].replace('rc', '') if type(self.manifest['dublin_core']['conformsto']) is str else None
+        if type(self.manifest['dublin_core']['conformsto']) is str:
+            return self.manifest['dublin_core']['conformsto'].replace('rc', '')
+        else:
+            return None
 
     @property
     def chunk_ext(self):

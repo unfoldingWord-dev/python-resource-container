@@ -19,10 +19,10 @@ python 3.+
 To get started you must first load an RC. Then you can read/write as needed.
 
 ```python
-from door43rc import rctool
+from resource_container import factory
 
 
-rc = rctool.load('/path/to/resource/container/dir')
+rc = factory.load('/path/to/resource/container/dir')
 
 # some attributes have dedicated properties
 print(rc.type)
@@ -63,7 +63,7 @@ If you need to look at an RC regardless of it's validity
 you can disable strict mode by passing in `False`.
 
 ```python
-rc = rctool.load('/invalid/rd/dir', False)
+rc = factory.load('/invalid/rd/dir', False)
 # do stuff with the invalid rc
 ```
 
@@ -80,6 +80,6 @@ manifest = {
     ...
 }
 
-rc = rctool.create('/my/rc/dir/', manifest)
+rc = factory.create('/my/rc/dir/', manifest)
 # do stuff with your new rc
 ```

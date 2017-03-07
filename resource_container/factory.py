@@ -1,8 +1,10 @@
-from .ResourceContainer import RC
 import os
 import yaml
 from general_tools.file_utils import write_file
+from .ResourceContainer import RC
+
 current_version = '0.2'
+
 
 def load(path, strict=True):
     """
@@ -89,10 +91,16 @@ def create(path, manifest):
     if 'rights' not in manifest['dublin_core']:
         raise Exception('Missing required key: dublin_core.rights')
 
+    if 'checking' not in manifest:
+        manifest['checking'] = {}
+
+    if 'projects' not in manifest:
+        manifest['projects'] = []
+
     opts = {
-        'dublin_core': defaults['dublin_core'].update(manifest['dublin_core']),
-        'checking': defaults['checking'].update(manifest['checking']),
-        'projects': defaults['projects'].update(manifest['projects'])
+        'dublin_core': {**defaults['dublin_core'], **manifest['dublin_core']},
+        'checking': {**defaults['checking'], **manifest['checking']},
+        'projects': defaults['projects'] + manifest['projects']
     }
 
     if not os.path.isdir(path):
