@@ -1,8 +1,10 @@
-from ResourceContainer import RC
 import os
 import yaml
 from general_tools.file_utils import write_file
+from .ResourceContainer import RC
+
 current_version = '0.2'
+
 
 def load(path, strict=True):
     """

@@ -2,6 +2,7 @@ import os
 import yaml
 import codecs
 
+
 class RC:
     def __init__(self, directory):
         """

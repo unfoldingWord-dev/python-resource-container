@@ -1,9 +1,10 @@
-import factory
-from unittest import TestCase
 import os
 import shutil
+from unittest import TestCase
+from resource_container import factory
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data')
+
 
 class TestResourceContainer(TestCase):
 
