@@ -1,4 +1,4 @@
-from .ResourceContainer import RC
+from ResourceContainer import RC
 import os
 import yaml
 from general_tools.file_utils import write_file
