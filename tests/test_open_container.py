@@ -1,4 +1,4 @@
-from lib import factory
+from .. import factory
 from unittest import TestCase
 import os
 
