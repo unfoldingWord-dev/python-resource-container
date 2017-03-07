@@ -8,7 +8,8 @@ DATA_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data')
 
 class TestResourceContainer(TestCase):
 
-    def setUpClass(cls=None):
+    @classmethod
+    def setUpClass(cls):
         directory = os.path.join(DATA_DIR, 'new-rc')
         if os.path.exists(directory):
             shutil.rmtree(directory)
