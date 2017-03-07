@@ -67,7 +67,7 @@ If you need to look at an RC regardless of it's validity
 you can disable strict mode by passing in `False`.
 
 ```python
-rc = factory.load('/invalid/rd/dir', False)
+rc = factory.load('/invalid/rc/dir', False)
 # do stuff with the invalid rc
 ```
 
