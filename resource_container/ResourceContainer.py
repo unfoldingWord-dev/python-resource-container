@@ -20,7 +20,7 @@ class RC:
         toc_path = os.path.join(directory, 'content', 'toc.yaml')
         self.toc = self.__read_yaml_file(toc_path)
 
-        if type(self.dir) is not str:
+        if type(self.dir) is not str and type(self.dir) is not unicode:
             raise Exception('Missing string parameter: dir')
 
     def __read_yaml_file(self, file):
