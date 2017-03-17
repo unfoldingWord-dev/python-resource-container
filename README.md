@@ -5,15 +5,25 @@ A utility for managing Door43 Resource Containers. This follows the specificatio
 A Resource Container (RC) is a modular/portable package of translation data.
 
 ## Installation
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
+If your system has multiple versions of python installed e.g. 2.7 and 3.+
+you'll need to run pip with the python version you'll be using.
+
+```
+python -m pip install -r requirements.txt
+```
 
 ## Requirements
 
-python 3.+
+python 2.7+
 
 ## Running Tests
 
-```python -m unittest discover -s tests```
+```
+python -m unittest discover -s tests
+```
 
 ## Usage
 To get started you must first load an RC. Then you can read/write as needed.
@@ -63,7 +73,7 @@ If you need to look at an RC regardless of it's validity
 you can disable strict mode by passing in `False`.
 
 ```python
-rc = factory.load('/invalid/rd/dir', False)
+rc = factory.load('/invalid/rc/dir', False)
 # do stuff with the invalid rc
 ```
 
