@@ -1,6 +1,7 @@
 import os
 import yaml
 import codecs
+from general_tools.file_utils import write_file
 
 
 class RC:
@@ -19,7 +20,7 @@ class RC:
         toc_path = os.path.join(directory, 'content', 'toc.yaml')
         self.toc = self.__read_yaml_file(toc_path)
 
-        if type(self.dir) is not str:
+        if type(self.dir) is not str and type(self.dir) is not unicode:
             raise Exception('Missing string parameter: dir')
 
     def __read_yaml_file(self, file):
@@ -154,10 +155,8 @@ class RC:
 
         if not os.path.isdir(directory_path):
             os.makedirs(directory_path)
-        file = open(file_path, 'w')
-        file.write(content)
-        file.flush()
-        os.fsync(file)
+
+        write_file(file_path, content)
 
     def delete_chunk(self, project_identifier, chapter_identifier, chunk_identifier=None):
         if chunk_identifier is None:
