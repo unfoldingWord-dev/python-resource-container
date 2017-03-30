@@ -14,12 +14,6 @@ class RC:
         manifest_file = os.path.join(directory, 'manifest.yaml')
         self.manifest = self.__read_yaml_file(manifest_file)
 
-        config_path = os.path.join(directory, 'content', 'config.yaml')
-        self.config = self.__read_yaml_file(config_path)
-
-        toc_path = os.path.join(directory, 'content', 'toc.yaml')
-        self.toc = self.__read_yaml_file(toc_path)
-
         if type(self.dir) is not str and type(self.dir) is not unicode:
             raise Exception('Missing string parameter: dir')
 
@@ -91,6 +85,13 @@ class RC:
     def project_count(self):
         return len(self.manifest['projects'])
 
+    @property
+    def project_ids(self):
+        identifiers = []
+        for p in self.manifest['projects']:
+            identifiers.append(p['identifier'])
+        return identifiers
+
     def chapters(self, identifier=None):
         """
         Returns an array of chapters in this resource container.
@@ -139,7 +140,7 @@ class RC:
             contents = None
         return contents
 
-    def write_chunk(self, project_identifier, chapter_identifier, chunk_identifier, content=None):
+    def write_chunk(self, project_identifier, chapter_identifier, chunk_identifier=None, content=None):
         if content is None:
             content = chunk_identifier
             chunk_identifier = chapter_identifier
@@ -150,24 +151,64 @@ class RC:
         if p is None:
             return
 
-        directory_path = os.path.join(self.dir, p['path'], chapter_identifier)
-        file_path = os.path.join(directory_path, chunk_identifier + '.' + self.chunk_ext)
+        # We need to remove the chunk if no content is specified.
+        if content == '':
+            file_path = os.path.join(self.dir, p['path'], chapter_identifier, chunk_identifier + '.' + self.chunk_ext)
+            if os.access(file_path, os.R_OK):
+                os.remove(file_path)
+        else:
+            directory_path = os.path.join(self.dir, p['path'], chapter_identifier)
+            file_path = os.path.join(directory_path, chunk_identifier + '.' + self.chunk_ext)
 
-        if not os.path.isdir(directory_path):
-            os.makedirs(directory_path)
+            if not os.path.isdir(directory_path):
+                os.makedirs(directory_path)
 
-        write_file(file_path, content)
+            write_file(file_path, content)
 
-    def delete_chunk(self, project_identifier, chapter_identifier, chunk_identifier=None):
-        if chunk_identifier is None:
-            chunk_identifier = chapter_identifier
-            chapter_identifier = project_identifier
+    def write_toc(self, project_identifier, content=None):
+        if content is None:
+            content = project_identifier
             project_identifier = None
 
         p = self.project(project_identifier)
         if p is None:
             return
 
-        file_path = os.path.join(self.dir, p['path'], chapter_identifier, chunk_identifier + '.' + self.chunk_ext)
-        if os.access(file_path, os.R_OK):
-            os.remove(file_path)
+        file_path = os.path.join(self.dir, p['path'], 'toc.yaml')
+        if content == '':
+            if os.access(file_path, os.R_OK):
+                os.remove(file_path)
+        else:
+            write_file(file_path, yaml.dump(content, default_flow_style=False))
+
+    def write_config(self, project_identifier, content=None):
+        if content is None:
+            content = project_identifier
+            project_identifier = None
+
+        p = self.project(project_identifier)
+        if p is None:
+            return
+
+        file_path = os.path.join(self.dir, p['path'], 'config.yaml')
+        if content == '':
+            if os.access(file_path, os.R_OK):
+                os.remove(file_path)
+        else:
+            write_file(file_path, yaml.dump(content, default_flow_style=False))
+
+    def config(self, project_identifier=None):
+        p = self.project(project_identifier)
+        if p is None:
+            return None
+
+        file_path = os.path.join(self.dir, p['path'], 'config.yaml')
+        return self.__read_yaml_file(file_path)
+
+    def toc(self, project_identifier=None):
+        p = self.project(project_identifier)
+        if p is None:
+            return None
+
+        file_path = os.path.join(self.dir, p['path'], 'toc.yaml')
+        return self.__read_yaml_file(file_path)
