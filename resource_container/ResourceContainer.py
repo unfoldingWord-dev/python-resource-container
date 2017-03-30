@@ -140,7 +140,7 @@ class RC:
             contents = None
         return contents
 
-    def write_chunk(self, project_identifier, chapter_identifier, chunk_identifier=None, content=None):
+    def write_chunk(self, project_identifier, chapter_identifier, chunk_identifier, content=None):
         if content is None:
             content = chunk_identifier
             chunk_identifier = chapter_identifier
