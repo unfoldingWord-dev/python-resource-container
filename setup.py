@@ -9,7 +9,6 @@ setup(name='resource_container',
       license='MIT',
       packages=['resource_container'],
       install_requires=[
-            'yaml',
             'uw_tools'
       ],
       zip_safe=False)
