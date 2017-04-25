@@ -247,8 +247,8 @@ class TestResourceContainer(TestCase):
         assert rc.chunks('01') == ['01.md']
         assert rc.read_chunk('01', '01').split('\n', 1)[0] == '# 1. The Creation'
         assert rc.type == 'book'
-        assert rc.config['content']['10']['10']['dict'][0] == '/en/tw/bible/god'
-        assert rc.toc is None
+        assert rc.config()['content']['10']['10']['dict'][0] == '/en/tw/bible/god'
+        assert rc.toc() is None
 
     def test_write_and_remove_chunk(self):
         dir = os.path.join(DATA_DIR, 'existing-rc', 'en-obs')
@@ -256,7 +256,7 @@ class TestResourceContainer(TestCase):
         my_chunk = 'this is a test'
         rc.write_chunk('test', 'test', my_chunk)
         assert rc.read_chunk('test', 'test') == my_chunk
-        rc.delete_chunk('test', 'test')
+        rc.write_chunk('test', 'test', '')
         assert rc.read_chunk('test', 'test') is None
 
     def test_create_resource_container(self):
@@ -294,3 +294,80 @@ class TestResourceContainer(TestCase):
         assert container.project_count == 1
         assert container.manifest['checking']['checking_entity'][0] == 'Wycliffe Associates'
         assert container.manifest['projects'][0]['identifier'] == 'gen'
+
+    def test_writing_and_removing_toc_file(self):
+        directory = os.path.join(DATA_DIR, 'temp', 'toc-rc', 'en-obs')
+        make_rc(directory, False)
+        rc = factory.load(directory)
+
+        toc = {
+            'title': 'My Title',
+            'sub-title': 'My sub-title',
+            'link': 'my-link',
+            'sections': []
+        }
+        rc.write_toc(toc)
+        written_toc = rc.toc()
+        assert written_toc['title'] == 'My Title'
+
+        # Remove the toc
+        rc.write_toc('')
+        assert rc.toc() is None
+
+        directory = os.path.join(DATA_DIR, 'temp', 'toc-rc-multi', 'en-obs')
+        make_rc(directory, True)
+        rc = factory.load(directory)
+
+        rc.write_toc('gen', toc)
+
+        written_toc = rc.toc('gen')
+        assert written_toc['title'] == 'My Title'
+
+        # Remove the toc
+        rc.write_toc('gen', '')
+        assert rc.toc('gen') is None
+
+    def test_writing_and_removing_config_file(self):
+        directory = os.path.join(DATA_DIR, 'temp', 'config-rc', 'en-obs')
+        make_rc(directory, False)
+        rc = factory.load(directory)
+
+        config = {
+            'content': {
+                '01': {
+                    '01': {
+                        'dict': [
+                            '//tw/bible/dict/creation',
+                            '//tw/bible/dict/god'
+                        ]
+                    }
+                }
+            }
+        }
+        rc.write_config(config)
+        written_config = rc.config()
+        assert written_config['content']['01']['01']['dict'][1] == '//tw/bible/dict/god'
+
+        # Remove the config
+        rc.write_config('')
+        assert rc.config() is None
+
+        directory = os.path.join(DATA_DIR, 'temp', 'config-rc-multi', 'en-obs')
+        make_rc(directory, True)
+        rc = factory.load(directory)
+
+        rc.write_config('gen', config)
+
+        written_config = rc.config('gen')
+        assert written_config['content']['01']['01']['dict'][1] == '//tw/bible/dict/god'
+
+        # Remove the toc
+        rc.write_config('gen', '')
+        assert rc.config('gen') is None
+
+    def test_project_ids_property(self):
+        directory = os.path.join(DATA_DIR, 'temp', 'project-ids-rc', 'en-obs')
+        make_rc(directory, True)
+        rc = factory.load(directory)
+        assert rc.project_ids[0] == 'gen'
+        assert rc.project_ids[1] == 'exo'
