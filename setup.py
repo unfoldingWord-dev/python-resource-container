@@ -8,4 +8,8 @@ setup(name='resource_container',
       author_email='joel@neutrinographics.com',
       license='MIT',
       packages=['resource_container'],
+      install_requires=[
+            'yaml',
+            'uw_tools'
+      ],
       zip_safe=False)
