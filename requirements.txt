@@ -1,3 +1,3 @@
+yaml
 pytest
-pyyaml
 uw_tools
