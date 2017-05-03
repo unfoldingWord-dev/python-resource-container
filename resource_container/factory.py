@@ -15,6 +15,7 @@ def load(path, strict=True):
     :param strict: default is true. When false the RC will not be validated.
     :return: the loaded resource container
     """
+    path = os.path.expanduser(path)
     rc = RC(path)
 
     if strict is False:
@@ -42,6 +43,7 @@ def create(path, manifest):
     :param manifest:  the manifest that will be injected into the RC
     :return: the newly created resource contianer
     """
+    path = os.path.expanduser(path)
     if os.path.isdir(path):
         raise Exception('Resource container already exists')
 
