@@ -8,15 +8,13 @@ install:
 - pip install -r requirements.txt
 - pip install -r test_requirements.txt
 - pip install coveralls
-script:
-  coverage run --source=resource_container setup.py test
-after_success:
-  coveralls
+script: coverage run --source=resource_container setup.py test
+after_success: coveralls
 deploy:
   provider: pypi
   user: neutrinog
-  password:
-    secure: sqBYW61yvGApUb79YUQ0AJ028olyJt1jGUOaHeZo9POopxgjhUzNNcoDn7JacqtcihGpcMHkpILHWFTMmGxYUQpnPdtB8crTxGoU0aNAQ5hsV5eg/Eay8eWlaKTmoIFvDcKJPbowZFx1wI1WrHrxlfaBtpU3aPl0dV3i2LgZP05dWBEjDuQ6NMx2QlRJkwwmVwLTvnxUcloKEqcNOs09xQjfOZjkZTk9xlkCzoQnaiUBXxYhA8YMxYVVPT7Nrrvlt0b/Qb1pL7FM21qleIwKT5rCiDvu+Dy0rqw5B+HtkVVsnwlkrUyqq1Y/WnrNMyBNCnlwfC6ytirsI/Q2DFNDrQ+z/+CE3HqcZEJw0QYSovYlpSOFHyr0iqnApl3ubQT9U5JLwuFNcr8wkgc1m13S85qTFEtpAPPZDsXrbBGQTsCmZvqFSsHtTp/dRdlxPR/2YbE/AzDYDdazlnR//UYZen/towXK7FEISKeS8Gzq3p1H7MQnuu4GXM8zHoGXHZPV65Zafx8RebCWN3ogliYdA3GxmmScAhJdd0q+K0A+KCicZJbwJh09dUqXfu6z95bO85rCaW2B6PWYo3adGlNxMfr+t7FnbNdMECstHZX08hnZPIqC3QCSEc4L2AiWeQsLzpYuUYQ9oS2fsObbGn4RpQpVyJ/K9ze5uDO6XvI7FPQ=
   on:
     tags: true
-  distributions: "sdist bdist_wheel"
+  distributions: sdist bdist_wheel
+  password:
+    secure: D+c14A5raGvmlGrRKRuvpwVEQLJjRJPKvqMJRWZ+VPHXrEgBzjDpP9c/sM/ZZqlqPPulj/KtYsAQuXBpBeKJEZmO/p8GU5nSHYhl+K2tG6OhUa0MLTQBS1gXcb48mcLACTTP+Rr/adss+pnqhnexDJ8ze6mRBKF79YZFFEz9yPPItTpeLfL1MToJXisIB/E6FU8MNzx3ye61dkLZVT6zuB7ua/h3XvxrTqA707gUGeijYkL3G4URoaX4bBUeAyyI97HwWzZzQILnkMd6/m9YF5hU3cUr4FvLulrbJToWaX1uIzcgaLYkEkqNwRslqrc0QSDzihszc55+IWO/Qz5tYQPFssAPwmlihUQsOf+WchnA3siK4hw19mUy3vhAmQLuidJfTbY2MuXjZK21wTd5Vyix+olgwEaXpk5RaWp7SKbwIe4jaWK5TxKB18WHbrpjafWuuOgM2Qe2prsbUpTcOAqJFBjYLKL1QejNydiYCmY0GzUI+nLNK4LFG1/Es4QtZbmMwlsO5CVjKSP2pJGCEorLLVBazQ8uM3ZlVAEsw2F18oHNBvvWcZMR+sYApefbU77Kbvh6I7XTcMy8PcoCIl7wJbQW2obvVnU24LXtacHcl9/yCIsbPrissC7yxkG/ckg8TlcmBViQzSBFFlB22RvC8Hk26xu93HPtl+VU1h0=
