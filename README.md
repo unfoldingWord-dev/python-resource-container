@@ -1,3 +1,5 @@
+Master: [![Build Status](https://travis-ci.org/unfoldingWord-dev/python-resource-container.svg?branch=master)](https://travis-ci.org/unfoldingWord-dev/python-resource-container)
+
 # python-resource-container
 A utility for managing Door43 Resource Containers. This follows the specification at http://resource-container.readthedocs.io/en/v0.2/.
 
@@ -6,24 +8,12 @@ A Resource Container (RC) is a modular/portable package of translation data.
 
 ## Installation
 ```
-pip install -r requirements.txt
-```
-If your system has multiple versions of python installed e.g. 2.7 and 3.+
-you'll need to run pip with the python version you'll be using.
-
-```
-python -m pip install -r requirements.txt
+pip install resource_container
 ```
 
 ## Requirements
 
 python 2.7+
-
-## Running Tests
-
-```
-python -m unittest discover -s tests
-```
 
 ## Usage
 To get started you must first load an RC. Then you can read/write as needed.
