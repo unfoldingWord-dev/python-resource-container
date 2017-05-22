@@ -7,7 +7,7 @@ with open(path.join(here, "README.md"), "r") as f:
     long_description = f.read()
 
 setup(name='resource_container',
-      version='0.1',
+      version='1.0',
       description='A utility for managing Door43 Resource Containers',
       long_description=long_description,
       url='https://github.com/unfoldingWord-dev/python-resource-container',
