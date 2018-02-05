@@ -106,8 +106,10 @@ class RC:
             return []
         else:
             directory = os.path.join(self.dir, p['path'])
-            for root, dirs, files in os.walk(directory):
-                return dirs
+            files = os.listdir(directory)
+            if 'config.yaml' in files:
+                files.remove('config.yaml')
+            return files
 
     def chunks(self, project_identifier, chapter_identifier=None):
         if chapter_identifier is None:
@@ -119,8 +121,7 @@ class RC:
             return []
 
         directory = os.path.join(self.dir, p['path'], chapter_identifier)
-        for root, dirs, files in os.walk(directory):
-            return files
+        return os.listdir(directory)
 
     def read_chunk(self, project_identifier, chapter_identifier, chunk_identifier=None):
         if chunk_identifier is None:
